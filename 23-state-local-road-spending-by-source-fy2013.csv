@@ -1,53 +1,53 @@
-id,stateAbbr,stateName,tollsAndUserFees,gasolineAndLicenseTaxes
-0,US,United States,0.111,0.414
-1,AL,Alabama,0.014,0.351
-2,AK,Alaska,0.054,0.088
-4,AZ,Arizona,0.008,0.431
-5,AR,Arkansas,0.007,0.395
-6,CA,California,0.074,0.467
-8,CO,Colorado,0.065,0.448
-9,CT,Connecticut,0.039,0.411
-10,DE,Delaware,0.406,0.221
-11,DC,District of Columbia,0.063,0.224
-12,FL,Florida,0.197,0.525
-13,GA,Georgia,0.018,0.433
-15,HI,Hawaii,0.053,0.744
-16,ID,Idaho,0.042,0.439
-17,IL,Illinois,0.143,0.415
-18,IN,Indiana,0.006,0.479
-19,IA,Iowa,0.014,0.455
-20,KS,Kansas,0.057,0.369
-21,KY,Kentucky,0.011,0.394
-22,LA,Louisiana,0.024,0.275
-23,ME,Maine,0.143,0.38
-24,MD,Maryland,0.22,0.41
-25,MA,Massachusetts,0.19,0.367
-26,MI,Michigan,0.063,0.555
-27,MN,Minnesota,0.033,0.401
-28,MS,Mississippi,0.002,0.348
-29,MO,Missouri,0.022,0.366
-30,MT,Montana,0.026,0.414
-31,NE,Nebraska,0.043,0.371
-32,NV,Nevada,0.013,0.424
-33,NH,New Hampshire,0.227,0.297
-34,NJ,New Jersey,0.472,0.264
-35,NM,New Mexico,0.02,0.376
-36,NY,New York,0.384,0.315
-37,NC,North Carolina,0.013,0.633
-38,ND,North Dakota,0.022,0.241
-39,OH,Ohio,0.066,0.474
-40,OK,Oklahoma,0.11,0.486
-41,OR,Oregon,0.069,0.58
-42,PA,Pennsylvania,0.148,0.326
-44,RI,Rhode Island,0.05,0.389
-45,SC,South Carolina,0.076,0.622
-46,SD,South Dakota,0.015,0.235
-47,TN,Tennessee,0.003,0.516
-48,TX,Texas,0.112,0.432
-49,UT,Utah,0.032,0.42
-50,VT,Vermont,0.011,0.243
-51,VA,Virginia,0.07,0.378
-53,WA,Washington,0.103,0.418
-54,WV,West Virginia,0.09,0.345
-55,WI,Wisconsin,0.059,0.366
-56,WY,Wyoming,0.014,0.243
+id,stateAbbr,stateName,gasolineAndLicenseTaxes,rank,tollsAndUserFees,"Total, Tolls, User Fees AND User Taxes",Rank
+0,US,United States,0.414,,0.111,0.525,
+1,AL,Alabama,0.351,37,0.014,0.365,43
+2,AK,Alaska,0.088,50,0.054,0.143,50
+4,AZ,Arizona,0.431,17,0.008,0.438,32
+5,AR,Arkansas,0.395,26,0.007,0.401,40
+6,CA,California,0.467,11,0.074,0.541,15
+8,CO,Colorado,0.448,13,0.065,0.513,21
+9,CT,Connecticut,0.411,23,0.039,0.449,28
+10,DE,Delaware,0.221,49,0.406,0.627,9
+11,DC,District of Columbia,0.224,(49),0.063,0.287,(46)
+12,FL,Florida,0.525,6,0.197,0.721,3
+13,GA,Georgia,0.433,15,0.018,0.451,27
+15,HI,Hawaii,0.744,1,0.053,0.798,1
+16,ID,Idaho,0.439,14,0.042,0.481,23
+17,IL,Illinois,0.415,21,0.143,0.558,12
+18,IN,Indiana,0.479,9,0.006,0.485,22
+19,IA,Iowa,0.455,12,0.014,0.469,25
+20,KS,Kansas,0.369,33,0.057,0.426,36
+21,KY,Kentucky,0.394,27,0.011,0.405,39
+22,LA,Louisiana,0.275,43,0.024,0.299,45
+23,ME,Maine,0.38,29,0.143,0.522,18
+24,MD,Maryland,0.41,24,0.22,0.63,8
+25,MA,Massachusetts,0.367,34,0.19,0.557,13
+26,MI,Michigan,0.555,5,0.063,0.618,10
+27,MN,Minnesota,0.401,25,0.033,0.434,34
+28,MS,Mississippi,0.348,38,0.002,0.349,44
+29,MO,Missouri,0.366,35,0.022,0.388,42
+30,MT,Montana,0.414,22,0.026,0.44,30
+31,NE,Nebraska,0.371,32,0.043,0.414,38
+32,NV,Nevada,0.424,18,0.013,0.437,33
+33,NH,New Hampshire,0.297,42,0.227,0.523,17
+34,NJ,New Jersey,0.264,44,0.472,0.736,2
+35,NM,New Mexico,0.376,31,0.02,0.396,41
+36,NY,New York,0.315,41,0.384,0.699,4
+37,NC,North Carolina,0.633,2,0.013,0.645,7
+38,ND,North Dakota,0.241,47,0.022,0.264,46
+39,OH,Ohio,0.474,10,0.066,0.539,16
+40,OK,Oklahoma,0.486,8,0.11,0.596,11
+41,OR,Oregon,0.58,4,0.069,0.649,6
+42,PA,Pennsylvania,0.326,40,0.148,0.474,24
+44,RI,Rhode Island,0.389,28,0.05,0.439,31
+45,SC,South Carolina,0.622,3,0.076,0.698,5
+46,SD,South Dakota,0.235,48,0.015,0.25,49
+47,TN,Tennessee,0.516,7,0.003,0.519,20
+48,TX,Texas,0.432,16,0.112,0.544,14
+49,UT,Utah,0.42,19,0.032,0.452,26
+50,VT,Vermont,0.243,45,0.011,0.254,48
+51,VA,Virginia,0.378,30,0.07,0.448,29
+53,WA,Washington,0.418,20,0.103,0.52,19
+54,WV,West Virginia,0.345,39,0.09,0.434,34
+55,WI,Wisconsin,0.366,35,0.059,0.425,37
+56,WY,Wyoming,0.243,45,0.014,0.258,47
