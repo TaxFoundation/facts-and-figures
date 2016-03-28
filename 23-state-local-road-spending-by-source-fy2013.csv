@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,gasolineAndLicenseTaxes,rank,tollsAndUserFees,"Total, Tolls, User Fees AND User Taxes",Rank
+id,stateAbbr,stateName,gasolineAndLicenseTaxes,gasolineAndLicenseTaxes rank,tollsAndUserFees,"Total, Tolls, User Fees AND User Taxes","Total, Tolls, User Fees AND User Taxes Rank"
 0,US,United States,0.414,,0.111,0.525,
 1,AL,Alabama,0.351,37,0.014,0.365,43
 2,AK,Alaska,0.088,50,0.054,0.143,50
