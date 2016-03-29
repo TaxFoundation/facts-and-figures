@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,exciseTax,otherTax,Total,TotalRank
+id,stateAbbr,stateName,exciseTax,otherTax,total,totalRank
 0,US,United States,0.184,0,,
 1,AL,Alabama,0.16,0.0487,0.2087,40
 2,AK,Alaska,0.0895,0.033,0.1225,50
