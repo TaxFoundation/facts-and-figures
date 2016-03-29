@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,collectionsPerCapita,rank
+id,stateAbbr,stateName,collectionsPerCapita,collectionsRank
 0,US,United States,4600,
 1,AL,Alabama,3048,50
 2,AK,Alaska,9211,1
@@ -8,7 +8,7 @@ id,stateAbbr,stateName,collectionsPerCapita,rank
 8,CO,Colorado,4339,23
 9,CT,Connecticut,7263,4
 10,DE,Delaware,4611,19
-11,DC,District of Columbia,9514,-1
+11,DC,District of Columbia,9514,(1)
 12,FL,Florida,3378,45
 13,GA,Georgia,3324,46
 15,HI,Hawaii,5708,8
