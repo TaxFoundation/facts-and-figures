@@ -1,53 +1,53 @@
-id,stateAbbr,stateName,collectionsPerCapita
-0,US,United States,168
-1,AL,Alabama,79
-2,AK,Alaska,856
-4,AZ,Arizona,100
-5,AR,Arkansas,136
-6,CA,California,194
-8,CO,Colorado,124
-9,CT,Connecticut,159
-10,DE,Delaware,341
-11,DC,District of Columbia,698
-12,FL,Florida,106
-13,GA,Georgia,80
-15,HI,Hawaii,88
-16,ID,Idaho,124
-17,IL,Illinois,346
-18,IN,Indiana,119
-19,IA,Iowa,139
-20,KS,Kansas,133
-21,KY,Kentucky,175
-22,LA,Louisiana,55
-23,ME,Maine,129
-24,MD,Maryland,160
-25,MA,Massachusetts,281
-26,MI,Michigan,90
-27,MN,Minnesota,251
-28,MS,Mississippi,139
-29,MO,Missouri,75
-30,MT,Montana,169
-31,NE,Nebraska,147
-32,NV,Nevada,0
-33,NH,New Hampshire,418
-34,NJ,New Jersey,256
-35,NM,New Mexico,128
-36,NY,New York,591
-37,NC,North Carolina,131
-38,ND,North Dakota,312
-39,OH,Ohio,44
-40,OK,Oklahoma,152
-41,OR,Oregon,132
-42,PA,Pennsylvania,201
-44,RI,Rhode Island,137
-45,SC,South Carolina,81
-46,SD,South Dakota,44
-47,TN,Tennessee,193
-48,TX,Texas,0
-49,UT,Utah,114
-50,VT,Vermont,168
-51,VA,Virginia,93
-53,WA,Washington,0
-54,WV,West Virginia,131
-55,WI,Wisconsin,166
-56,WY,Wyoming,0
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
+0,US,United States,168,
+1,AL,Alabama,79,42
+2,AK,Alaska,856,1
+4,AZ,Arizona,100,36
+5,AR,Arkansas,136,24
+6,CA,California,194,11
+8,CO,Colorado,124,31
+9,CT,Connecticut,159,18
+10,DE,Delaware,341,5
+11,DC,District of Columbia,698,(2)
+12,FL,Florida,106,35
+13,GA,Georgia,80,41
+15,HI,Hawaii,88,39
+16,ID,Idaho,124,31
+17,IL,Illinois,346,4
+18,IN,Indiana,119,33
+19,IA,Iowa,139,21
+20,KS,Kansas,133,25
+21,KY,Kentucky,175,13
+22,LA,Louisiana,55,44
+23,ME,Maine,129,29
+24,MD,Maryland,160,17
+25,MA,Massachusetts,281,7
+26,MI,Michigan,90,38
+27,MN,Minnesota,251,9
+28,MS,Mississippi,139,21
+29,MO,Missouri,75,43
+30,MT,Montana,169,14
+31,NE,Nebraska,147,20
+32,NV,Nevada,0,--
+33,NH,New Hampshire,418,3
+34,NJ,New Jersey,256,8
+35,NM,New Mexico,128,30
+36,NY,New York,591,2
+37,NC,North Carolina,131,27
+38,ND,North Dakota,312,6
+39,OH,Ohio,44,45
+40,OK,Oklahoma,152,19
+41,OR,Oregon,132,26
+42,PA,Pennsylvania,201,10
+44,RI,Rhode Island,137,23
+45,SC,South Carolina,81,40
+46,SD,South Dakota,44,45
+47,TN,Tennessee,193,12
+48,TX,Texas,0,--
+49,UT,Utah,114,34
+50,VT,Vermont,168,15
+51,VA,Virginia,93,37
+53,WA,Washington,0,--
+54,WV,West Virginia,131,27
+55,WI,Wisconsin,166,16
+56,WY,Wyoming,0,--

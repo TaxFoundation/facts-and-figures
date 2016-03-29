@@ -1,53 +1,53 @@
-id,stateAbbr,stateName,incomePerCapita
-0,US,United States,46049
-1,AL,Alabama,37512
-2,AK,Alaska,54012
-4,AZ,Arizona,37895
-5,AR,Arkansas,37782
-6,CA,California,49985
-8,CO,Colorado,48869
-9,CT,Connecticut,64864
-10,DE,Delaware,46378
-11,DC,District of Columbia,69838
-12,FL,Florida,42737
-13,GA,Georgia,38980
-15,HI,Hawaii,46034
-16,ID,Idaho,36734
-17,IL,Illinois,47643
-18,IN,Indiana,39578
-19,IA,Iowa,44937
-20,KS,Kansas,44891
-21,KY,Kentucky,37396
-22,LA,Louisiana,42030
-23,ME,Maine,40745
-24,MD,Maryland,54176
-25,MA,Massachusetts,58737
-26,MI,Michigan,40740
-27,MN,Minnesota,48998
-28,MS,Mississippi,34431
-29,MO,Missouri,41639
-30,MT,Montana,39903
-31,NE,Nebraska,47557
-32,NV,Nevada,40742
-33,NH,New Hampshire,52773
-34,NJ,New Jersey,57620
-35,NM,New Mexico,37091
-36,NY,New York,55611
-37,NC,North Carolina,39171
-38,ND,North Dakota,55802
-39,OH,Ohio,42236
-40,OK,Oklahoma,43637
-41,OR,Oregon,41220
-42,PA,Pennsylvania,47679
-44,RI,Rhode Island,48359
-45,SC,South Carolina,36677
-46,SD,South Dakota,45279
-47,TN,Tennessee,40457
-48,TX,Texas,45669
-49,UT,Utah,37664
-50,VT,Vermont,46428
-51,VA,Virginia,50345
-53,WA,Washington,49610
-54,WV,West Virginia,36132
-55,WI,Wisconsin,44186
-56,WY,Wyoming,54584
+id,stateAbbr,stateName,incomePerCapita,incomepercapitarank
+0,US,United States,46049,
+1,AL,Alabama,37512,44
+2,AK,Alaska,54012,8
+4,AZ,Arizona,37895,41
+5,AR,Arkansas,37782,42
+6,CA,California,49985,11
+8,CO,Colorado,48869,14
+9,CT,Connecticut,64864,1
+10,DE,Delaware,46378,20
+11,DC,District of Columbia,69838,(1)
+12,FL,Florida,42737,28
+13,GA,Georgia,38980,40
+15,HI,Hawaii,46034,21
+16,ID,Idaho,36734,47
+17,IL,Illinois,47643,17
+18,IN,Indiana,39578,38
+19,IA,Iowa,44937,24
+20,KS,Kansas,44891,25
+21,KY,Kentucky,37396,45
+22,LA,Louisiana,42030,30
+23,ME,Maine,40745,33
+24,MD,Maryland,54176,7
+25,MA,Massachusetts,58737,2
+26,MI,Michigan,40740,35
+27,MN,Minnesota,48998,13
+28,MS,Mississippi,34431,50
+29,MO,Missouri,41639,31
+30,MT,Montana,39903,37
+31,NE,Nebraska,47557,18
+32,NV,Nevada,40742,34
+33,NH,New Hampshire,52773,9
+34,NJ,New Jersey,57620,3
+35,NM,New Mexico,37091,46
+36,NY,New York,55611,5
+37,NC,North Carolina,39171,39
+38,ND,North Dakota,55802,4
+39,OH,Ohio,42236,29
+40,OK,Oklahoma,43637,27
+41,OR,Oregon,41220,32
+42,PA,Pennsylvania,47679,16
+44,RI,Rhode Island,48359,15
+45,SC,South Carolina,36677,48
+46,SD,South Dakota,45279,23
+47,TN,Tennessee,40457,36
+48,TX,Texas,45669,22
+49,UT,Utah,37664,43
+50,VT,Vermont,46428,19
+51,VA,Virginia,50345,10
+53,WA,Washington,49610,12
+54,WV,West Virginia,36132,49
+55,WI,Wisconsin,44186,26
+56,WY,Wyoming,54584,6
