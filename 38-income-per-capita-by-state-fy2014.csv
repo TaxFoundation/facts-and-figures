@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,incomePerCapita,incomepercapitarank
+id,stateAbbr,stateName,incomePerCapita,incomePerCapitaRank
 0,US,United States,46049,
 1,AL,Alabama,37512,44
 2,AK,Alaska,54012,8

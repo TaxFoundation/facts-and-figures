@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,taxPerGallon,taxpergallonrank
+id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
 0,US,United States,13.5,
 1,AL,Alabama,18.25,4
 2,AK,Alaska,12.8,5

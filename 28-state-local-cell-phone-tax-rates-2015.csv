@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,averageCellTaxRate,taxraterank
+id,stateAbbr,stateName,averageCellTaxRate,averageCellTaxRateRank
 0,US,United States,0.0646,
 1,AL,Alabama,0.0975,26
 2,AK,Alaska,0.1269,13

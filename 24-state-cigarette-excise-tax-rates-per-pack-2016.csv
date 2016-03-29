@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,taxPerPack,taxraterank
+id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 0,US,United States,1.01,
 1,AL,Alabama,0.68,38
 2,AK,Alaska,2,11
