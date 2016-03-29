@@ -1,0 +1,53 @@
+id,location,abbreviation
+0,United States,U.S.
+1,Alabama,Ala.
+2,Alaska,Alaska
+4,Arizona,Ariz.
+5,Arkansas,Ark.
+6,California,Calif.
+8,Colorado,Colo.
+9,Connecticut,Conn.
+10,Delaware,Del.
+11,District of Columbia,D.C.
+12,Florida,Fla.
+13,Georgia,Ga.
+15,Hawaii,Hawaii
+16,Idaho,Idaho
+17,Illinois,Ill.
+18,Indiana,Ind.
+19,Iowa,Iowa
+20,Kansas,Kans.
+21,Kentucky,Ky.
+22,Louisiana,La.
+23,Maine,Maine
+24,Maryland,Md.
+25,Massachusetts,Mass.
+26,Michigan,Mich.
+27,Minnesota,Minn.
+28,Mississippi,Miss.
+29,Missouri,Mo.
+30,Montana,Mont.
+31,Nebraska,Nebr.
+32,Nevada,Nev.
+33,New Hampshire,N.H.
+34,New Jersey,N.J.
+35,New Mexico,N.M.
+36,New York,N.Y.
+37,North Carolina,N.C.
+38,North Dakota,N.D.
+39,Ohio,Ohio
+40,Oklahoma,Okla.
+41,Oregon,Ore.
+42,Pennsylvania,Pa. 
+44,Rhode Island,R.I.
+45,South Carolina,S.C.
+46,South Dakota,S.D.
+47,Tennessee,Tenn.
+48,Texas,Tex.
+49,Utah,Utah
+50,Vermont,Vt.
+51,Virginia,Va.
+53,Washington,Wash.
+54,West Virginia,WV.
+55,Wisconsin,Wis.
+56,Wyoming,Wyo.
