@@ -2,7 +2,7 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 1,AL,Alabama,0.02,0,500
 1,AL,Alabama,0.04,500,3000
 1,AL,Alabama,0.05,3000,
-2,AK,Alaska,0,0,
+2,AK,Alaska,None,,
 4,AZ,Arizona,0.0259,0,10000
 4,AZ,Arizona,0.0288,10000,25000
 4,AZ,Arizona,0.0336,25000,50000
@@ -43,7 +43,7 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 11,DC,District of Columbia,0.07,40000,60000
 11,DC,District of Columbia,0.085,60000,350000
 11,DC,District of Columbia,0.0895,350000,
-12,FL,Florida,0,0,
+12,FL,Florida,None,,
 13,GA,Georgia,0.01,0,750
 13,GA,Georgia,0.02,750,2250
 13,GA,Georgia,0.03,2250,3750
@@ -183,9 +183,9 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 45,SC,South Carolina,0.05,8760,11680
 45,SC,South Carolina,0.06,11680,14600
 45,SC,South Carolina,0.07,14600,
-46,SD,South Dakota,0,0,
+46,SD,South Dakota,None,,
 47,TN,Tennessee,0.06,0,
-48,TX,Texas,0,0,
+48,TX,Texas,None,,
 49,UT,Utah,0.05,0,
 50,VT,Vermont,0.0355,0,39900
 50,VT,Vermont,0.068,39900,93400
@@ -196,7 +196,7 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 51,VA,Virginia,0.03,3000,5000
 51,VA,Virginia,0.05,5000,17000
 51,VA,Virginia,0.0575,17000,
-53,WA,Washington,0,0,
+53,WA,Washington,None,,
 54,WV,West Virginia,0.03,0,10000
 54,WV,West Virginia,0.04,10000,25000
 54,WV,West Virginia,0.045,25000,40000
@@ -206,4 +206,4 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 55,WI,Wisconsin,0.0584,11150,22230
 55,WI,Wisconsin,0.0627,22230,244750
 55,WI,Wisconsin,0.0765,244750,
-56,WY,Wyoming,0,0,
+56,WY,Wyoming,None,,

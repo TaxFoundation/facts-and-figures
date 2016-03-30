@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,federalAidPercentage,federalAidPercentage
+id,stateAbbr,stateName,federalAidPercentage,federalAidPercentageRank
 0,US,United States,0.3003,
 1,AL,Alabama,0.3615,9
 2,AK,Alaska,0.2237,48

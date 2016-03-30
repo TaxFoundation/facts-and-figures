@@ -1,12 +1,12 @@
 id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroceries,sodaTreatedAsGroceries
 1,AL,Alabama,0.04,Included in Base,Yes,Yes
-2,AK,Alaska,0,0,0,0
+2,AK,Alaska,0,--,--,--
 4,AZ,Arizona,0.056,Exempt,Yes,Yes
 5,AR,Arkansas,0.065,0.015,Yes,Yes
 6,CA,California,0.075,Exempt,Yes,No
 8,CO,Colorado,0.029,Exempt,No,No
 9,CT,Connecticut,0.0635,Exempt,No,No
-10,DE,Delaware,0,0,0,0
+10,DE,Delaware,0,--,--,--
 12,FL,Florida,0.06,Exempt,No,No
 13,GA,Georgia,0.04,Exempt,Yes,Yes
 15,HI,Hawaii,0.04,Included in Base,Yes,Yes
@@ -24,7 +24,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 27,MN,Minnesota,0.06875,Exempt,No,No
 28,MS,Mississippi,0.07,Included in Base,Yes,Yes
 29,MO,Missouri,0.04225,0.01225,Yes,Yes
-30,MT,Montana,0,0,0,0
+30,MT,Montana,0,--,--,--
 31,NE,Nebraska,0.055,Exempt,Yes,Yes
 32,NV,Nevada,0.0685,Exempt,Yes,Yes
 33,NH,New Hampshire,0,0,0,0
@@ -35,7 +35,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 38,ND,North Dakota,0.05,Exempt,No,No
 39,OH,Ohio,0.0575,Exempt,Yes,No
 40,OK,Oklahoma,0.045,Included in Base,Yes,Yes
-41,OR,Oregon,0,0,0,0
+41,OR,Oregon,0,--,--,--
 42,PA,Pennsylvania,0.06,Exempt,Yes,No
 44,RI,Rhode Island,0.07,Exempt,No,No
 45,SC,South Carolina,0.06,Exempt,Yes,Yes
