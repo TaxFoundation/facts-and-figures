@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,debtPerCapita,debtpercapitarank
+id,stateAbbr,stateName,debtPerCapita,debtPerCapitaRank
 0,US,United States,9338,
 1,AL,Alabama,6546,37
 2,AK,Alaska,13039,3

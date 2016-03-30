@@ -1,4 +1,4 @@
-id,location,year,burden,totalTaxBurdenPerCapita,
+id,location,year,burden,totalTaxBurdenPerCapita,totalTaxBurdenPerCapitaRank
 0,United States,2012,0.099,4420,
 1,Alabama,2012,0.087,3067,37
 2,Alaska,2012,0.065,3229,50

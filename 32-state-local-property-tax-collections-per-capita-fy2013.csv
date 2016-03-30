@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,collectionsPerCapita,CollectionsperCapitarank
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
 0,US,United States,1439,
 1,AL,Alabama,548,50
 2,AK,Alaska,1913,10
