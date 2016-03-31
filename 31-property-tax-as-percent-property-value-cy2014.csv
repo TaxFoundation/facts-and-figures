@@ -1,4 +1,4 @@
-id,stateAbbr,stateName,propTaxAsPercentPropValue,propTaxAsPercentPropValueRank
+id,stateAbbr,stateName,PropertyTaxAsAsPercentPropertyValue,propTaxAsPercentPropValueRank
 0,US,United States,0.012,
 1,AL,Alabama,0.004,49
 2,AK,Alaska,0.0101,20
