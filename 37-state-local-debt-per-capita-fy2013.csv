@@ -8,7 +8,7 @@ id,stateAbbr,stateName,debtPerCapita,debtPerCapitaRank
 8,CO,Colorado,10092,12
 9,CT,Connecticut,12058,4
 10,DE,Delaware,9005,16
-11,DC,District of Columbia,19104,(1)
+11,DC,District of Columbia,19104,1*
 12,FL,Florida,7473,31
 13,GA,Georgia,5573,43
 15,HI,Hawaii,10151,11

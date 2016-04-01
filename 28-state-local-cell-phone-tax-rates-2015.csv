@@ -8,7 +8,7 @@ id,stateAbbr,stateName,averageCellTaxRate,averageCellTaxRateRank
 8,CO,Colorado,0.1078,23
 9,CT,Connecticut,0.0744,40
 10,DE,Delaware,0.0629,46
-11,DC,District of Columbia,0.1163,(18)
+11,DC,District of Columbia,0.1163,18*
 12,FL,Florida,0.1466,7
 13,GA,Georgia,0.0922,28
 15,HI,Hawaii,0.0761,39

@@ -8,7 +8,7 @@ id,stateAbbr,stateName,incomePerCapita,incomePerCapitaRank
 8,CO,Colorado,48869,14
 9,CT,Connecticut,64864,1
 10,DE,Delaware,46378,20
-11,DC,District of Columbia,69838,(1)
+11,DC,District of Columbia,69838,1*
 12,FL,Florida,42737,28
 13,GA,Georgia,38980,40
 15,HI,Hawaii,46034,21
