@@ -8,7 +8,7 @@ id,stateAbbr,stateName,exciseTax,otherTax,total,totalRank
 8,CO,Colorado,0.22,0,0.22,37
 9,CT,Connecticut,0.25,0.1251,0.3751,6
 10,DE,Delaware,0.23,0,0.23,34
-11,DC,District of Columbia,0.235,0,0.235,(34)
+11,DC,District of Columbia,0.235,0,0.235,34*
 12,FL,Florida,0.04,0.3258,0.3658,7
 13,GA,Georgia,0.26,0.0502,0.3102,17
 15,HI,Hawaii,0.17,0.2535,0.4235,4
