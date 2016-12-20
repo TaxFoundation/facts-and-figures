@@ -8,7 +8,7 @@ Published [[whenever]].
 | --- | --- | --- | --- |
 | 1 | [Tax Freedom Day](#table01) | 2015 | `01-tax-freedom-day-2015.csv` |
 | 2 | [State Local Tax Burdens](#table02) | Fiscal Year 2012 | `02-state-local-tax-burden.csv` |
-| 3 | [State Business Tax Climate Index](#table03) | 2015-07-01 | `03-state-business-tax-climate-index-2016.csv` |
+| 3 | [State Business Tax Climate Index](#table03) | 2016-07-01 | `03-state-business-tax-climate-index-2017.csv` |
 | 4 | [State Tax Collections Per Capita](#table04) | Fiscal Year 2014 | `04-state-tax-collections-per-capita-fy2014.csv` |
 | 5 | [State Revenue Per Capita](#table05) | Fiscal Year 2013 | `05-state-revenue-per-capita-fy2013.csv` |
 | 6 | [State and Local Tax Collections Per Capita](#table06) | Fiscal Year 2013 | `06-state-local-collections-per-capita-fy2013.csv` |
