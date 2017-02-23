@@ -240,19 +240,19 @@ This table has not been included as part of the Tax Foundation data repository b
 
 | Income Percentile | Income Taxes Paid ($ millions) | Group's Share of Total AGI | Group's Share of Income Taxes | Average Tax Rate |
 | --- | --- | --- | --- | --- |
-| All Taxpayers | $1,184,978 | 100.0% | 100.0% | 12.5% |
-| Top 1% | $451,328 | 21.9% | 38.1% | 22.8% |
-| Top 5% | $698,543 | 36.8% | 58.9% | 21.0% |
-| Top 10% | $831,445 | 47.9% | 70.2% | 19.2% |
-| Top 25% | $1,024,046 | 69.3% | 86.4% | 16.4% |
-| Top 50% | $1,152,063 | 88.9% | 97.2% | 14.3% |
-| Bottom 50% | $32,915 | 11.1% | 2.8% | 3.3% |
+| All Taxpayers | $1,374,379 | 100.0% | 100.0% | 14.2% |
+| Top 1% | $542,640 | 20.6% | 39.5% | 27.2% |
+| Top 5% | $824,153 | 36.0% | 60.0% | 23.6% |
+| Top 10% | $974,124 | 47.2% | 70.9% | 21.3% |
+| Top 25% | $1,192,679 | 68.9% | 86.8% | 17.8% |
+| Top 50% | $1,336,637 | 88.7% | 97.3% | 15.5% |
+| Bottom 50% | $37,740 | 11.3% | 2.8% | 3.5% |
 
-There are 136,080,353 total federal income tax filers. Total Adjusted Gross Income (AGI) is $9,041,744,000,000. The top 1% of earners have AGI above $434;682; the top 5% have above $175,817; the top 10% have above $125,195; the top 25% have above $73,354; and the top 50% have above $36,055.
+There are 139,562,034 total federal income tax filers. Total Adjusted Gross Income (AGI) is $9,033,840,000,000. The top 1% of earners have AGI above $465,626; the top 5% have above $188,996; the top 10% have above $133,445; the top 25% have above $77,714; and the top 50% have above $38,173.
 
 #### Source
 
-Tax Foundation, Summary of Latest Federal Individual Income Tax Data, Tax Foundation Fiscal Fact No. 491 (Nov. 2015).
+Tax Foundation, "Summary of Latest Federal Individual Income Tax Data (2016 Update).
 
 ### <a id="table11"></a>Table 11. Selected Federal Tax Rates
 
@@ -264,28 +264,28 @@ These tables have not been included as part of the Tax Foundation data repositor
 | --- | --- |
 | Single |
 | 10% | $0 |
-| 15% | $9,275 |
-| 25% | $37,650 |
-| 28% | $91,150 |
-| 33% | $190,150 |
-| 35% | $413,350 |
-| 39.6% | $415,050 |
+| 15% | $9,325 |
+| 25% | $37,950 |
+| 28% | $91,900 |
+| 33% | $191,650 |
+| 35% | $416,700 |
+| 39.6% | $418,400 |
 | Married Filing Jointly |
 | 10% | $0 |
-| 15% | $18,550 |
-| 25% | $75,300 |
-| 28% | $151,900 |
-| 33% | $231,450 |
-| 35% | $413,350 |
-| 39.6% | $466,950 |
+| 15% | $18,650 |
+| 25% | $75,900 |
+| 28% | $153,100 |
+| 33% | $233,350 |
+| 35% | $416,700 |
+| 39.6% | $470,700 |
 | Head of Household |
 | 10% | $0 |
-| 15% | $13,250 |
-| 25% | $50,400 |
-| 28% | $130,150 |
-| 33% | $210,800 |
-| 35% | $413,350 |
-| 39.6% | $441,000 |
+| 15% | $13,350 |
+| 25% | $50,800 |
+| 28% | $131,200 |
+| 33% | $212,500 |
+| 35% | $416,700 |
+| 39.6% | $444,500 |
 
 #### Social Security and Medicare Payroll Tabs
 
@@ -312,7 +312,7 @@ These are total payroll tax rates. The Social Security tax is split evenly betwe
 
 #### Select Federal Excise Taxes
 
-In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone, and tobacco excise taxes are included separately from state excise taxes in the United States (`id` of `0`) record.
+In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone, and tobacco excise taxes are included separately from state excise taxes in the United States (`id` of `0`) record. The Medical Device Tax is suspended from January 1, 2016 - December 31, 2017.
 
 | Item | Rate |
 | --- | --- |
@@ -330,7 +330,7 @@ In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone,
 
 #### Source
 
-Internal Revenue Service; Commerce Clearing House; American Petroleum Institute; Alcohol and Tobacco Tax and Trade Bureau; Tax Foundation.
+Internal Revenue Service; Bloomberg BNA; American Petroleum Institute; Alcohol and Tobacco Tax and Trade Bureau; Tax Foundation.
 
 ### <a id="table12"></a>Table 12. State Individual Income Tax Rates
 
