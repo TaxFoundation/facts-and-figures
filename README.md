@@ -252,7 +252,7 @@ There are 139,562,034 total federal income tax filers. Total Adjusted Gross Inco
 
 #### Source
 
-Tax Foundation, "Summary of Latest Federal Individual Income Tax Data (2016 Update).
+Tax Foundation, "Summary of Latest Federal Individual Income Tax Data (2016 Update)."
 
 ### <a id="table11"></a>Table 11. Selected Federal Tax Rates
 
