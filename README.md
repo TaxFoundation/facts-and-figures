@@ -620,9 +620,9 @@ Some states levy gross receipts taxes in addition to sales taxes. The U.S. Censu
 
 U.S. Census Bureau; Tax Foundation
 
-### <a id="table22"></a>Table 22. State Gasoline Tax Rates Per Gallon
+### <a id="table23"></a>Table 23. State Gasoline Tax Rates Per Gallon
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -642,9 +642,9 @@ The [American Petroleum Institute](http://www.api.org/) (API) has developed a me
 
 [American Pretroleum Institute](http://www.api.org/oil-and-natural-gas-overview/industry-economics/fuel-taxes)
 
-### <a id="table23"></a>Table 23. Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes
+### <a id="table24"></a>Table 24. Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes
 
-Fiscal Year 20-state-general-sales-tax-collections-per-capita-fy2013
+Fiscal Year 2014
 
 | Name | Description |
 | --- | --- |
@@ -662,9 +662,9 @@ Table includes state and local road expenses but excludes federal aid. For more 
 
 U.S. Census Bureau; Federal Highway Administration; Tax Foundation.
 
-### <a id="table24"></a>Table 24. State Cigarette Excise Tax Rates (Dollars Per 20-Pack)
+### <a id="table25"></a>Table 25. State Cigarette Excise Tax Rates (Dollars Per 20-Pack)
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -677,15 +677,68 @@ January 1, 2016
 
 #### Notes
 
+California approved a $2 cigarette tax increase. It takes effect April 1, 2017.
 Local taxes are not included and can be substantial.
 
 #### Source
 
 RJ Reynolds; state revenue departments; Tax Foundation
 
-### <a id="table25"></a>Table 25. State Spirits Excise Tax Rates (Dollars Per Gallon)
+### <a id="table26"></a>Table 26. State Vapor Excise Tax Rate
 
-January 1, 2016
+January 1, 2017
+
+This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
+
+| State | Tax Rate |
+| --- | --- |
+| Calif. | 27.30% of wholesale |
+| Ill. | $0.80/unit plus $0.55/ml (applicable only in city of Chicago); $0.20/ml (applicable only in Cook County) |
+| Kans. | $0.20/ml |
+| La. | $0.05/ml |
+| Md. | 30% of wholesale (applicable only in Montgomery County) |
+| Minn. | 95% of wholesale (applied to wholesale cost of any product containing or derived from tobacco) |
+| N.C. | $0.05/ml |
+| Pa. | 40% of retail |
+| W.Va. | $0.075/ml |
+| D.C. | 65% of wholesale |
+
+#### Note
+
+California's vapor tax will be effective April 1, 2017.
+
+#### Source
+
+State statutes; Bloomberg BNA.
+
+### <a id="table27"></a>Table 27. State Recreational Marijuana Excise Tax Rates
+
+January 1, 2017
+
+This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
+
+| State | Tax Rate |
+| --- | --- |
+| Alaska | $50/ounce |
+| Calif. | 15% sales tax (gross receipts); $9.25/oz flowers & $2.75/oz leaves cultivation tax |
+| Colo. | 15% excise tax (average retail market rate); 10% sales tax (8% as of July 1, 2017) |
+| Maine | 10% sales tax (effective January 30, 2017) |
+| Mass. | 3.75% sales tax |
+| Nev. | 15% excise tax (wholesale price) |
+| Ore. | 17% sales tax |
+| Wash. | 37% sales tax |
+
+#### Note
+
+Alabama, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Minnesota, Nebraska, Oklahoma, Rhode Island, Tennessee, and Wisconsin impose a controlled substance tax on the purchase of illegal products.
+
+#### Source
+
+Tax Foundation, "Marijuana Legalization & Taxes: Lessons for Other States from Colorado & Washington" (2016); State statutes; Bloomberg BNA.
+
+### <a id="table28"></a>Table 28. State Spirits Excise Tax Rates (Dollars Per Gallon)
+
+January 1, 2017
 
 #### Explanation of Data
 
@@ -763,9 +816,9 @@ Includes the retail (17%) and distributor (10%) license fees, converted into a g
 
 Distilled Spirits Council of the United States; Tax Foundation.
 
-### <a id="table26"></a>Table 26. State Wine Excise Tax Rates (Dollars Per Gallon)
+### <a id="table29"></a>Table 29. State Wine Excise Tax Rates (Dollars Per Gallon)
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -806,9 +859,9 @@ Includes the wholesale tax rate of 11%, converted into a gallonage excise tax ra
 
 Distilled Spirits Council of the United States; Tax Foundation.
 
-### <a id="table27"></a>Table 27. State Beer Excise Tax Rates (Dollars Per Gallon)
+### <a id="table30"></a>Table 30. State Beer Excise Tax Rates (Dollars Per Gallon)
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -861,9 +914,9 @@ Includes the wholesale tax rate of 17%, converted into a gallonage excise tax ra
 
 Distilled Spirits Council of the United States; Tax Foundation.
 
-### <a id="table28"></a>Table 28. State & Local Cell Phone Tax Rates
+### <a id="table28"></a>Table 31. State & Local Cell Phone Tax Rates
 
-July 1, 2015
+July 1, 2016
 
 #### Explanation of Data
 
@@ -880,11 +933,11 @@ The local tax rate is calculated as the average of the tax in the largest city a
 
 #### Source
 
-Scott Mackey and Joseph Henchman, [Wireless Taxation in the United States 2014, Tax Foundation Fiscal Fact No. 490 (Nov. 2015)](http://taxfoundation.org/article/record-high-taxes-and-fees-wireless-consumers-2015)
+Tax Foundation, [Wireless Tax Burdens Rise for the Second Straight Year in 2016, Tax Foundation Fiscal Fact No. 530 (Oct. 2016)](https://taxfoundation.org/wireless-tax-burdens-rise-second-straight-year-2016/)
 
-### <a id="table29"></a>Table 29. Sales Tax Treatment of Groceries, Candy, and Soda
+### <a id="table32"></a>Table 32. Sales Tax Treatment of Groceries, Candy, and Soda
 
-As of January 1, 2016
+As of January 1, 2017
 
 This data set categorizes whether and how states include groceries, candy, and soda in their sales tax base.
 
@@ -904,11 +957,11 @@ Alaska, Delaware, Montana, New Hampshire, and Oregon have no state-level sales t
 
 #### Source
 
-Scott Drenkard, [Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011)](http://taxfoundation.org/article/overreaching-obesity-governments-consider-new-taxes-soda-and-candy); Commerce Clearing House.
+Scott Drenkard, [Overreaching on Obesity: Governments Consider New Taxes on Soda and Candy, Tax Foundation SR: 196 (Oct. 2011)](http://taxfoundation.org/article/overreaching-obesity-governments-consider-new-taxes-soda-and-candy); Bloomberg BNA.
 
-### <a id="table30"></a>Table 30. State and Local Excise Tax Collections Per Capita, FY 2013
+### <a id="table33"></a>Table 33. State and Local Excise Tax Collections Per Capita, FY 2013
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
