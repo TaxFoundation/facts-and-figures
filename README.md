@@ -50,9 +50,9 @@ Published [[whenever]].
 | 42 | [Income Per Capita By State](#table42) | 2015 | `42-income-per-capita-by-state-fy2015.csv` |
 | 43 | [People Per Household By State](#table43) | 2014-2015 | `43-people-per-household-2014-2015.csv` |
 
-### <a id="table01"></a>Table 1. Tax Freedom Day 2015
+### <a id="table01"></a>Table 1. Tax Freedom Day 2016
 
-Calendar year 2015.
+Calendar year 2016.
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
@@ -67,7 +67,7 @@ Tax Freedom Day is the day when the nation as a whole has earned enough money to
 
 #### Source
 
-[Tax Foundation, Tax Freedom Day 2015 (April 2015), TaxFreedomDay.org](http://taxfoundation.org/article/tax-freedom-day-2014-april-21-three-days-later-last-year).
+[Tax Foundation, Tax Freedom Day 2016 (April 2016), TaxFreedomDay.org](https://taxfoundation.org/tax-freedom-day-2016-april-24/).
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
@@ -91,7 +91,7 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 
 ### <a id="table03"></a>Table 3. State Business Tax Climate Index
 
-Rankings based on snapshot date of July 1, 2015.
+Rankings based on snapshot date of July 1, 2016.
 
 The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states' scores.
 
@@ -112,11 +112,11 @@ A rank of 1 indicates the state's tax system is more favorable for business; a r
 
 #### Source
 
-[Tax Foundation, 2016 State Business Tax Climate Index (Oct. 2015)](http://taxfoundation.org/article/2015-state-business-tax-climate-index)
+[Tax Foundation, 2017 State Business Tax Climate Index (Oct. 2016)](https://taxfoundation.org/publications/state-business-tax-climate-index/)
 
 ### <a id="table04"></a>Table 4. State Tax Collections Per Capita
 
-Fiscal Year 2014.
+Fiscal Year 2015.
 
 The total nominal amount of taxes collected in a state divided by the individual population.
 
@@ -135,7 +135,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table05"></a>Table 5. State Revenue Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
 
@@ -154,7 +154,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal amount of taxes collected by state and local governments within a state, divided by the individual population.
 
@@ -173,7 +173,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table07"></a>Table 7. State and Local Revenue Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
 
@@ -192,7 +192,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table08"></a>Table 8. Sources of State and Local Tax Collections, Percentage of Total from Each Source
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -217,7 +217,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table09"></a>Table 9. Federal Aid as a Percentage of State Revenue
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 Figures are calculated by dividing each state's "Intergovernmental Revenue" by its "General Revenue."
 
@@ -238,25 +238,25 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table10"></a>Table 10. Federal Income Tax Payments by Income Percentile
 
-Calendar year 2013.
+Calendar year 2014
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 | Income Percentile | Income Taxes Paid ($ millions) | Group's Share of Total AGI | Group's Share of Income Taxes | Average Tax Rate |
 | --- | --- | --- | --- | --- |
-| All Taxpayers | $1,184,978 | 100.0% | 100.0% | 12.5% |
-| Top 1% | $451,328 | 21.9% | 38.1% | 22.8% |
-| Top 5% | $698,543 | 36.8% | 58.9% | 21.0% |
-| Top 10% | $831,445 | 47.9% | 70.2% | 19.2% |
-| Top 25% | $1,024,046 | 69.3% | 86.4% | 16.4% |
-| Top 50% | $1,152,063 | 88.9% | 97.2% | 14.3% |
-| Bottom 50% | $32,915 | 11.1% | 2.8% | 3.3% |
+| All Taxpayers | $1,374,379 | 100.0% | 100.0% | 14.2% |
+| Top 1% | $542,640 | 20.6% | 39.5% | 27.2% |
+| Top 5% | $824,153 | 36.0% | 60.0% | 23.6% |
+| Top 10% | $974,124 | 47.2% | 70.9% | 21.3% |
+| Top 25% | $1,192,679 | 68.9% | 86.8% | 17.8% |
+| Top 50% | $1,336,637 | 88.7% | 97.3% | 15.5% |
+| Bottom 50% | $37,740 | 11.3% | 2.8% | 3.5% |
 
-There are 136,080,353 total federal income tax filers. Total Adjusted Gross Income (AGI) is $9,041,744,000,000. The top 1% of earners have AGI above $434;682; the top 5% have above $175,817; the top 10% have above $125,195; the top 25% have above $73,354; and the top 50% have above $36,055.
+There are 139,562,034 total federal income tax filers. Total Adjusted Gross Income (AGI) is $9,033,840,000,000. The top 1% of earners have AGI above $465,626; the top 5% have above $188,996; the top 10% have above $133,445; the top 25% have above $77,714; and the top 50% have above $38,173.
 
 #### Source
 
-Tax Foundation, Summary of Latest Federal Individual Income Tax Data, Tax Foundation Fiscal Fact No. 491 (Nov. 2015).
+Tax Foundation, "Summary of Latest Federal Individual Income Tax Data (2016 Update)."
 
 ### <a id="table11"></a>Table 11. Selected Federal Tax Rates
 
@@ -268,28 +268,28 @@ These tables have not been included as part of the Tax Foundation data repositor
 | --- | --- |
 | Single |
 | 10% | $0 |
-| 15% | $9,275 |
-| 25% | $37,650 |
-| 28% | $91,150 |
-| 33% | $190,150 |
-| 35% | $413,350 |
-| 39.6% | $415,050 |
+| 15% | $9,325 |
+| 25% | $37,950 |
+| 28% | $91,900 |
+| 33% | $191,650 |
+| 35% | $416,700 |
+| 39.6% | $418,400 |
 | Married Filing Jointly |
 | 10% | $0 |
-| 15% | $18,550 |
-| 25% | $75,300 |
-| 28% | $151,900 |
-| 33% | $231,450 |
-| 35% | $413,350 |
-| 39.6% | $466,950 |
+| 15% | $18,650 |
+| 25% | $75,900 |
+| 28% | $153,100 |
+| 33% | $233,350 |
+| 35% | $416,700 |
+| 39.6% | $470,700 |
 | Head of Household |
 | 10% | $0 |
-| 15% | $13,250 |
-| 25% | $50,400 |
-| 28% | $130,150 |
-| 33% | $210,800 |
-| 35% | $413,350 |
-| 39.6% | $441,000 |
+| 15% | $13,350 |
+| 25% | $50,800 |
+| 28% | $131,200 |
+| 33% | $212,500 |
+| 35% | $416,700 |
+| 39.6% | $444,500 |
 
 #### Social Security and Medicare Payroll Tabs
 
@@ -316,7 +316,7 @@ These are total payroll tax rates. The Social Security tax is split evenly betwe
 
 #### Select Federal Excise Taxes
 
-In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone, and tobacco excise taxes are included separately from state excise taxes in the United States (`id` of `0`) record.
+In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone, and tobacco excise taxes are included separately from state excise taxes in the United States (`id` of `0`) record. The Medical Device Tax is suspended from January 1, 2016 - December 31, 2017.
 
 | Item | Rate |
 | --- | --- |
@@ -334,11 +334,11 @@ In state excise tax Tables 22, and 24-28, federal gasoline, alcohol, cell phone,
 
 #### Source
 
-Internal Revenue Service; Commerce Clearing House; American Petroleum Institute; Alcohol and Tobacco Tax and Trade Bureau; Tax Foundation.
+Internal Revenue Service; Bloomberg BNA; American Petroleum Institute; Alcohol and Tobacco Tax and Trade Bureau; Tax Foundation.
 
 ### <a id="table12"></a>Table 12. State Individual Income Tax Rates
 
-These data summarize state-level marginal income tax rates for US individuals as of January 1, 2016. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
+These data summarize state-level marginal income tax rates for US individuals as of January 1, 2017. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
 
 #### Explanation of Data
 
@@ -357,36 +357,36 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 
 | State | Notes |
 | --- | --- |
-| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Alaska | No individual income tax. |
-| Arizona | Arizona began inflation adjusting in 2016. |
+| Arizona | 2016 brackets due to data availability. As of February 2017, Arizona has not yet released its inflation adjusted brackets.  |
 | Arkansas | Rates apply to regular tax table. Two special tax tables exist for low and middle income individuals; one for individuals below $21,000 in income, and one for those between $21,000 and $75,000. In addition, those between $75,000 and $80,000 in income receive a small bracket adjustment. Bracket levels adjusted for inflation each year. |
-| California | Shows 2015 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
+| California | Shows 2016 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Colorado | Tax levied on federal taxable income. |
-| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Florida | No individual income tax. |
-| Idaho | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
+| Idaho | Shows 2016 and brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Illinois | Tax levied on federal adjusted gross income with modifications. |
-| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.56%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.56%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Iowa | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.10%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.08%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Louisiana | Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Maine | Bracket levels adjusted for inflation each year. |
+| Maine | Bracket levels adjusted for inflation each year. An additional 3% surcharge is imposed on taxable income in excess of $200,000, resulting in a top bracket of 10.15%. |
 | Maryland | Local income taxes are excluded; the average in each jurisdiction is 2.9%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.75%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.75%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Minnesota | Bracket levels adjusted for inflation each year. |
-| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Montana | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Nebraska | Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
+| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Montana |  Allow some or all of federal income tax paid to be deducted from state taxable income. |
+| Nebraska | Bracket levels adjusted for inflation each year. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | Nevada | No individual income tax. |
 | New Hampshire | Tax applies to interest and dividend income only. |
-| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.11%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
+| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 1.94%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | North Dakota | Bracket levels adjusted for inflation each year. |
-| Ohio | Shows 2015 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.36%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.96%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Ohio | 2016 brackets due to data availability. As of February 2017, Ohio has not yet released its inflation adjusted brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.37%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.95%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Rhode Island | Bracket levels adjusted for inflation each year. |
 | South Carolina | Bracket levels adjusted for inflation each year. |
 | South Dakota | No individual income tax. |
@@ -403,7 +403,7 @@ State tax statutes, forms, and instructions; Commerce Clearing House; Tax Founda
 
 ### <a id="table13"></a>Table 13. State Individual Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -424,7 +424,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table14"></a>Table 14. State and Local Individual Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
