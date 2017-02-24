@@ -334,7 +334,7 @@ Internal Revenue Service; Bloomberg BNA; American Petroleum Institute; Alcohol a
 
 ### <a id="table12"></a>Table 12. State Individual Income Tax Rates
 
-These data summarize state-level marginal income tax rates for US individuals as of January 1, 2016. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
+These data summarize state-level marginal income tax rates for US individuals as of January 1, 2017. Dollar amounts listed are in nominal dollars. These rates are not effective rates, i.e. they are not adjusted to account for exemptions.
 
 #### Explanation of Data
 
@@ -353,36 +353,36 @@ Brackets are for single taxpayers. Some states double bracket widths for joint f
 
 | State | Notes |
 | --- | --- |
-| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Alabama | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Alaska | No individual income tax. |
-| Arizona | Arizona began inflation adjusting in 2016. |
+| Arizona | 2016 brackets due to data availability. As of February 2017, Arizona has not yet released its inflation adjusted brackets.  |
 | Arkansas | Rates apply to regular tax table. Two special tax tables exist for low and middle income individuals; one for individuals below $21,000 in income, and one for those between $21,000 and $75,000. In addition, those between $75,000 and $80,000 in income receive a small bracket adjustment. Bracket levels adjusted for inflation each year. |
-| California | Shows 2015 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
+| California | Shows 2016 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Colorado | Tax levied on federal taxable income. |
-| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Delaware | Local income taxes are excluded; the average in each jurisdiction is 0.63%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Florida | No individual income tax. |
-| Idaho | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
+| Idaho | Shows 2016 and brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. |
 | Illinois | Tax levied on federal adjusted gross income with modifications. |
-| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.56%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Indiana | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.56%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Iowa | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.10%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Kansas | Local income taxes are excluded; the average in each jurisdiction is 0.01%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Kentucky | Local income taxes are excluded; the average in each jurisdiction is 2.08%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Louisiana | Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Maine | Bracket levels adjusted for inflation each year. |
+| Maine | Bracket levels adjusted for inflation each year. An additional 3% surcharge is imposed on taxable income in excess of $200,000, resulting in a top bracket of 10.15%. |
 | Maryland | Local income taxes are excluded; the average in each jurisdiction is 2.9%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.75%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Michigan | Tax levied on federal adjusted gross income with modifications. Local income taxes are excluded; the average in each jurisdiction is 1.75%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Minnesota | Bracket levels adjusted for inflation each year. |
-| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Montana | Shows 2015 rates but 2014 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. |
-| Nebraska | Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
+| Missouri | Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Montana |  Allow some or all of federal income tax paid to be deducted from state taxable income. |
+| Nebraska | Bracket levels adjusted for inflation each year. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | Nevada | No individual income tax. |
 | New Hampshire | Tax applies to interest and dividend income only. |
-| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.11%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
+| New Jersey | Local income taxes are excluded; the average in each jurisdiction is 0.5%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| New York | Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 1.94%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. Has a "tax benefit recapture," by which many high-income taxpayers pay their top tax rate on all income, not just on amounts above the bracket threshold. |
 | North Dakota | Bracket levels adjusted for inflation each year. |
-| Ohio | Shows 2015 brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.36%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
-| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.96%. Weighted local rates are from the Tax Foundation's 2016 State Business Tax Climate Index. |
+| Ohio | 2016 brackets due to data availability. As of February 2017, Ohio has not yet released its inflation adjusted brackets, where laws forbid revenue officials from inflation-indexing brackets until mid-year. Bracket levels adjusted for inflation each year. Local income taxes are excluded; the average in each jurisdiction is 2.25%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Oregon | Bracket levels adjusted for inflation each year. Allow some or all of federal income tax paid to be deducted from state taxable income. Local income taxes are excluded; the average in each jurisdiction is 0.37%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
+| Pennsylvania | Local income taxes are excluded; the average in each jurisdiction is 2.95%. Weighted local rates are from the Tax Foundation's 2017 State Business Tax Climate Index. |
 | Rhode Island | Bracket levels adjusted for inflation each year. |
 | South Carolina | Bracket levels adjusted for inflation each year. |
 | South Dakota | No individual income tax. |
