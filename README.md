@@ -46,9 +46,9 @@ Published [[whenever]].
 | 38 | [Income Per Capita By State](#table38) | 2014 | `38-income-per-capita-by-state-fy2014.csv` |
 | 39 | [People Per Household By State](#table39) | 2013-2014 | `39-people-per-household-2013-2014.csv` |
 
-### <a id="table01"></a>Table 1. Tax Freedom Day 2015
+### <a id="table01"></a>Table 1. Tax Freedom Day 2016
 
-Calendar year 2015.
+Calendar year 2016.
 
 Tax Freedom Day is the day when the nation as a whole has earned enough money to pay off its total tax bill for the year. Tax Freedom Day provides Americans with an easy way to gauge the overall tax take-a task that can otherwise be daunting due to the multiplicity of taxes at various levels of government and "hidden" taxes and fees that are often buried in the cost of living. Tax Freedom Day computed by dividing total tax collections by the nation's income, as reported by the Bureau of Economic Analysis. Every dollar that is officially called income by the government is counted, and every payment that is officially considered a tax is counted. The resulting percentage is then converted into days of a 365-day calendar year.
 
@@ -63,7 +63,7 @@ Tax Freedom Day is the day when the nation as a whole has earned enough money to
 
 #### Source
 
-[Tax Foundation, Tax Freedom Day 2015 (April 2015), TaxFreedomDay.org](http://taxfoundation.org/article/tax-freedom-day-2014-april-21-three-days-later-last-year).
+[Tax Foundation, Tax Freedom Day 2016 (April 2016), TaxFreedomDay.org](https://taxfoundation.org/tax-freedom-day-2016-april-24/).
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
@@ -87,7 +87,7 @@ To see more complete data going back to 1977, see [here](https://github.com/TaxF
 
 ### <a id="table03"></a>Table 3. State Business Tax Climate Index
 
-Rankings based on snapshot date of July 1, 2015.
+Rankings based on snapshot date of July 1, 2016.
 
 The State Business Tax Climate Index compares states on over 100 different variables in five important areas of taxation (corporate taxes, individual income taxes, sales taxes, unemployment insurance taxes, and property taxes) and then adding the results up to a final, overall ranking. This approach rewards states on particularly strong aspects of their tax systems (or penalizes them on particularly weak aspects) while also measuring the general competitiveness of their overall tax systems. The result is a score that can be compared to other states' scores.
 
@@ -108,11 +108,11 @@ A rank of 1 indicates the state's tax system is more favorable for business; a r
 
 #### Source
 
-[Tax Foundation, 2016 State Business Tax Climate Index (Oct. 2015)](http://taxfoundation.org/article/2015-state-business-tax-climate-index)
+[Tax Foundation, 2017 State Business Tax Climate Index (Oct. 2016)](https://taxfoundation.org/publications/state-business-tax-climate-index/)
 
 ### <a id="table04"></a>Table 4. State Tax Collections Per Capita
 
-Fiscal Year 2014.
+Fiscal Year 2015.
 
 The total nominal amount of taxes collected in a state divided by the individual population.
 
@@ -131,7 +131,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table05"></a>Table 5. State Revenue Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal revenue for a state government divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue. D.C. is designated as a local entity by the U.S. Census Bureau and thus not included here.
 
@@ -150,7 +150,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table06"></a>Table 6. State and Local Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal amount of taxes collected by state and local governments within a state, divided by the individual population.
 
@@ -169,7 +169,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table07"></a>Table 7. State and Local Revenue Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 The total nominal revenue for state and local governments collected within a state, divided by the individual population. Revenue refers to the U.S. Census Bureau's "General Revenue" classification. This measure includes taxes, fees, licenses, and intergovernmental revenue but excludes revenue from government enterprises such as utilities and liquor stores, as well as insurance trust revenue.
 
@@ -188,7 +188,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table08"></a>Table 8. Sources of State and Local Tax Collections, Percentage of Total from Each Source
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -213,7 +213,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table09"></a>Table 9. Federal Aid as a Percentage of State Revenue
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 Figures are calculated by dividing each state's "Intergovernmental Revenue" by its "General Revenue."
 
@@ -234,7 +234,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table10"></a>Table 10. Federal Income Tax Payments by Income Percentile
 
-Calendar year 2013.
+Calendar year 2014
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
