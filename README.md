@@ -931,9 +931,9 @@ Excise taxes are sales and other special taxes imposed on select items, such as 
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
+### <a id="table34"></a>Table 34. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
 
-Average effective property tax rates by state in the calendar year 2014.
+Average effective property tax rates by state in the calendar year 2015.
 
 The figures in this table are mean effective property tax rates on owner-occupied housing (total real taxes paid divided by total home value). As a result, the data exclude property taxes paid by businesses, renters, and others.
 
@@ -950,9 +950,9 @@ The figures in this table are mean effective property tax rates on owner-occupie
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita
+### <a id="table35"></a>Table 35. State and Local Property Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -967,9 +967,9 @@ Fiscal Year 2013
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table33"></a>Table 33. Capital Stock Tax Rates
+### <a id="table36"></a>Table 36. Capital Stock Tax Rates
 
-January 1, 2016
+January 1, 2017
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
@@ -977,7 +977,7 @@ This table has not been included as part of the Tax Foundation data repository b
 | --- | --- | --- |
 | Alaska | 0.175% | $15,000 |
 | Arkansas | 0.3% | Unlimited |
-| Connecticut) | 0.31% | $1,000,000 |
+| Connecticut | 0.31% | $1,000,000 |
 | Delaware | 0.0350% | $180,000 |
 | Georgia | See Notes | $5,000 |
 | Illinois | 0.1% | $2,000,000 |
@@ -985,7 +985,7 @@ This table has not been included as part of the Tax Foundation data repository b
 | Massachusetts | 0.26% | Unlimited |
 | Mississippi | 0.25% | Unlimited |
 | Nebraska | See Notes | $11,995 |
-| New York | 0.125% | $1,000,000 |
+| New York | 0.125% | $5,000,000 |
 | North Carolina | 0.15% | Unlimited |
 | Oklahoma | 0.125% | $20,000 |
 | South Carolina | 0.1% | Unlimited |
@@ -1010,7 +1010,7 @@ Based on a fixed dollar payment schedule. Effective tax rates decrease as taxabl
 
 #### Source
 
-State statutes; Commerce Clearing House
+State statutes; Bloomberg BNA
 
 ### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
 
