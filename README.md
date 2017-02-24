@@ -1208,9 +1208,9 @@ See [Table 39. People Per Household](#table39) for average people per household 
 
 U.S. Census Bureau, Tax Foundation calculations
 
-### <a id="table38"></a>Table 38. Income Per Capita by State
+### <a id="table42"></a>Table 42. Income Per Capita by State
 
-Calendar Year 2014
+Calendar Year 2015
 
 #### Explanation of Data
 
@@ -1229,7 +1229,7 @@ Per capita personal income is total personal income divided by total midyear pop
 
 U.S. Bureau of Economic Analysis
 
-### <a id="table39"></a>Table 39. People Per Household
+### <a id="table43"></a>Table 43. People Per Household
 
 The average number of people per household by state.
 
