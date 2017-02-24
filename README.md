@@ -399,7 +399,7 @@ State tax statutes, forms, and instructions; Commerce Clearing House; Tax Founda
 
 ### <a id="table13"></a>Table 13. State Individual Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -420,7 +420,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table14"></a>Table 14. State and Local Individual Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
