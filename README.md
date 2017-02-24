@@ -67,7 +67,7 @@ Tax Freedom Day is the day when the nation as a whole has earned enough money to
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
-These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2012](http://taxfoundation.org/article/state-local-tax-burden-rankings-fy-2012) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) [Nicole Kaeding] (http:http://taxfoundation.org/staff/nicole-kaeding) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid per capita by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
+These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2012](http://taxfoundation.org/article/state-local-tax-burden-rankings-fy-2012) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) [Nicole Kaeding](http:http://taxfoundation.org/staff/nicole-kaeding) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid per capita by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
 
 To see more complete data going back to 1977, see [here](https://github.com/TaxFoundation/data/tree/master/state-local-tax-burdens).
 
@@ -441,7 +441,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table15"></a>Table 15. State Corporate Income Tax Rates
 
-These data summarize state-level marginal corporate income tax rates as of January 1, 2016. Dollar amounts listed are in nominal dollars.
+These data summarize state-level marginal corporate income tax rates as of January 1, 2017. Dollar amounts listed are in nominal dollars.
 
 #### Explanation of Data
 
@@ -458,7 +458,7 @@ These data summarize state-level marginal corporate income tax rates as of Janua
 
 In addition to regular corporate income taxes, many states impose other taxes on corporations such as gross receipts taxes and franchise taxes. Some states also impose an alternative minimum tax and special rates on financial institutions. These are not included here.
 
-Arkansas assesses a surcharge of 3% of the taxpayer's total liability.
+Arkansas has a "benefit recapture," by which corporations with more than $100,000 of taxable income pay a flat tax of 6.5% on all income, not just on amounts above the benefit threshold.
 
 Connecticut's rate includes a 20% surtax, which effectively increases the rate from 7.5% to 9%. Surtax is required by businesses with at least $100 million annual gross income.
 
@@ -466,19 +466,19 @@ Nevada, Ohio, Texas, and Washington do not have a corporate income tax but do ha
 
 Illinois' rate includes two separate corporate income taxes, one at a 5.25% rate and one at a 2.5% rate.
 
-The tax rate in Indiana will decrease to 6.5% on July 1, 2015.
+The tax rate in Indiana will decrease to 6% on July 1, 2017.
 
 In New Jersey, corporations with entire net income greater than $100,000 pay 9% on all taxable income, companies with entire net income greater than $50,000 and less than or equal to $100,000 pay 7.5% on all taxable income, and companies with entire net income less than or equal to $50,000 pay 6.5% on all taxable income.
 
-The tax rate in New Mexico will decrease to 6.2% in 2017.
+The tax rate in New Mexico will decrease to 5.9% in 2018.
 
 #### Source
 
-State tax statutes, forms, and instructions; Commerce Clearing House; Tax Foundation.
+State tax statutes, forms, and instructions; Bloomberg BNA; Tax Foundation.
 
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
 
-Fiscal Year 2014
+Fiscal Year 2015
 
 #### Explanation of Data
 
@@ -501,7 +501,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table17"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
