@@ -549,7 +549,7 @@ Commerce Clearing House; state revenue departments; Weldon Cooper Center for Pub
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -580,7 +580,7 @@ Source: Sales Tax Clearing House; Tax Foundation.
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
-Fiscal Year 2014
+Fiscal Year 2015
 
 #### Explanation of Data
 
@@ -601,7 +601,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -619,6 +619,30 @@ Some states levy gross receipts taxes in addition to sales taxes. The U.S. Censu
 #### Source
 
 U.S. Census Bureau; Tax Foundation
+
+### <a id="table22"></a>Table 22. State Sales Tax Breadth
+
+Fiscal Year 2015
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `salesTaxBreadth` | The calculated sales tax breadth. |
+
+#### Notes
+
+The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that include many business-to-business services. 
+
+Sales tax breadth is defined as the ratio of the implicit sales tax base to state personal income.
+
+#### Source
+
+Professor John Mikesell (Indiana University). 
+
 
 ### <a id="table22"></a>Table 22. State Gasoline Tax Rates Per Gallon
 
