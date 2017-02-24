@@ -690,18 +690,18 @@ January 1, 2017
 
 This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
 
-| State | Tax Rate 
-| --- | --- | 
-| Calif. | 27.30% of wholesale
-| Ill. | $0.80/unit plus $0.55/ml (applicable only in city of Chicago); $0.20/ml (applicable only in Cook County)
-| Kans. | $0.20/ml 
-| La. | $0.05/ml 
-| Md. | 30% of wholesale (applicable only in Montgomery County) 
-| Minn. | 95% of wholesale (applied to wholesale cost of any product containing or derived from tobacco) 
-| N.C. | $0.05/ml 
-| Pa. | 40% of retail 
-| W.Va. | $0.075/ml 
-| D.C. | 65% of wholesale
+| State | Tax Rate |
+| --- | --- |
+| Calif. | 27.30% of wholesale |
+| Ill. | $0.80/unit plus $0.55/ml (applicable only in city of Chicago); $0.20/ml (applicable only in Cook County) |
+| Kans. | $0.20/ml |
+| La. | $0.05/ml |
+| Md. | 30% of wholesale (applicable only in Montgomery County) |
+| Minn. | 95% of wholesale (applied to wholesale cost of any product containing or derived from tobacco) |
+| N.C. | $0.05/ml |
+| Pa. | 40% of retail |
+| W.Va. | $0.075/ml |
+| D.C. | 65% of wholesale |
 
 #### Note
 
@@ -709,7 +709,7 @@ California's vapor tax will be effective April 1, 2017.
 
 #### Source
 
-State statutes; Bloomberg BNA. 
+State statutes; Bloomberg BNA.
 
 ### <a id="table27"></a>Table 27. State Recreational Marijuana Excise Tax Rates
 
@@ -717,24 +717,24 @@ January 1, 2017
 
 This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
 
-| State | Tax Rate 
-| --- | --- 
-| Alaska | $50/ounce 
-| Calif. | 15% sales tax (gross receipts); $9.25/oz flowers & $2.75/oz leaves cultivation tax 
-| Colo. | 15% excise tax (average retail market rate); 10% sales tax (8% as of July 1, 2017)
-| Maine | 10% sales tax (effective January 30, 2017)
-| Mass. | 3.75% sales tax
-| Nev. | 15% excise tax (wholesale price)
-| Ore. | 17% sales tax
-| Wash. | 37% sales tax
+| State | Tax Rate |
+| --- | --- |
+| Alaska | $50/ounce |
+| Calif. | 15% sales tax (gross receipts); $9.25/oz flowers & $2.75/oz leaves cultivation tax |
+| Colo. | 15% excise tax (average retail market rate); 10% sales tax (8% as of July 1, 2017) |
+| Maine | 10% sales tax (effective January 30, 2017) |
+| Mass. | 3.75% sales tax |
+| Nev. | 15% excise tax (wholesale price) |
+| Ore. | 17% sales tax |
+| Wash. | 37% sales tax |
 
 #### Note
 
-Alabama, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Minnesota, Nebraska, Oklahoma, Rhode Island, Tennessee, and Wisconsin impose a controlled substance tax on the purchase of illegal products. 
+Alabama, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Minnesota, Nebraska, Oklahoma, Rhode Island, Tennessee, and Wisconsin impose a controlled substance tax on the purchase of illegal products.
 
 #### Source
 
-Tax Foundation, "Marijuana Legalization & Taxes: Lessons for Other States from Colorado & Washington" (2016); State statutes; Bloomberg BNA. 
+Tax Foundation, "Marijuana Legalization & Taxes: Lessons for Other States from Colorado & Washington" (2016); State statutes; Bloomberg BNA.
 
 ### <a id="table28"></a>Table 28. State Spirits Excise Tax Rates (Dollars Per Gallon)
 
