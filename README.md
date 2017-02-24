@@ -1240,14 +1240,14 @@ Fiscal Year 2014
 | `id`  | The ANSI code identifying the state in each record. |
 | `stateAbbr` | The ANSI code abbreviation for the state in each record. |
 | `stateName` | The full name of the state in each record. |
-| `incomePerCapita` | Funded ratio. |
+| `fundedRatio` | Funded ratio. |
 
 #### Notes
 
 
 #### Source
 
-Pew Charitable Trusts, "Funded Ratios Increased in Most States in Fiscal Year 2014" (2016). 
+Pew Charitable Trusts, "Funded Ratios Increased in Most States in Fiscal Year 2014" (2016).
 
 ### <a id="table39"></a>Table 39. People Per Household
 
