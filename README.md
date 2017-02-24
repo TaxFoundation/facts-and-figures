@@ -1166,9 +1166,9 @@ Maryland and New Jersey have both an estate tax and an inheritance tax. See [Tab
 
 Family Business Coalition; state statutes.
 
-### <a id="table36"></a>Table 36. State Debt Per Capita
+### <a id="table39"></a>Table 39. State Debt Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -1187,9 +1187,9 @@ Debt at end of fiscal year. See People Per Household for average people per hous
 
 U.S. Census Bureau, Tax Foundation calculations
 
-### <a id="table37"></a>Table 37. State and Local Debt Per Capita
+### <a id="table40"></a>Table 40. State and Local Debt Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -1208,9 +1208,9 @@ See [Table 39. People Per Household](#table39) for average people per household 
 
 U.S. Census Bureau, Tax Foundation calculations
 
-### <a id="table38"></a>Table 38. Income Per Capita by State
+### <a id="table41"></a>Table 41. Income Per Capita by State
 
-Calendar Year 2014
+Calendar Year 2015
 
 #### Explanation of Data
 
@@ -1228,6 +1228,26 @@ Per capita personal income is total personal income divided by total midyear pop
 #### Source
 
 U.S. Bureau of Economic Analysis
+
+### <a id="table42"></a>Table 42. Funded Ratio of Public Pension Plans
+
+Fiscal Year 2014
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id`  | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `incomePerCapita` | Funded ratio. |
+
+#### Notes
+
+
+#### Source
+
+Pew Charitable Trusts, "Funded Ratios Increased in Most States in Fiscal Year 2014" (2016). 
 
 ### <a id="table39"></a>Table 39. People Per Household
 
