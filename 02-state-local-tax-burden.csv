@@ -8,7 +8,7 @@ id,location,year,burden,BurdenRank,totalTaxBurdenPerCapita
 8,Colorado,2012,0.089,34,4304
 9,Connecticut,2012,0.126,2,7869
 10,Delaware,2012,0.102,13,4412
-11,District of Columbia,2012,0.106,(10),7541
+11,District of Columbia,2012,0.106,10*,7541
 12,Florida,2012,0.089,34,3738
 13,Georgia,2012,0.091,32,3426
 15,Hawaii,2012,0.102,13,4576

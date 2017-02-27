@@ -8,9 +8,7 @@ id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
 8,CO,Colorado,0.32,39
 9,CT,Connecticut,0.72,28
 10,DE,Delaware,0.97,22
-,,,,
-11,DC,District of Columbia,1.79,-4
-,,,,
+11,DC,District of Columbia,1.79,4*
 12,FL,Florida,2.25,3
 13,GA,Georgia,1.51,7
 15,HI,Hawaii,1.38,12

@@ -7,7 +7,7 @@ id,stateAbbr,stateName,stateSalesTaxRate,stateSalesTaxRateRank,avgLocalSalesTaxR
 8,CO,Colorado,0.029,45,0.046019867,0.075019867,16
 9,CT,Connecticut,0.0635,12,0,0.0635,32
 10,DE,Delaware,0,--,0,0,--
-11,DC,District of Columbia,0.0575,-27,0,0.0575,-41
+11,DC,District of Columbia,0.0575,-27,0,0.0575,41*
 12,FL,Florida,0.06,16,0.0079535,0.0679535,28
 13,GA,Georgia,0.04,40,0.029978786,0.069978786,23
 15,HI,Hawaii,0.04,40,0.003503662,0.043503662,45

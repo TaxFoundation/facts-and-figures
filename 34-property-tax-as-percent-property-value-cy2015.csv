@@ -8,7 +8,7 @@ id,stateAbbr,stateName,PropertyTaxAsAsPercentPropertyValue,propTaxAsPercentPropV
 8,CO,Colorado,0.0055,44
 9,CT,Connecticut,0.0165,6
 10,DE,Delaware,0.0056,43
-11,DC,District of Columbia,0.0057,(43)
+11,DC,District of Columbia,0.0057,43*
 12,FL,Florida,0.0093,24
 13,GA,Georgia,0.0089,26
 15,HI,Hawaii,0.0028,50

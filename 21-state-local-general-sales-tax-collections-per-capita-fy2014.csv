@@ -8,7 +8,7 @@ id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
 8,CO,Colorado,1126,18
 9,CT,Connecticut,1108,20
 10,DE,Delaware,0,--
-11,DC,District of Columbia,1720,-4
+11,DC,District of Columbia,1720,4*
 12,FL,Florida,1172,17
 13,GA,Georgia,878,32
 15,HI,Hawaii,2143,1
