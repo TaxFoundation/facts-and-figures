@@ -1088,43 +1088,45 @@ Based on a fixed dollar payment schedule. Effective tax rates decrease as taxabl
 
 State statutes; Bloomberg BNA
 
-### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
+### <a id="table37"></a>Table 37. Estate Tax Rates and Exemptions
 
-January 1, 2016
+January 1, 2017
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
 | State | Exemption | Rate (Min. to Max.) |
 | --- | --- | --- |
 | Connecticut | $2,000,000 | 7.2% - 12.0% |
-| Delaware  | $5,450,000 | 0.8% - 16.0% |
-| Hawaii | $5,450,000 | 0.8% - 16.0% |
+| Delaware  | $5,490,000 | 0.8% - 16.0% |
+| Hawaii | $5,490,000 | 0.8% - 16.0% |
 | Illinois | $4,000,000 | 0.8% - 16.0% |
-| Maine | $5,450,000 | 8.0% - 12.0% |
-| Maryland | $1,500,000 | 16.0% |
+| Maine | $5,490,000 | 8.0% - 12.0% |
+| Maryland | $3,000,000 | 16.0% |
 | Massachusetts | $1,000,000 | 0.8% - 16.0% |
-| Minnesota | $1,600,000 | 9.0% - 16.0% |
-| New Jersey | $675,000 | 0.8% - 16.0% |
-| New York | $3,125,000 | 3.06% - 16.0% |
+| Minnesota | $1,800,000 | 10.0% - 16.0% |
+| New Jersey | $2,000,000 | 0.8% - 16.0% |
+| New York | $4,187,500 | 3.06% - 16.0% |
 | Oregon | $1,000,000 | 0.8% - 16.0% |
 | Rhode Island | $1,500,000 | 0.8% - 16.0% |
 | Vermont | $2,750,000 | 0.8% - 16.0% |
-| Washington | $2,054,000 | 10.0% - 20.0% |
-| District of Columbia | $1,000,000 | 0.8% - 16.0% |
+| Washington | $2,129,000 | 10.0% - 20.0% |
+| District of Columbia | $2,000,000 | 8.0% - 16.0% |
 
 #### Notes
 
-Maryland and New Jersey have both an estate and an inheritance tax. See [Table 35](#table35).
+Maryland and New Jersey have both an estate and an inheritance tax. See [Table 38](#table38).
 
-New York's exemption increases to $4,187,500 on April 1, 2016.
+New York's exemption increases to $5,250,000 on April 1, 2017.
+
+New Jersey's estate tax will be fully phased out by 2018.
 
 #### Source
 
-Family Business Coalition; state statutes.
+Family Business Coalition; Bloomberg BNA; state statutes.
 
-### <a id="table35"></a>Table 35. Inheritance Taxes and Exemptions
+### <a id="table38"></a>Table 38. Inheritance Taxes and Exemptions
 
-January 1, 2016
+January 1, 2017
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
@@ -1193,9 +1195,9 @@ Maryland and New Jersey have both an estate tax and an inheritance tax. See [Tab
 
 Family Business Coalition; state statutes.
 
-### <a id="table36"></a>Table 36. State Debt Per Capita
+### <a id="table39"></a>Table 39. State Debt Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -1214,9 +1216,9 @@ Debt at end of fiscal year. See People Per Household for average people per hous
 
 U.S. Census Bureau, Tax Foundation calculations
 
-### <a id="table37"></a>Table 37. State and Local Debt Per Capita
+### <a id="table40"></a>Table 40. State and Local Debt Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -1235,7 +1237,7 @@ See [Table 39. People Per Household](#table39) for average people per household 
 
 U.S. Census Bureau, Tax Foundation calculations
 
-### <a id="table42"></a>Table 42. Income Per Capita by State
+### <a id="table41"></a>Table 41. Income Per Capita by State
 
 Calendar Year 2015
 
@@ -1255,6 +1257,27 @@ Per capita personal income is total personal income divided by total midyear pop
 #### Source
 
 U.S. Bureau of Economic Analysis
+
+### <a id="table42"></a>Table 42. Funded Ratio of Public Pension Plans
+
+Fiscal Year 2014
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id`  | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `fundedRatio` | Funded ratio. |
+
+#### Notes
+
+
+#### Source
+
+Pew Charitable Trusts, "Funded Ratios Increased in Most States in Fiscal Year 2014" (2016).
+
 
 ### <a id="table43"></a>Table 43. People Per Household
 
