@@ -1,4 +1,4 @@
-# Facts and Figures 2016
+# Facts and Figures 2017
 
 Published [[whenever]].
 
@@ -6,45 +6,49 @@ Published [[whenever]].
 
 | Table | Name | Date |Filename |
 | --- | --- | --- | --- |
-| 1 | [Tax Freedom Day](#table01) | 2015 | `01-tax-freedom-day-2015.csv` |
+| 1 | [Tax Freedom Day](#table01) | 2016 | `01-tax-freedom-day-2016.csv` |
 | 2 | [State Local Tax Burdens](#table02) | Fiscal Year 2012 | `02-state-local-tax-burden.csv` |
 | 3 | [State Business Tax Climate Index](#table03) | 2016-07-01 | `03-state-business-tax-climate-index-2017.csv` |
-| 4 | [State Tax Collections Per Capita](#table04) | Fiscal Year 2014 | `04-state-tax-collections-per-capita-fy2014.csv` |
-| 5 | [State Revenue Per Capita](#table05) | Fiscal Year 2013 | `05-state-revenue-per-capita-fy2013.csv` |
-| 6 | [State and Local Tax Collections Per Capita](#table06) | Fiscal Year 2013 | `06-state-local-collections-per-capita-fy2013.csv` |
-| 7 | [State and Local Revenue Per Capita](#table07) | Fiscal Year 2013 | `07-state-local-revenue-per-capita-fy2013.csv` |
-| 8 | [Sources of State and Local Tax Collections, Percentage of Total from Each Source](#table08) | Fiscal Year 2013 | `08-sources-of-state-local-collections-fy2013.csv` |
-| 9 | [Federal Aid as a Percentage of State Revenue](#table09) | Fiscal Year 2013 | `09-federal-aid-as-percent-of-revenue-fy2013.csv` |
-| 10 | [Federal Income Tax Payments by Income Percentile](#table10) | 2013 | Intentionally Omitted from Set |
-| 11 | [Selected Federal Tax Rates](#table11) | 2016 | Intentionally Omitted from Set |
-| 12 | [State Individual Income Tax Rates](#table12) | 2016-01-01 | `12-state-individual-income-tax-rates-2016.csv` |
-| 13 | [State Individual Income Tax Collections Per Capita](#table13) | Fiscal Year 2014 | `13-state-individual-income-tax-collections-per-capita-fy2014.csv` |
-| 14 | [State and Local Individual Income Tax Collections Per Capita](#table14) | Fiscal Year 2013 | `14-state-local-income-tax-collections-per-capita-fy2013.csv` |
-| 15 | [State Corporate Income Tax Rates](#table15) | 2016-01-01 | `15-state-corporate-income-tax-rates-2016.csv` |
-| 16 | [State Corporate Income Tax Collections Per Capita](#table16) | Fiscal Year 2014 | `16-state-corporate-income-tax-collections-per-capita-fy2014.csv` |
-| 17 | [State and Local Corporate Income Tax Collections Per Capita](#table17) | Fiscal Year 2013 | `17-state-local-corp-income-tax-collections-per-capita-fy2013.csv` |
-| 18 | [State Gross Receipts Taxes](#table18) | 2016-01-01 | Intentionally Omitted from Set |
-| 19 | [State and Local Sales Tax Rates](#table19) | 2016-01-01 | `19-state-local-sales-tax-rates-2016.csv` |
-| 20 | [State General Sales Tax Collections per Capita](#table20) | Fiscal Year 2014 | `20-state-general-sales-tax-collections-per-capita-fy2014.csv` |
-| 21 | [State and Local General Sales Tax Collections Per Capita](#table21) | Fiscal Year 2013 | `21-state-local-general-sales-tax-collections-per-capita-fy2013.csv` |
-| 22 | [State Gasoline Tax Rates Per Gallon](#table22) | 2016-01-01 | `22-state-gasoline-tax-rates-per-gallon-2016.csv` |
-| 23 | [Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes](#table23) | Fiscal Year 2013 | `23-state-local-road-spending-by-source-fy2013.csv` |
-| 24 | [State Cigarette Excise Tax Rates (Dollars Per 20-Pack)](#table24) | 2016-01-01 | `24-state-cigarette-excise-tax-rates-per-pack-2016.csv` |
-| 25 | [State Spirits Excise Tax Rates (Dollars Per Gallon)](#table25) | 2016-01-01 | `25-state-spirits-excise-tax-rates-dollars-per-gallon-2016.csv` |
-| 26 | [State Wine Excise Tax Rates (Dollars Per Gallon)](#table26) | 2016-01-01 | `26-state-wine-excise-tax-rates-dollars-per-gallon-2016.csv` |
-| 27 | [State Beer Excise Tax Rates (Dollars Per Gallon)](#table27) | 2016-01-01 | `27-state-beer-excise-tax-rates-dollars-per-gallon-2016.csv` |
-| 28 | [State & Local Cell Phone Tax Rates](#table28) | 2015-07-01 | `28-state-local-cell-phone-tax-rates-2015.csv` |
-| 29 | [Sales Tax Treatment of Groceries, Candy, and Soda](#table29) | 2016-01-01 | `29-sales-tax-treatment-of-groceries-candy-and-soda-2016.csv` |
-| 30 | [State and Local Excise Tax Collections Per Capita](#table30) | Fiscal Year 2013 | `30-state-local-excise-tax-collections-per-capita-fy2013.csv` |
-| 31 | [Property Taxes Paid as a Percentage of Owner-Occupied Housing Value](#table31) | 2014 | `31-property-tax-as-percent-property-value-cy2014.csv` |
-| 32 | [State and Local Property Tax Collections Per Capita](#table32) | Fiscal Year 2013 | `32-state-local-property-tax-collections-per-capita-fy2013.csv` |
-| 33 | [Capital Stock Tax Rates](#table33) | 2016-01-01 | Intentionally Omitted from Set |
-| 34 | [Estate Tax Rates and Exemptions](#table34) | 2016-01-01 | Intentionally Omitted from Set |
-| 35 | [Inheritance Tax Rates and Exemptions](#table35) | 2016-01-01 | Intentionally Omitted from Set |
-| 36 | [State Debt Per Capita](#table36) | Fiscal Year 2013 | `36-state-debt-per-capita-fy2013.csv` |
-| 37 | [State and Local Debt Per Capita](#table37) | Fiscal Year 2013 | `37-state-local-debt-per-capita-fy2013.csv` |
-| 38 | [Income Per Capita By State](#table38) | 2014 | `38-income-per-capita-by-state-fy2014.csv` |
-| 39 | [People Per Household By State](#table39) | 2013-2014 | `39-people-per-household-2013-2014.csv` |
+| 4 | [State Tax Collections Per Capita](#table04) | Fiscal Year 2015 | `04-state-tax-collections-per-capita-fy2015.csv` |
+| 5 | [State Revenue Per Capita](#table05) | Fiscal Year 2014 | `05-state-revenue-per-capita-fy2014.csv` |
+| 6 | [State and Local Tax Collections Per Capita](#table06) | Fiscal Year 2014 | `06-state-local-collections-per-capita-fy2014.csv` |
+| 7 | [State and Local Revenue Per Capita](#table07) | Fiscal Year 2014 | `07-state-local-revenue-per-capita-fy2014.csv` |
+| 8 | [Sources of State and Local Tax Collections, Percentage of Total from Each Source](#table08) | Fiscal Year 2014 | `08-sources-of-state-local-collections-fy2014.csv` |
+| 9 | [Federal Aid as a Percentage of State Revenue](#table09) | Fiscal Year 2014 | `09-federal-aid-as-percent-of-revenue-fy2014.csv` |
+| 10 | [Federal Income Tax Payments by Income Percentile](#table10) | 2014 | Intentionally Omitted from Set |
+| 11 | [Selected Federal Tax Rates](#table11) | 2017 | Intentionally Omitted from Set |
+| 12 | [State Individual Income Tax Rates](#table12) | 2017-01-01 | `12-state-individual-income-tax-rates-2017.csv` |
+| 13 | [State Individual Income Tax Collections Per Capita](#table13) | Fiscal Year 2015 | `13-state-individual-income-tax-collections-per-capita-fy2015.csv` |
+| 14 | [State and Local Individual Income Tax Collections Per Capita](#table14) | Fiscal Year 2014 | `14-state-local-income-tax-collections-per-capita-fy2014.csv` |
+| 15 | [State Corporate Income Tax Rates](#table15) | 2017-01-01 | `15-state-corporate-income-tax-rates-2017.csv` |
+| 16 | [State Corporate Income Tax Collections Per Capita](#table16) | Fiscal Year 2015 | `16-state-corporate-income-tax-collections-per-capita-fy2015.csv` |
+| 17 | [State and Local Corporate Income Tax Collections Per Capita](#table17) | Fiscal Year 2014 | `17-state-local-corp-income-tax-collections-per-capita-fy2014.csv` |
+| 18 | [State Gross Receipts Taxes](#table18) | 2017-01-01 | Intentionally Omitted from Set |
+| 19 | [State and Local Sales Tax Rates](#table19) | 2017-01-01 | `19-state-local-sales-tax-rates-2017.csv` |
+| 20 | [State General Sales Tax Collections per Capita](#table20) | Fiscal Year 2015 | `20-state-general-sales-tax-collections-per-capita-fy2015.csv` |
+| 21 | [State and Local General Sales Tax Collections Per Capita](#table21) | Fiscal Year 2014 | `21-state-local-general-sales-tax-collections-per-capita-fy2014.csv` |
+| 22 | [State Sales Tax Breadth](#table22) | 2015 | `22-state-sales-tax-breadth.csv` |
+| 23 | [State Gasoline Tax Rates Per Gallon](#table23) | 2017-01-01 | `22-state-gasoline-tax-rates-per-gallon-2017.csv` |
+| 24 | [Share of State and Local Road Spending Covered by State and Local Tolls, User Fees, and User Taxes](#table24) | Fiscal Year 2014 | `23-state-local-road-spending-by-source-fy2014.csv` |
+| 25 | [State Cigarette Excise Tax Rates (Dollars Per 20-Pack)](#table25) | 2017-01-01 | `24-state-cigarette-excise-tax-rates-per-pack-2017.csv` |
+| 26 | [State Vapor Excise Tax Rates](#table26) | 2017-01-01 | Intentionally Omitted from Set |
+| 27 | [State Recreational Marijuana Excise Tax Rates](#table27) | 2017-01-01 | Intentionally Omitted from Set |
+| 28 | [State Spirits Excise Tax Rates (Dollars Per Gallon)](#table28) | 2017-01-01 | `28-state-spirits-excise-tax-rates-dollars-per-gallon-2017.csv` |
+| 29 | [State Wine Excise Tax Rates (Dollars Per Gallon)](#table29) | 2017-01-01 | `29-state-wine-excise-tax-rates-dollars-per-gallon-2017.csv` |
+| 30 | [State Beer Excise Tax Rates (Dollars Per Gallon)](#table30) | 2017-01-01 | `30-state-beer-excise-tax-rates-dollars-per-gallon-2017.csv` |
+| 31 | [State & Local Cell Phone Tax Rates](#table31) | 2016-07-01 | `31-state-local-cell-phone-tax-rates-2016.csv` |
+| 32 | [Sales Tax Treatment of Groceries, Candy, and Soda](#table32) | 2017-01-01 | `32-sales-tax-treatment-of-groceries-candy-and-soda-2017.csv` |
+| 33 | [State and Local Excise Tax Collections Per Capita](#table30) | Fiscal Year 2014 | `33-state-local-excise-tax-collections-per-capita-fy2014.csv` |
+| 34 | [Property Taxes Paid as a Percentage of Owner-Occupied Housing Value](#table34) | 2015 | `34-property-tax-as-percent-property-value-cy2015.csv` |
+| 35 | [State and Local Property Tax Collections Per Capita](#table35) | Fiscal Year 2014 | `35-state-local-property-tax-collections-per-capita-fy2014.csv` |
+| 36 | [Capital Stock Tax Rates](#table36) | 2017-01-01 | Intentionally Omitted from Set |
+| 37 | [Estate Tax Rates and Exemptions](#table37) | 2017-01-01 | Intentionally Omitted from Set |
+| 38 | [Inheritance Tax Rates and Exemptions](#table38) | 2017-01-01 | Intentionally Omitted from Set |
+| 39 | [State Debt Per Capita](#table39) | Fiscal Year 2014 | `39-state-debt-per-capita-fy2014.csv` |
+| 40 | [State and Local Debt Per Capita](#table40) | Fiscal Year 2014 | `40-state-local-debt-per-capita-fy2014.csv` |
+| 41 | [Funded Ratio of Public Pension Plans](#table41) | Fiscal Year 2015 | `41-funded-ratio-pension-plans-fy2015.csv` |
+| 42 | [Income Per Capita By State](#table42) | 2015 | `42-income-per-capita-by-state-fy2015.csv` |
+| 43 | [People Per Household By State](#table43) | 2014-2015 | `43-people-per-household-2014-2015.csv` |
 
 ### <a id="table01"></a>Table 1. Tax Freedom Day 2016
 
@@ -67,7 +71,7 @@ Tax Freedom Day is the day when the nation as a whole has earned enough money to
 
 ### <a id="table02"></a>Table 2. State-Local Tax Burdens
 
-These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2012](http://taxfoundation.org/article/state-local-tax-burden-rankings-fy-2012) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) [Nicole Kaeding] (http:http://taxfoundation.org/staff/nicole-kaeding) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid per capita by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
+These data accompany the Tax Foundation's report [Annual State-Local Tax Burden Rankings FY 2012](http://taxfoundation.org/article/state-local-tax-burden-rankings-fy-2012) by [Liz Malm](http://taxfoundation.org/staff/liz-malm) [Nicole Kaeding](http:http://taxfoundation.org/staff/nicole-kaeding) and [Gerald Prante](http://www.lynchburg.edu/content/gerald-prante). They are the product of analyzing data from government and public policy sources. This report estimates the combined state and local tax burden shouldered by the residents of each of the fifty states, regardless of the jurisdictions to which those taxes are paid. The burden is calculated as the total taxes paid per capita by state residents to any tax jurisdiction divided by the per capita income of that state. [View full explanation of methodology.](http://taxfoundation.org/article/tax-foundation-state-local-tax-burden-estimates-overview-methodology)
 
 To see more complete data going back to 1977, see [here](https://github.com/TaxFoundation/data/tree/master/state-local-tax-burdens).
 
@@ -441,7 +445,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table15"></a>Table 15. State Corporate Income Tax Rates
 
-These data summarize state-level marginal corporate income tax rates as of January 1, 2016. Dollar amounts listed are in nominal dollars.
+These data summarize state-level marginal corporate income tax rates as of January 1, 2017. Dollar amounts listed are in nominal dollars.
 
 #### Explanation of Data
 
@@ -458,7 +462,7 @@ These data summarize state-level marginal corporate income tax rates as of Janua
 
 In addition to regular corporate income taxes, many states impose other taxes on corporations such as gross receipts taxes and franchise taxes. Some states also impose an alternative minimum tax and special rates on financial institutions. These are not included here.
 
-Arkansas assesses a surcharge of 3% of the taxpayer's total liability.
+Arkansas has a "benefit recapture," by which corporations with more than $100,000 of taxable income pay a flat tax of 6.5% on all income, not just on amounts above the benefit threshold.
 
 Connecticut's rate includes a 20% surtax, which effectively increases the rate from 7.5% to 9%. Surtax is required by businesses with at least $100 million annual gross income.
 
@@ -466,19 +470,19 @@ Nevada, Ohio, Texas, and Washington do not have a corporate income tax but do ha
 
 Illinois' rate includes two separate corporate income taxes, one at a 5.25% rate and one at a 2.5% rate.
 
-The tax rate in Indiana will decrease to 6.5% on July 1, 2015.
+The tax rate in Indiana will decrease to 6% on July 1, 2017.
 
 In New Jersey, corporations with entire net income greater than $100,000 pay 9% on all taxable income, companies with entire net income greater than $50,000 and less than or equal to $100,000 pay 7.5% on all taxable income, and companies with entire net income less than or equal to $50,000 pay 6.5% on all taxable income.
 
-The tax rate in New Mexico will decrease to 6.2% in 2017.
+The tax rate in New Mexico will decrease to 5.9% in 2018.
 
 #### Source
 
-State tax statutes, forms, and instructions; Commerce Clearing House; Tax Foundation.
+State tax statutes, forms, and instructions; Bloomberg BNA; Tax Foundation.
 
 ### <a id="table16"></a>Table 16. State Corporate Income Tax Collections Per Capita
 
-Fiscal Year 2014
+Fiscal Year 2015
 
 #### Explanation of Data
 
@@ -501,7 +505,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table17"></a>Table 17. State and Local Corporate Income Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -524,7 +528,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table18"></a>Table 18. State Gross Receipts Taxes
 
-January 1, 2016
+January 1, 2017
 
 Gross receipts taxes are complex business taxes imposed at a low rate but on a wide base of transactions, resulting in high effective tax rates that can vary by industry. These taxes often include minimum tax liabilities that can result in much higher effective rates for some small businesses.
 
@@ -545,11 +549,11 @@ Virginia's tax is locally levied and rates vary by business and jurisdiction. Ap
 
 #### Source
 
-Commerce Clearing House; state revenue departments; Weldon Cooper Center for Public Service.
+Bloomberg BNA; state revenue departments; Weldon Cooper Center for Public Service.
 
 ### <a id="table19"></a>Table 19. State and Local Sales Tax Rates
 
-January 1, 2016
+January 1, 2017
 
 #### Explanation of Data
 
@@ -580,7 +584,7 @@ Source: Sales Tax Clearing House; Tax Foundation.
 
 ### <a id="table20"></a>Table 20. State General Sales Tax Collections per Capita
 
-Fiscal Year 2014
+Fiscal Year 2015
 
 #### Explanation of Data
 
@@ -601,7 +605,7 @@ U.S. Census Bureau; Tax Foundation
 
 ### <a id="table21"></a>Table 21. State and Local General Sales Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -619,6 +623,29 @@ Some states levy gross receipts taxes in addition to sales taxes. The U.S. Censu
 #### Source
 
 U.S. Census Bureau; Tax Foundation
+
+### <a id="table22"></a>Table 22. State Sales Tax Breadth
+
+Fiscal Year 2015
+
+#### Explanation of Data
+
+| Name | Description |
+| --- | --- |
+| `id` | The ANSI code identifying the state in each record. |
+| `stateAbbr` | The ANSI code abbreviation for the state in each record. |
+| `stateName` | The full name of the state in each record. |
+| `salesTaxBreadth` | The calculated sales tax breadth. |
+
+#### Notes
+
+The sales taxes in Hawaii, New Mexico, and South Dakota have broad bases that include many business-to-business services.
+
+Sales tax breadth is defined as the ratio of the implicit sales tax base to state personal income.
+
+#### Source
+
+Professor John Mikesell (Indiana University).
 
 ### <a id="table23"></a>Table 23. State Gasoline Tax Rates Per Gallon
 
@@ -980,9 +1007,9 @@ Excise taxes are sales and other special taxes imposed on select items, such as 
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table31"></a>Table 31. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
+### <a id="table34"></a>Table 34. Property Taxes Paid as a Percentage of Owner-Occupied Housing Value
 
-Average effective property tax rates by state in the calendar year 2014.
+Average effective property tax rates by state in the calendar year 2015.
 
 The figures in this table are mean effective property tax rates on owner-occupied housing (total real taxes paid divided by total home value). As a result, the data exclude property taxes paid by businesses, renters, and others.
 
@@ -999,9 +1026,9 @@ The figures in this table are mean effective property tax rates on owner-occupie
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table32"></a>Table 32. State and Local Property Tax Collections Per Capita
+### <a id="table35"></a>Table 35. State and Local Property Tax Collections Per Capita
 
-Fiscal Year 2013
+Fiscal Year 2014
 
 #### Explanation of Data
 
@@ -1016,9 +1043,9 @@ Fiscal Year 2013
 
 U.S. Census Bureau; Tax Foundation.
 
-### <a id="table33"></a>Table 33. Capital Stock Tax Rates
+### <a id="table36"></a>Table 36. Capital Stock Tax Rates
 
-January 1, 2016
+January 1, 2017
 
 This table has not been included as part of the Tax Foundation data repository because it is a summary table intended purely for reference. This table is not structured for data analysis. The table is reproduced below:
 
@@ -1026,7 +1053,7 @@ This table has not been included as part of the Tax Foundation data repository b
 | --- | --- | --- |
 | Alaska | 0.175% | $15,000 |
 | Arkansas | 0.3% | Unlimited |
-| Connecticut) | 0.31% | $1,000,000 |
+| Connecticut | 0.31% | $1,000,000 |
 | Delaware | 0.0350% | $180,000 |
 | Georgia | See Notes | $5,000 |
 | Illinois | 0.1% | $2,000,000 |
@@ -1034,7 +1061,7 @@ This table has not been included as part of the Tax Foundation data repository b
 | Massachusetts | 0.26% | Unlimited |
 | Mississippi | 0.25% | Unlimited |
 | Nebraska | See Notes | $11,995 |
-| New York | 0.125% | $1,000,000 |
+| New York | 0.125% | $5,000,000 |
 | North Carolina | 0.15% | Unlimited |
 | Oklahoma | 0.125% | $20,000 |
 | South Carolina | 0.1% | Unlimited |
@@ -1059,7 +1086,7 @@ Based on a fixed dollar payment schedule. Effective tax rates decrease as taxabl
 
 #### Source
 
-State statutes; Commerce Clearing House
+State statutes; Bloomberg BNA
 
 ### <a id="table34"></a>Table 34. Estate Tax Rates and Exemptions
 
