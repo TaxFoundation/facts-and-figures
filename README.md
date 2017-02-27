@@ -1087,7 +1087,7 @@ This table has not been included as part of the Tax Foundation data repository b
 
 #### Notes
 
-Maryland and New Jersey have both an estate and an inheritance tax. See [Table 35](#table35).
+Maryland and New Jersey have both an estate and an inheritance tax. See [Table 38](#table38).
 
 New York's exemption increases to $5,250,000 on April 1, 2017.
 
