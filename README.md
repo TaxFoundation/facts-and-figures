@@ -1249,7 +1249,8 @@ Fiscal Year 2014
 
 Pew Charitable Trusts, "Funded Ratios Increased in Most States in Fiscal Year 2014" (2016).
 
-### <a id="table39"></a>Table 39. People Per Household
+
+### <a id="table43"></a>Table 43. People Per Household
 
 The average number of people per household by state.
 
