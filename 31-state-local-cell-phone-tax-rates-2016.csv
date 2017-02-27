@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,averageCellTaxRate,averageCellTaxRateRank
+0,US,United States,0.0646,
+1,AL,Alabama,0.0992,27
+2,AK,Alaska,0.1354,12
+4,AZ,Arizona,0.1225,17
+5,AR,Arkansas,0.1467,8
+6,CA,California,0.1355,11
+8,CO,Colorado,0.1084,23
+9,CT,Connecticut,0.0749,43
+10,DE,Delaware,0.0634,46
+11,DC,District of Columbia,0.117,(19)
+12,FL,Florida,0.147,7
+13,GA,Georgia,0.0963,28
+15,HI,Hawaii,0.0768,42
+16,ID,Idaho,0.0226,48
+17,IL,Illinois,0.1784,4
+18,IN,Indiana,0.1122,21
+19,IA,Iowa,0.0881,31
+20,KS,Kansas,0.1378,9
+21,KY,Kentucky,0.1077,24
+22,LA,Louisiana,0.0879,32
+23,ME,Maine,0.0871,33
+24,MD,Maryland,0.1283,14
+25,MA,Massachusetts,0.0849,38
+26,MI,Michigan,0.0798,41
+27,MN,Minnesota,0.0998,26
+28,MS,Mississippi,0.0924,29
+29,MO,Missouri,0.1479,6
+30,MT,Montana,0.0621,47
+31,NE,Nebraska,0.1867,2
+32,NV,Nevada,0.0209,49
+33,NH,New Hampshire,0.0868,34
+34,NJ,New Jersey,0.0902,30
+35,NM,New Mexico,0.1133,20
+36,NY,New York,0.1804,3
+37,NC,North Carolina,0.0857,36
+38,ND,North Dakota,0.1239,16
+39,OH,Ohio,0.0844,39
+40,OK,Oklahoma,0.1092,22
+41,OR,Oregon,0.0184,50
+42,PA,Pennsylvania,0.157,5
+44,RI,Rhode Island,0.1349,13
+45,SC,South Carolina,0.1064,25
+46,SD,South Dakota,0.1372,10
+47,TN,Tennessee,0.121,18
+48,TX,Texas,0.1158,19
+49,UT,Utah,0.1273,15
+50,VT,Vermont,0.085,37
+51,VA,Virginia,0.0668,45
+53,WA,Washington,0.1878,1
+54,WV,West Virginia,0.0672,44
+55,WI,Wisconsin,0.0861,35
+56,WY,Wyoming,0.0818,40

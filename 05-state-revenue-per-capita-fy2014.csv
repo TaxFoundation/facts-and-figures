@@ -1,0 +1,52 @@
+id,stateAbbr,stateName,revenuePerCapita,revenuePerCapitaRank
+0,US,United States,5361,
+1,AL,Alabama,4735,39
+2,AK,Alaska,14160,1
+4,AZ,Arizona,4362,46
+5,AR,Arkansas,6087,17
+6,CA,California,5948,20
+8,CO,Colorado,4619,41
+9,CT,Connecticut,7190,10
+10,DE,Delaware,8126,5
+12,FL,Florida,3860,50
+13,GA,Georgia,3863,49
+15,HI,Hawaii,7959,6
+16,ID,Idaho,4548,42
+17,IL,Illinois,5173,33
+18,IN,Indiana,5041,35
+19,IA,Iowa,6075,18
+20,KS,Kansas,5303,31
+21,KY,Kentucky,5726,23
+22,LA,Louisiana,5453,28
+23,ME,Maine,6159,15
+24,MD,Maryland,6072,19
+25,MA,Massachusetts,7261,9
+26,MI,Michigan,5530,25
+27,MN,Minnesota,6898,11
+28,MS,Mississippi,5872,21
+29,MO,Missouri,4399,45
+30,MT,Montana,5841,22
+31,NE,Nebraska,5193,32
+32,NV,Nevada,4045,48
+33,NH,New Hampshire,4452,44
+34,NJ,New Jersey,6327,14
+35,NM,New Mexico,7476,7
+36,NY,New York,7436,8
+37,NC,North Carolina,4719,40
+38,ND,North Dakota,11959,2
+39,OH,Ohio,5355,30
+40,OK,Oklahoma,5527,26
+41,OR,Oregon,6133,16
+42,PA,Pennsylvania,5499,27
+44,RI,Rhode Island,6746,12
+45,SC,South Carolina,4778,38
+46,SD,South Dakota,4877,37
+47,TN,Tennessee,4046,47
+48,TX,Texas,4510,43
+49,UT,Utah,5086,34
+50,VT,Vermont,9209,4
+51,VA,Virginia,4979,36
+53,WA,Washington,5422,29
+54,WV,West Virginia,6624,13
+55,WI,Wisconsin,5633,24
+56,WY,Wyoming,9892,3

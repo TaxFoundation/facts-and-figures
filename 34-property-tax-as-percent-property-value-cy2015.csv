@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,PropertyTaxAsAsPercentPropertyValue,propTaxAsPercentPropValueRank
+0,US,United States,0.0108,
+1,AL,Alabama,0.0038,49
+2,AK,Alaska,0.0097,23
+4,AZ,Arizona,0.0066,38
+5,AR,Arkansas,0.0059,42
+6,CA,California,0.0072,36
+8,CO,Colorado,0.0055,44
+9,CT,Connecticut,0.0165,6
+10,DE,Delaware,0.0056,43
+11,DC,District of Columbia,0.0057,(43)
+12,FL,Florida,0.0093,24
+13,GA,Georgia,0.0089,26
+15,HI,Hawaii,0.0028,50
+16,ID,Idaho,0.0075,34
+17,IL,Illinois,0.0197,3
+18,IN,Indiana,0.0084,28
+19,IA,Iowa,0.0143,12
+20,KS,Kansas,0.0129,15
+21,KY,Kentucky,0.0078,32
+22,LA,Louisiana,0.0048,48
+23,ME,Maine,0.0124,16
+24,MD,Maryland,0.0100,20
+25,MA,Massachusetts,0.0113,18
+26,MI,Michigan,0.0143,13
+27,MN,Minnesota,0.0108,19
+28,MS,Mississippi,0.0061,41
+29,MO,Missouri,0.0098,21
+30,MT,Montana,0.0075,33
+31,NE,Nebraska,0.0159,8
+32,NV,Nevada,0.0068,37
+33,NH,New Hampshire,0.0199,2
+34,NJ,New Jersey,0.0213,1
+35,NM,New Mexico,0.0066,39
+36,NY,New York,0.0138,14
+37,NC,North Carolina,0.0082,31
+38,ND,North Dakota,0.0088,27
+39,OH,Ohio,0.0157,9
+40,OK,Oklahoma,0.0083,30
+41,OR,Oregon,0.0098,22
+42,PA,Pennsylvania,0.0146,11
+44,RI,Rhode Island,0.0151,10
+45,SC,South Carolina,0.0055,45
+46,SD,South Dakota,0.0119,17
+47,TN,Tennessee,0.0072,35
+48,TX,Texas,0.0163,7
+49,UT,Utah,0.0064,40
+50,VT,Vermont,0.0171,5
+51,VA,Virginia,0.0083,29
+53,WA,Washington,0.0093,25
+54,WV,West Virginia,0.0053,47
+55,WI,Wisconsin,0.0172,4
+56,WY,Wyoming,0.0054,46

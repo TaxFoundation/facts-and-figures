@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,incomePerCapita,incomePerCapitaRank
+0,US,United States,48112,
+1,AL,Alabama,38030,47
+2,AK,Alaska,56147,5
+4,AZ,Arizona,39156,42
+5,AR,Arkansas,38252,46
+6,CA,California,53741,10
+8,CO,Colorado,50899,13
+9,CT,Connecticut,68704,1
+10,DE,Delaware,47633,22
+11,DC,District of Columbia,73302,(1)
+12,FL,Florida,44429,28
+13,GA,Georgia,40306,40
+15,HI,Hawaii,48288,20
+16,ID,Idaho,38392,44
+17,IL,Illinois,50295,15
+18,IN,Indiana,41940,36
+19,IA,Iowa,45902,26
+20,KS,Kansas,47161,23
+21,KY,Kentucky,38588,43
+22,LA,Louisiana,42947,31
+23,ME,Maine,42799,33
+24,MD,Maryland,55972,7
+25,MA,Massachusetts,62603,2
+26,MI,Michigan,42812,32
+27,MN,Minnesota,50871,14
+28,MS,Mississippi,34771,50
+29,MO,Missouri,42300,34
+30,MT,Montana,41809,38
+31,NE,Nebraska,48544,19
+32,NV,Nevada,41889,37
+33,NH,New Hampshire,55905,9
+34,NJ,New Jersey,59949,3
+35,NM,New Mexico,37938,48
+36,NY,New York,58670,4
+37,NC,North Carolina,40759,39
+38,ND,North Dakota,55950,8
+39,OH,Ohio,43566,30
+40,OK,Oklahoma,45573,27
+41,OR,Oregon,43783,29
+42,PA,Pennsylvania,49745,17
+44,RI,Rhode Island,50018,16
+45,SC,South Carolina,38302,45
+46,SD,South Dakota,47881,21
+47,TN,Tennessee,42094,35
+48,TX,Texas,46947,24
+49,UT,Utah,39308,41
+50,VT,Vermont,48587,18
+51,VA,Virginia,52052,11
+53,WA,Washington,51898,12
+54,WV,West Virginia,36758,49
+55,WI,Wisconsin,45914,25
+56,WY,Wyoming,56081,6

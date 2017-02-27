@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,gasolineAndLicenseTaxes,gasolineAndLicenseTaxesRank,tollsAndUserFees,totalRate,totalRateRank
+0,US,United States,0.417,,0.116,0.533,
+1,AL,Alabama,0.364,33,0.010,0.374,42
+2,AK,Alaska,0.078,50,0.042,0.120,50
+4,AZ,Arizona,0.504,11,0.010,0.514,22
+5,AR,Arkansas,0.372,31,0.006,0.378,41
+6,CA,California,0.533,5,0.085,0.618,10
+8,CO,Colorado,0.431,16,0.069,0.499,24
+9,CT,Connecticut,0.407,22,0.042,0.449,29
+10,DE,Delaware,0.243,46,0.448,0.691,2
+11,DC,District of Columbia,0.224,(49),0.052,0.276,-46
+12,FL,Florida,0.490,12,0.188,0.678,4
+13,GA,Georgia,0.385,28,0.012,0.396,39
+15,HI,Hawaii,0.712,1,0.051,0.763,1
+16,ID,Idaho,0.440,15,0.038,0.478,26
+17,IL,Illinois,0.406,23,0.142,0.547,19
+18,IN,Indiana,0.425,17,0.007,0.432,31
+19,IA,Iowa,0.416,19,0.012,0.428,32
+20,KS,Kansas,0.379,29,0.062,0.441,30
+21,KY,Kentucky,0.387,27,0.013,0.399,38
+22,LA,Louisiana,0.305,41,0.024,0.329,45
+23,ME,Maine,0.389,26,0.164,0.553,18
+24,MD,Maryland,0.409,21,0.260,0.669,6
+25,MA,Massachusetts,0.364,34,0.196,0.560,15
+26,MI,Michigan,0.560,4,0.061,0.621,9
+27,MN,Minnesota,0.376,30,0.035,0.412,36
+28,MS,Mississippi,0.361,36,0.001,0.362,44
+29,MO,Missouri,0.394,25,0.022,0.416,33
+30,MT,Montana,0.355,37,0.027,0.381,40
+31,NE,Nebraska,0.411,20,0.040,0.451,27
+32,NV,Nevada,0.513,8,0.054,0.566,14
+33,NH,New Hampshire,0.308,40,0.181,0.489,25
+34,NJ,New Jersey,0.241,48,0.431,0.672,5
+35,NM,New Mexico,0.396,24,0.018,0.415,35
+36,NY,New York,0.295,43,0.390,0.685,3
+37,NC,North Carolina,0.619,2,0.013,0.632,8
+38,ND,North Dakota,0.208,49,0.019,0.228,49
+39,OH,Ohio,0.490,13,0.065,0.555,16
+40,OK,Oklahoma,0.506,10,0.103,0.608,11
+41,OR,Oregon,0.577,3,0.066,0.643,7
+42,PA,Pennsylvania,0.352,38,0.156,0.508,23
+44,RI,Rhode Island,0.367,32,0.049,0.416,34
+45,SC,South Carolina,0.530,6,0.067,0.597,12
+46,SD,South Dakota,0.242,47,0.014,0.255,48
+47,TN,Tennessee,0.522,7,0.003,0.525,21
+48,TX,Texas,0.461,14,0.128,0.589,13
+49,UT,Utah,0.512,9,0.042,0.554,17
+50,VT,Vermont,0.247,45,0.013,0.260,47
+51,VA,Virginia,0.302,42,0.068,0.370,43
+53,WA,Washington,0.425,18,0.118,0.542,20
+54,WV,West Virginia,0.362,35,0.087,0.450,28
+55,WI,Wisconsin,0.351,39,0.055,0.407,37
+56,WY,Wyoming,0.274,44,0.016,0.290,46
