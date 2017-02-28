@@ -745,16 +745,16 @@ January 1, 2017
 
 This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
 
-| State | Tax Rate |
-| --- | --- |
-| Alaska | $50/ounce |
-| Calif. | 15% sales tax (gross receipts); $9.25/oz flowers & $2.75/oz leaves cultivation tax |
-| Colo. | 15% excise tax (average retail market rate); 10% sales tax (8% as of July 1, 2017) |
-| Maine | 10% sales tax (effective January 30, 2017) |
-| Mass. | 3.75% sales tax |
-| Nev. | 15% excise tax (wholesale price) |
-| Ore. | 17% sales tax |
-| Wash. | 37% sales tax |
+State  | Tax Rate
+------ | --------
+Alaska | $50/ounce
+Calif. | 15% sales tax (gross receipts); $9.25/oz flowers & $2.75/oz leaves cultivation tax
+Colo.  | 15% excise tax (average retail market rate); 10% sales tax (8% as of July 1, 2017)
+Maine  | 10% sales tax (effective January 30, 2017)
+Mass.  | 3.75% sales tax
+Nev.   | 15% excise tax (wholesale price)
+Ore.   | 17% sales tax
+Wash.  | 37% sales tax
 
 #### Note
 
