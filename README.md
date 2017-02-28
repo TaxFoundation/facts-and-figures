@@ -705,6 +705,7 @@ January 1, 2017
 #### Notes
 
 California approved a $2 cigarette tax increase. It takes effect April 1, 2017.
+
 Local taxes are not included and can be substantial.
 
 #### Source
@@ -717,18 +718,18 @@ January 1, 2017
 
 This summary data is impractical for data analysis and has been excluded from the set of data. The summary table is reproduced below:
 
-| State | Tax Rate |
-| --- | --- |
-| Calif. | 27.30% of wholesale |
-| Ill. | $0.80/unit plus $0.55/ml (applicable only in city of Chicago); $0.20/ml (applicable only in Cook County) |
-| Kans. | $0.20/ml |
-| La. | $0.05/ml |
-| Md. | 30% of wholesale (applicable only in Montgomery County) |
-| Minn. | 95% of wholesale (applied to wholesale cost of any product containing or derived from tobacco) |
-| N.C. | $0.05/ml |
-| Pa. | 40% of retail |
-| W.Va. | $0.075/ml |
-| D.C. | 65% of wholesale |
+State  | Tax Rate
+------ | -------
+Calif. | 27.30% of wholesale
+Ill.   | $0.80/unit plus $0.55/ml (applicable only in city of Chicago); $0.20/ml (applicable only in Cook County)
+Kans.  | $0.20/ml
+La.    | $0.05/ml
+Md.    | 30% of wholesale (applicable only in Montgomery County)
+Minn.  | 95% of wholesale (applied to wholesale cost of any product containing or derived from tobacco)
+N.C.   | $0.05/ml
+Pa.    | 40% of retail
+W.Va.  | $0.075/ml
+D.C.   | 65% of wholesale
 
 #### Note
 
