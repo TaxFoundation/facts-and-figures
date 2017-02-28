@@ -1189,7 +1189,7 @@ Parent-to-child transfers to children 21 years and under, transfers of farms and
 
 Inheritance taxes are levied on the posthumous transfer of assets based on relationship to the decedent. Generally, Class A beneficiaries are spouses, children, and often siblings. Class B beneficiaries are non-immediate family members. Class C beneficiaries are non-family members. For inheritance taxes, unlike estate taxes, the term “exemption” applies to the size of the gift itself, not the total size of the estate.
 
-Maryland and New Jersey have both an estate tax and an inheritance tax. See [Table 34](#table34).
+Maryland and New Jersey have both an estate tax and an inheritance tax. See [Table 37](#table37).
 
 #### Source
 
@@ -1231,7 +1231,7 @@ Fiscal Year 2014
 
 #### Notes
 
-See [Table 39. People Per Household](#table39) for average people per household by state.
+See [Table 43. People Per Household](#table43) for average people per household by state.
 
 #### Source
 
