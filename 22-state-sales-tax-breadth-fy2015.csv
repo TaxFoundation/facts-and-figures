@@ -1,5 +1,4 @@
 id,stateAbbr,stateName,salesTaxBreadth,salesTaxBreadthRank
-0,US,United States,,
 1,AL,Alabama,0.352,23
 2,AK,Alaska,--,--
 4,AZ,Arizona,0.407,11

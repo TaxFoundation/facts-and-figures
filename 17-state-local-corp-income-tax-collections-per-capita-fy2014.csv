@@ -1,13 +1,13 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,168,
-1,AL,Alabama,79,42
-2,AK,Alaska,856,1
-4,AZ,Arizona,100,36
-5,AR,Arkansas,136,24
-6,CA,California,194,11
-8,CO,Colorado,124,31
+0,US,United States,171,
+1,AL,Alabama,84,42
+2,AK,Alaska,555,2
+4,AZ,Arizona,85,41
+5,AR,Arkansas,134,24
+6,CA,California,228,10
+8,CO,Colorado,134,25
 9,CT,Connecticut,159,18
-10,DE,Delaware,341,5
+10,DE,Delaware,304,7
 11,DC,District of Columbia,630,1*
 12,FL,Florida,103,34
 13,GA,Georgia,93,37

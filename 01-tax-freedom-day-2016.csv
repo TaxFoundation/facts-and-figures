@@ -20,21 +20,21 @@ id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
 21,KY,Kentucky,4/11/2016,8
 22,LA,Louisiana,4/7/2016,3
 23,ME,Maine,4/15/2016,16
-24,MD,Maryland,5/5/2016,47
-25,MA,Massachusetts,4/28/2016,42
+24,MD,Maryland,4/28/2016,42
+25,MA,Massachusetts,5/5/2016,47
 26,MI,Michigan,4/22/2016,32
 27,MN,Minnesota,4/30/2016,45
 28,MS,Mississippi,4/5/2016,1
 29,MO,Missouri,4/12/2016,12
 30,MT,Montana,4/17/2016,20
-31,NE,Nebraska,4/16/2016,19
-32,NV,Nevada,4/26/2016,39
+31,NE,Nebraska,4/21/2016,14
+32,NV,Nevada,4/21/2016,30
 33,NH,New Hampshire,4/22/2016,32
 34,NJ,New Jersey,5/12/2016,49
 35,NM,New Mexico,4/9/2016,6
 36,NY,New York,5/11/2016,48
-37,NC,North Carolina,4/14/2016,14
-38,ND,North Dakota,4/21/2016,30
+37,NC,North Carolina,4/16/2016,19
+38,ND,North Dakota,4/26/2016,39
 39,OH,Ohio,4/19/2016,26
 40,OK,Oklahoma,4/11/2016,8
 41,OR,Oregon,4/24/2016,37
@@ -45,9 +45,9 @@ id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
 47,TN,Tennessee,4/6/2016,2
 48,TX,Texas,4/17/2016,20
 49,UT,Utah,4/21/2016,30
-50,VT,Vermont,4/22/2016,32
-51,VA,Virginia,4/17/2016,20
-53,WA,Washington,4/11/2016,8
+50,VT,Vermont,4/17/2016,20
+51,VA,Virginia,4/22/2016,32
+53,WA,Washington,4/27/2016,40
 54,WV,West Virginia,4/27/2016,40
 55,WI,Wisconsin,4/27/2016,40
 56,WY,Wyoming,4/23/2016,36
