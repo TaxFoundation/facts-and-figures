@@ -2,12 +2,12 @@ id,stateAbbr,stateName,rank,corporateTaxRank,incomeTaxRank,salesTaxRank,unemploy
 1,AL,Alabama,32,14,22,48,14,16
 2,AK,Alaska,3,27,1,5,29,22
 4,AZ,Arizona,21,19,19,47,13,6
-5,AR,Arkansas,38,40,30,44,30,24
+5,AR,Arkansas,38,40,29,44,30,24
 6,CA,California,48,33,50,40,16,15
 8,CO,Colorado,16,18,16,39,42,14
 9,CT,Connecticut,43,32,37,27,21,49
 10,DE,Delaware,19,50,34,1,3,20
-11,DC,District of Columbia,(47),(31),(43),(33),(27),(47)
+11,DC,District of Columbia,47*,31*,43*,33*,27*,47*
 12,FL,Florida,4,19,1,28,2,10
 13,GA,Georgia,36,10,42,33,35,21
 15,HI,Hawaii,26,11,31,23,24,17
@@ -16,7 +16,7 @@ id,stateAbbr,stateName,rank,corporateTaxRank,incomeTaxRank,salesTaxRank,unemploy
 18,IN,Indiana,8,23,11,10,10,4
 19,IA,Iowa,40,47,33,21,34,40
 20,KS,Kansas,22,39,18,30,11,19
-21,KY,Kentucky,34,28,29,13,48,36
+21,KY,Kentucky,34,28,30,13,48,36
 22,LA,Louisiana,41,36,27,50,9,30
 23,ME,Maine,30,41,25,8,44,41
 24,MD,Maryland,42,21,46,14,26,42

@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,taxPerPack,taxPerPackRank
+0,US,United States,1.0066,
+1,AL,Alabama,0.675,39
+2,AK,Alaska,2,12
+4,AZ,Arizona,2,12
+5,AR,Arkansas,1.15,32
+6,CA,California,0.87,36
+8,CO,Colorado,0.84,37
+9,CT,Connecticut,3.9,2
+10,DE,Delaware,1.6,23
+11,DC,District of Columbia,2.5,11*
+12,FL,Florida,1.339,28
+13,GA,Georgia,0.37,48
+15,HI,Hawaii,3.2,5
+16,ID,Idaho,0.57,44
+17,IL,Illinois,1.98,17
+18,IN,Indiana,0.995,35
+19,IA,Iowa,1.36,27
+20,KS,Kansas,1.29,30
+21,KY,Kentucky,0.6,42
+22,LA,Louisiana,1.08,33
+23,ME,Maine,2,12
+24,MD,Maryland,2,12
+25,MA,Massachusetts,3.51,4
+26,MI,Michigan,2,12
+27,MN,Minnesota,3.04,7
+28,MS,Mississippi,0.68,38
+29,MO,Missouri,0.17,50
+30,MT,Montana,1.7,20
+31,NE,Nebraska,0.64,40
+32,NV,Nevada,1.8,18
+33,NH,New Hampshire,1.78,19
+34,NJ,New Jersey,2.7,9
+35,NM,New Mexico,1.66,22
+36,NY,New York,4.35,1
+37,NC,North Carolina,0.45,46
+38,ND,North Dakota,0.44,47
+39,OH,Ohio,1.6,23
+40,OK,Oklahoma,1.03,34
+41,OR,Oregon,1.32,29
+42,PA,Pennsylvania,2.6,10
+44,RI,Rhode Island,3.75,3
+45,SC,South Carolina,0.57,44
+46,SD,South Dakota,1.53,25
+47,TN,Tennessee,0.62,41
+48,TX,Texas,1.41,26
+49,UT,Utah,1.7,20
+50,VT,Vermont,3.08,6
+51,VA,Virginia,0.3,49
+53,WA,Washington,3.025,8
+54,WV,West Virginia,1.2,31
+55,WI,Wisconsin,2.52,11
+56,WY,Wyoming,0.6,42

@@ -1,0 +1,51 @@
+id,stateAbbr,stateName,fundedRatio
+1,AL,Alabama,0.7
+2,AK,Alaska,0.6
+4,AZ,Arizona,0.64
+5,AR,Arkansas,0.86
+6,CA,California,0.76
+8,CO,Colorado,0.64
+9,CT,Connecticut,0.51
+10,DE,Delaware,0.92
+12,FL,Florida,0.91
+13,GA,Georgia,0.83
+15,HI,Hawaii,0.61
+16,ID,Idaho,0.95
+17,IL,Illinois,0.41
+18,IN,Indiana,0.69
+19,IA,Iowa,0.87
+20,KS,Kansas,0.67
+21,KY,Kentucky,0.41
+22,LA,Louisiana,0.65
+23,ME,Maine,0.86
+24,MD,Maryland,0.71
+25,MA,Massachusetts,0.67
+26,MI,Michigan,0.67
+27,MN,Minnesota,0.82
+28,MS,Mississippi,0.67
+29,MO,Missouri,0.85
+30,MT,Montana,0.76
+31,NE,Nebraska,0.93
+32,NV,Nevada,0.76
+33,NH,New Hampshire,0.66
+34,NJ,New Jersey,0.42
+35,NM,New Mexico,0.74
+36,NY,New York,0.98
+37,NC,North Carolina,0.99
+38,ND,North Dakota,0.73
+39,OH,Ohio,0.8
+40,OK,Oklahoma,0.81
+41,OR,Oregon,1.04
+42,PA,Pennsylvania,0.6
+44,RI,Rhode Island,0.61
+45,SC,South Carolina,0.61
+46,SD,South Dakota,1.07
+47,TN,Tennessee,0.99
+48,TX,Texas,0.79
+49,UT,Utah,0.88
+50,VT,Vermont,0.75
+51,VA,Virginia,0.75
+53,WA,Washington,0.9
+54,WV,West Virginia,0.78
+55,WI,Wisconsin,1.03
+56,WY,Wyoming,0.79

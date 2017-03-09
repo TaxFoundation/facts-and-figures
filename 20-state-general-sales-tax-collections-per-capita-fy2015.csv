@@ -1,0 +1,52 @@
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
+0,US,United States,844,
+1,AL,Alabama,507,44
+2,AK,Alaska,0,--
+4,AZ,Arizona,947,22
+5,AR,Arkansas,1069,13
+6,CA,California,983,19
+8,CO,Colorado,516,42
+9,CT,Connecticut,1137,8
+10,DE,Delaware,0,--
+12,FL,Florida,1075,12
+13,GA,Georgia,515,43
+15,HI,Hawaii,2090,1
+16,ID,Idaho,885,26
+17,IL,Illinois,696,34
+18,IN,Indiana,1100,10
+19,IA,Iowa,973,20
+20,KS,Kansas,1049,14
+21,KY,Kentucky,738,30
+22,LA,Louisiana,627,39
+23,ME,Maine,963,21
+24,MD,Maryland,734,31
+25,MA,Massachusetts,854,27
+26,MI,Michigan,928,24
+27,MN,Minnesota,999,17
+28,MS,Mississippi,1144,7
+29,MO,Missouri,556,41
+30,MT,Montana,0,--
+31,NE,Nebraska,943,23
+32,NV,Nevada,1412,4
+33,NH,New Hampshire,0,--
+34,NJ,New Jersey,1021,16
+35,NM,New Mexico,1082,11
+36,NY,New York,662,37
+37,NC,North Carolina,683,36
+38,ND,North Dakota,1835,2
+39,OH,Ohio,1025,15
+40,OK,Oklahoma,686,35
+41,OR,Oregon,0,--
+42,PA,Pennsylvania,771,29
+44,RI,Rhode Island,908,25
+45,SC,South Carolina,729,32
+46,SD,South Dakota,1131,9
+47,TN,Tennessee,992,18
+48,TX,Texas,1226,6
+49,UT,Utah,628,38
+50,VT,Vermont,586,40
+51,VA,Virginia,452,45
+53,WA,Washington,1746,3
+54,WV,West Virginia,701,33
+55,WI,Wisconsin,848,28
+56,WY,Wyoming,1384,5

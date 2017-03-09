@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,debtPerCapita,debtPerCapitaRank
+0,US,United States,9327,
+1,AL,Alabama,6412,38
+2,AK,Alaska,12281,4
+4,AZ,Arizona,7243,34
+5,AR,Arkansas,5392,43
+6,CA,California,10978,9
+8,CO,Colorado,10096,10
+9,CT,Connecticut,12413,3
+10,DE,Delaware,8408,21
+11,DC,District of Columbia,19834,1*
+12,FL,Florida,7794,26
+13,GA,Georgia,5632,42
+15,HI,Hawaii,10066,11
+16,ID,Idaho,3811,49
+17,IL,Illinois,11586,5
+18,IN,Indiana,7439,31
+19,IA,Iowa,6056,41
+20,KS,Kansas,8940,18
+21,KY,Kentucky,9110,15
+22,LA,Louisiana,8584,20
+23,ME,Maine,6351,39
+24,MD,Maryland,8363,22
+25,MA,Massachusetts,13530,2
+26,MI,Michigan,7732,27
+27,MN,Minnesota,8978,17
+28,MS,Mississippi,4758,48
+29,MO,Missouri,7657,28
+30,MT,Montana,5227,45
+31,NE,Nebraska,8032,24
+32,NV,Nevada,9236,14
+33,NH,New Hampshire,8078,23
+34,NJ,New Jersey,11109,8
+35,NM,New Mexico,7531,29
+36,NY,New York,17465,1
+37,NC,North Carolina,5037,46
+38,ND,North Dakota,7147,35
+39,OH,Ohio,7404,32
+40,OK,Oklahoma,4806,47
+41,OR,Oregon,9000,16
+42,PA,Pennsylvania,9993,12
+44,RI,Rhode Island,11437,6
+45,SC,South Carolina,8887,19
+46,SD,South Dakota,6672,37
+47,TN,Tennessee,5310,44
+48,TX,Texas,9963,13
+49,UT,Utah,6885,36
+50,VT,Vermont,7274,33
+51,VA,Virginia,7864,25
+53,WA,Washington,11353,7
+54,WV,West Virginia,6214,40
+55,WI,Wisconsin,7484,30
+56,WY,Wyoming,3385,50
