@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
 0,US,United States,534,
-1,AL,Alabama,558,16
-2,AK,Alaska,483,25
-4,AZ,Arizona,301,43
-5,AR,Arkansas,471,27
-6,CA,California,464,30
-8,CO,Colorado,421,33
+1,AL,Alabama,558,17
+2,AK,Alaska,483,28
+4,AZ,Arizona,301,49
+5,AR,Arkansas,471,30
+6,CA,California,464,33
+8,CO,Colorado,421,37
 9,CT,Connecticut,779,7
-10,DE,Delaware,528,21
+10,DE,Delaware,528,23
 11,DC,District of Columbia,705,14*
-12,FL,Florida,556,17
-13,GA,Georgia,328,41
-15,HI,Hawaii,885,2
-16,ID,Idaho,292,44
+12,FL,Florida,556,18
+13,GA,Georgia,328,47
+15,HI,Hawaii,885,3
+16,ID,Idaho,292,50
 17,IL,Illinois,774,8
-18,IN,Indiana,543,19
-19,IA,Iowa,437,32
-20,KS,Kansas,400,38
-21,KY,Kentucky,651,13
-22,LA,Louisiana,542,20
-23,ME,Maine,546,18
+18,IN,Indiana,543,21
+19,IA,Iowa,437,36
+20,KS,Kansas,400,42
+21,KY,Kentucky,651,14
+22,LA,Louisiana,542,22
+23,ME,Maine,546,19
 24,MD,Maryland,780,6
-25,MA,Massachusetts,409,35
-26,MI,Michigan,419,34
-27,MN,Minnesota,824,3
-28,MS,Mississippi,783,5
-29,MO,Missouri,64,48
-30,MT,Montana,23,49
-31,NE,Nebraska,110,45
-32,NV,Nevada,69,46
-33,NH,New Hampshire,336,40
-34,NJ,New Jersey,68,47
-35,NM,New Mexico,12,50
+25,MA,Massachusetts,409,39
+26,MI,Michigan,419,38
+27,MN,Minnesota,824,4
+28,MS,Mississippi,503,24
+29,MO,Missouri,378,44
+30,MT,Montana,545,20
+31,NE,Nebraska,376,45
+32,NV,Nevada,910,2
+33,NH,New Hampshire,663,13
+34,NJ,New Jersey,452,35
+35,NM,New Mexico,381,43
 36,NY,New York,669,11
-37,NC,North Carolina,456,31
+37,NC,North Carolina,456,34
 38,ND,North Dakota,746,9
-39,OH,Ohio,484,24
-40,OK,Oklahoma,409,36
-41,OR,Oregon,476,26
+39,OH,Ohio,484,27
+40,OK,Oklahoma,409,40
+41,OR,Oregon,476,29
 42,PA,Pennsylvania,666,12
-44,RI,Rhode Island,640,14
-45,SC,South Carolina,317,42
-46,SD,South Dakota,484,23
-47,TN,Tennessee,465,29
-48,TX,Texas,567,15
-49,UT,Utah,402,37
+44,RI,Rhode Island,640,15
+45,SC,South Carolina,317,48
+46,SD,South Dakota,484,26
+47,TN,Tennessee,465,32
+48,TX,Texas,567,16
+49,UT,Utah,402,41
 50,VT,Vermont,1068,1
-51,VA,Virginia,466,28
+51,VA,Virginia,466,31
 53,WA,Washington,682,10
-54,WV,West Virginia,796,4
-55,WI,Wisconsin,492,22
-56,WY,Wyoming,341,39
+54,WV,West Virginia,796,5
+55,WI,Wisconsin,492,25
+56,WY,Wyoming,341,46
