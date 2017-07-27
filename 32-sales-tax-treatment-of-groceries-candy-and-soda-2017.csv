@@ -2,7 +2,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 1,AL,Alabama,0.04,Included in Base,Yes,Yes
 2,AK,Alaska,--,--,--,--
 4,AZ,Arizona,0.056,Exempt,Yes,Yes
-5,AR,Arkansas,0.065,0.015,Yes,Yes
+5,AR,Arkansas,0.065,1.5%,Yes,Yes
 6,CA,California,0.0725,Exempt,Yes,No
 8,CO,Colorado,0.029,Exempt,No,No
 9,CT,Connecticut,0.0635,Exempt,No,No
@@ -11,7 +11,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 13,GA,Georgia,0.04,Exempt,Yes,Yes
 15,HI,Hawaii,0.04,Included in Base,Yes,Yes
 16,ID,Idaho,0.06,Included in Base,Yes,Yes
-17,IL,Illinois,0.0625,0.01,No,No
+17,IL,Illinois,0.0625,1%,No,No
 18,IN,Indiana,0.07,Exempt,No,No
 19,IA,Iowa,0.06,Exempt,No,No
 20,KS,Kansas,0.065,Included in Base,Yes,Yes
@@ -23,7 +23,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 26,MI,Michigan,0.06,Exempt,Yes,Yes
 27,MN,Minnesota,0.06875,Exempt,No,No
 28,MS,Mississippi,0.07,Included in Base,Yes,Yes
-29,MO,Missouri,0.04225,0.01225,Yes,Yes
+29,MO,Missouri,0.04225,1.225%,Yes,Yes
 30,MT,Montana,--,--,--,--
 31,NE,Nebraska,0.055,Exempt,Yes,Yes
 32,NV,Nevada,0.0685,Exempt,Yes,Yes
@@ -40,11 +40,11 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 44,RI,Rhode Island,0.07,Exempt,No,No
 45,SC,South Carolina,0.06,Exempt,Yes,Yes
 46,SD,South Dakota,0.04,Included in Base,Yes,Yes
-47,TN,Tennessee,0.07,0.05,Yes,Yes
+47,TN,Tennessee,0.07,4%,Yes,Yes
 48,TX,Texas,0.0625,Exempt,No,No
 49,UT,Utah,0.0595,0.0175,Yes,Yes
 50,VT,Vermont,0.06,Exempt,Yes,Yes
-51,VA,Virginia,0.053,0.025,Yes,Yes
+51,VA,Virginia,0.053,2.5%,Yes,Yes
 53,WA,Washington,0.065,Exempt,Yes,No
 54,WV,West Virginia,0.06,Exempt,Yes,No
 55,WI,Wisconsin,0.05,Exempt,No,No
