@@ -29,7 +29,7 @@ id,stateAbbr,stateName,Rates,incomeGreaterThan,incomeNotGreaterThan
 15,HI,Hawaii,0.064,100000,
 16,ID,Idaho,0.074,0,
 17,IL,Illinois,0.0775,0,
-18,IN,Indiana,0.0625,0,
+18,IN,Indiana,0.06,0,
 19,IA,Iowa,0.06,0,25000
 19,IA,Iowa,0.08,25000,100000
 19,IA,Iowa,0.1,100000,250000
