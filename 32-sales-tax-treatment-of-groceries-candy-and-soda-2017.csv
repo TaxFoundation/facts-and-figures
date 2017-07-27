@@ -42,7 +42,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 46,SD,South Dakota,0.04,Included in Base,Yes,Yes
 47,TN,Tennessee,0.07,4%,Yes,Yes
 48,TX,Texas,0.0625,Exempt,No,No
-49,UT,Utah,0.0595,0.0175,Yes,Yes
+49,UT,Utah,0.0595,1.75%,Yes,Yes
 50,VT,Vermont,0.06,Exempt,Yes,Yes
 51,VA,Virginia,0.053,2.5%,Yes,Yes
 53,WA,Washington,0.065,Exempt,Yes,No

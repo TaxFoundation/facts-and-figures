@@ -92,7 +92,7 @@ id,stateAbbr,stateName,incomeTaxRate,incomeGreaterThan,incomeNotGreaterThan
 22,LA,Louisiana,0.06,50000,
 23,ME,Maine,0.058,0,21050
 23,ME,Maine,0.0675,21505,50000
-23,ME,Maine,0.0715,50000
+23,ME,Maine,0.0715,50000,
 24,MD,Maryland,0.02,0,1000
 24,MD,Maryland,0.03,1000,2000
 24,MD,Maryland,0.04,2000,3000
