@@ -7,7 +7,7 @@ id,stateAbbr,stateName,rank,corporateTaxRank,incomeTaxRank,salesTaxRank,property
 8,CO,Colorado,18,18,15,39,14,35
 9,CT,Connecticut,44,31,37,27,49,19
 10,DE,Delaware,15,50,34,1,20,3
-11,DC,District of Columbia,47*,26,43,34,45,30
+11,DC,District of Columbia,47*,26*,43*,34*,45*,30*
 12,FL,Florida,4,19,1,29,10,2
 13,GA,Georgia,36,10,42,28,23,38
 15,HI,Hawaii,27,14,31,23,16,27
