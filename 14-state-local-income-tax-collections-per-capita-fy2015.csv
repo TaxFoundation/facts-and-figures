@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
+0,US,United States,1144.486707,
+1,AL,Alabama,709.3095072,36
+2,AK,Alaska,0,--
+4,AZ,Arizona,550.7977736,41
+5,AR,Arkansas,894.5502054,31
+6,CA,California,1990.801209,5
+8,CO,Colorado,1168.360953,18
+9,CT,Connecticut,2278.56607,2
+10,DE,Delaware,1266.621138,12
+11,DC,District of Columbia,2779.515284,2*
+12,FL,Florida,0,--
+13,GA,Georgia,947.4945325,29
+15,HI,Hawaii,1388.593765,10
+16,ID,Idaho,893.3114996,32
+17,IL,Illinois,1237.466733,13
+18,IN,Indiana,974.5150823,28
+19,IA,Iowa,1144.674972,21
+20,KS,Kansas,777.8513903,34
+21,KY,Kentucky,1214.500851,15
+22,LA,Louisiana,638.6812837,39
+23,ME,Maine,1153.312049,19
+24,MD,Maryland,2200.45032,3
+25,MA,Massachusetts,2132.911821,4
+26,MI,Michigan,937.993521,30
+27,MN,Minnesota,1900.276611,6
+28,MS,Mississippi,596.0025171,40
+29,MO,Missouri,1024.547017,27
+30,MT,Montana,1142.823121,22
+31,NE,Nebraska,1181.095776,17
+32,NV,Nevada,0,--
+33,NH,New Hampshire,72.1760278,42
+34,NJ,New Jersey,1479.122881,8
+35,NM,New Mexico,662.4373114,38
+36,NY,New York,2788.534138,1
+37,NC,North Carolina,1114.992609,24
+38,ND,North Dakota,708.9441914,37
+39,OH,Ohio,1186.300973,16
+40,OK,Oklahoma,831.5031838,33
+41,OR,Oregon,1814.144633,7
+42,PA,Pennsylvania,1276.148578,11
+44,RI,Rhode Island,1150.591973,20
+45,SC,South Carolina,764.2337463,35
+46,SD,South Dakota,0,--
+47,TN,Tennessee,45.78519852,43
+48,TX,Texas,0,--
+49,UT,Utah,1054.006467,25
+50,VT,Vermont,1133.007051,23
+51,VA,Virginia,1420.011325,9
+53,WA,Washington,0,--
+54,WV,West Virginia,1047.897434,26
+55,WI,Wisconsin,1224.889137,14
+56,WY,Wyoming,0,--

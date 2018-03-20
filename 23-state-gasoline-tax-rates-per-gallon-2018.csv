@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,exciseTax,otherTax,total,totalRank
+0,US,United States,18.4,,,
+1,AL,Alabama,18,2.91,20.91,41
+2,AK,Alaska,8.95,3.35,12.3,50
+4,AZ,Arizona,18,1,19,45
+5,AR,Arkansas,21.5,0.3,21.8,40
+6,CA,California,41.7,11.79,53.49,2
+8,CO,Colorado,22,0,22,39
+9,CT,Connecticut,25,14.3,39.3,9
+10,DE,Delaware,23,0,23,36
+11,DC,District of Columbia,23.5,0,23.5,32*
+12,FL,Florida,4,37.59,41.59,8
+13,GA,Georgia,26.8,4.79,31.59,21
+15,HI,Hawaii,17,29.03,46.03,4
+16,ID,Idaho,32,1,33,18
+17,IL,Illinois,19,16.22,35.22,14
+18,IN,Indiana,28,13.9,41.9,7
+19,IA,Iowa,30.5,0,30.5,23
+20,KS,Kansas,24,0.025,24.025,33
+21,KY,Kentucky,24.6,1.4,26,31
+22,LA,Louisiana,20,0.01,20.01,43
+23,ME,Maine,30,0.01,30.01,24
+24,MD,Maryland,25.5,8.3,33.8,16
+25,MA,Massachusetts,24,2.54,26.54,30
+26,MI,Michigan,26.3,16.08,42.38,6
+27,MN,Minnesota,28.5,0.1,28.6,28
+28,MS,Mississippi,18,0.79,18.79,47
+29,MO,Missouri,17,0.35,17.35,48
+30,MT,Montana,31.5,0.75,32.25,20
+31,NE,Nebraska,28.4,0.9,29.3,27
+32,NV,Nevada,23,10.52,33.52,17
+33,NH,New Hampshire,22.2,1.63,23.83,35
+34,NJ,New Jersey,10.5,26.6,37.1,10
+35,NM,New Mexico,17,1.88,18.88,46
+36,NY,New York,8.05,36.25,44.3,5
+37,NC,North Carolina,35.1,0.25,35.35,13
+38,ND,North Dakota,23,0,23,36
+39,OH,Ohio,28,0.01,28.01,29
+40,OK,Oklahoma,16,1,17,49
+41,OR,Oregon,34,2.77,36.77,11
+42,PA,Pennsylvania,0,58.7,58.7,1
+44,RI,Rhode Island,33,1,34,15
+45,SC,South Carolina,20,0.75,20.75,42
+46,SD,South Dakota,28,2,30,25
+47,TN,Tennessee,24,1.4,25.4,32
+48,TX,Texas,20,0,20,44
+49,UT,Utah,29.4,0.01,29.41,26
+50,VT,Vermont,12.1,18.62,30.72,22
+51,VA,Virginia,19.9,2.5,22.4,38
+53,WA,Washington,49.4,0,49.4,3
+54,WV,West Virginia,20.5,15.2,35.7,12
+55,WI,Wisconsin,30.9,2,32.9,19
+56,WY,Wyoming,23,1,24,34
