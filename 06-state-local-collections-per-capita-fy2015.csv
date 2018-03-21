@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
+0,US,United States,4875,
+1,AL,Alabama,3141.1,50
+2,AK,Alaska,3500.7,44
+4,AZ,Arizona,3480.0,45
+5,AR,Arkansas,3868.0,34
+6,CA,California,5841.5,10
+8,CO,Colorado,4592.2,22
+9,CT,Connecticut,7409.6,3
+10,DE,Delaware,4759.6,18
+11,DC,District of Columbia,10575.6,1*
+12,FL,Florida,3448.3,46
+13,GA,Georgia,3514.8,43
+15,HI,Hawaii,6083.8,7
+16,ID,Idaho,3432.5,47
+17,IL,Illinois,5741.7,12
+18,IN,Indiana,3835.3,36
+19,IA,Iowa,4756.4,19
+20,KS,Kansas,4385.8,25
+21,KY,Kentucky,3782.0,38
+22,LA,Louisiana,3949.7,33
+23,ME,Maine,5105.8,14
+24,MD,Maryland,5846.1,9
+25,MA,Massachusetts,6339.3,6
+26,MI,Michigan,4007.6,32
+27,MN,Minnesota,5945.8,8
+28,MS,Mississippi,3669.2,40
+29,MO,Missouri,3644.1,41
+30,MT,Montana,4042.1,31
+31,NE,Nebraska,5050.6,15
+32,NV,Nevada,4099.3,29
+33,NH,New Hampshire,4647.3,21
+34,NJ,New Jersey,6663.6,4
+35,NM,New Mexico,4151.1,27
+36,NY,New York,8721.5,2
+37,NC,North Carolina,3788.1,37
+38,ND,North Dakota,9181.7,1
+39,OH,Ohio,4413.6,24
+40,OK,Oklahoma,3696.8,39
+41,OR,Oregon,4360.3,26
+42,PA,Pennsylvania,4949.5,16
+44,RI,Rhode Island,5418.0,13
+45,SC,South Carolina,3424.9,48
+46,SD,South Dakota,3835.3,35
+47,TN,Tennessee,3267.7,49
+48,TX,Texas,4120.5,28
+49,UT,Utah,3621.8,42
+50,VT,Vermont,5800.5,11
+51,VA,Virginia,4457.4,23
+53,WA,Washington,4765.3,17
+54,WV,West Virginia,4097.9,30
+55,WI,Wisconsin,4661.3,20
+56,WY,Wyoming,6393.6,5
