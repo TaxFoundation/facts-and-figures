@@ -7,8 +7,8 @@ id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
 6,CA,California,May 1,46
 8,CO,Colorado,April 24,37
 9,CT,Connecticut,May 21,50
-10,DE,Delaware,April 26,39*
-11,DC,District of Columbia,April 18,24
+10,DE,Delaware,April 26,39
+11,DC,District of Columbia,April 18,24*
 12,FL,Florida,April 20,27
 13,GA,Georgia,April 17,19
 15,HI,Hawaii,April 19,26
