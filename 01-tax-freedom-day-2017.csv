@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
-0,US,United States,4/23/2017,
-1,AL,Alabama,4/9/2018,4
-2,AK,Alaska,4/10/2018,6
-4,AZ,Arizona,4/15/2018,16
-5,AR,Arkansas,4/13/2018,12
-6,CA,California,5/1/2018,46
-8,CO,Colorado,4/24/2018,37
-9,CT,Connecticut,5/21/2018,50
-10,DE,Delaware,4/18/2018,24
-11,DC,District of Columbia,4/26/2016,39*
-12,FL,Florida,4/20/2018,27
-13,GA,Georgia,4/17/2018,19
-15,HI,Hawaii,4/19/2018,26
-16,ID,Idaho,4/15/2018,16
-17,IL,Illinois,4/30/2018,44
-18,IN,Indiana,4/17/2018,19
-19,IA,Iowa,4/14/2018,14
-20,KS,Kansas,4/20/2018,27
-21,KY,Kentucky,4/11/2018,8
-22,LA,Louisiana,4/10/2018,6
-23,ME,Maine,4/17/2018,19
-24,MD,Maryland,5/5/2018,47
-25,MA,Massachusetts,4/29/2018,43
-26,MI,Michigan,4/23/2018,32
-27,MN,Minnesota,4/30/2018,44
-28,MS,Mississippi,4/5/2018,1
-29,MO,Missouri,4/13/2018,12
-30,MT,Montana,4/17/2018,19
-31,NE,Nebraska,4/16/2018,18
-32,NV,Nevada,4/26/2018,39
-33,NH,New Hampshire,4/22/2018,31
-34,NJ,New Jersey,5/13/2018,49
-35,NM,New Mexico,4/9/2018,4
-36,NY,New York,5/11/2018,48
-37,NC,North Carolina,4/14/2018,14
-38,ND,North Dakota,4/23/2018,32
-39,OH,Ohio,4/20/2018,27
-40,OK,Oklahoma,4/11/2018,8
-41,OR,Oregon,4/24/2018,37
-42,PA,Pennsylvania,4/23/2018,32
-44,RI,Rhode Island,4/28/2018,42
-45,SC,South Carolina,4/11/2018,8
-46,SD,South Dakota,4/8/2018,3
-47,TN,Tennessee,4/7/2018,2
-48,TX,Texas,4/17/2018,19
-49,UT,Utah,4/21/2018,30
-50,VT,Vermont,4/23/2018,32
-51,VA,Virginia,4/18/2018,24
-53,WA,Washington,4/12/2018,11
-54,WV,West Virginia,4/27/2018,40
-55,WI,Wisconsin,4/27/2018,40
-56,WY,Wyoming,4/23/2018,32
+0,US,United States,April 23,
+1,AL,Alabama,April 9,4
+2,AK,Alaska,April 10,6
+4,AZ,Arizona,April 15,16
+5,AR,Arkansas,April 13,12
+6,CA,California,May 1,46
+8,CO,Colorado,April 24,37
+9,CT,Connecticut,May 21,50
+10,DE,Delaware,April 18,24
+11,DC,District of Columbia,April 26,39*
+12,FL,Florida,April 20,27
+13,GA,Georgia,April 17,19
+15,HI,Hawaii,April 19,26
+16,ID,Idaho,April 15,16
+17,IL,Illinois,April 30,44
+18,IN,Indiana,April 17,19
+19,IA,Iowa,April 14,14
+20,KS,Kansas,April 20,27
+21,KY,Kentucky,April 11,8
+22,LA,Louisiana,April 10,6
+23,ME,Maine,April 17,19
+24,MD,Maryland,May 5,47
+25,MA,Massachusetts,April 29,43
+26,MI,Michigan,April 23,32
+27,MN,Minnesota,April 30,44
+28,MS,Mississippi,April 5,1
+29,MO,Missouri,April 13,12
+30,MT,Montana,April 17,19
+31,NE,Nebraska,April 16,18
+32,NV,Nevada,April 26,39
+33,NH,New Hampshire,April 22,31
+34,NJ,New Jersey,May 13,49
+35,NM,New Mexico,April 9,4
+36,NY,New York,May 11,48
+37,NC,North Carolina,April 14,14
+38,ND,North Dakota,April 23,32
+39,OH,Ohio,April 20,27
+40,OK,Oklahoma,April 11,8
+41,OR,Oregon,April 24,37
+42,PA,Pennsylvania,April 23,32
+44,RI,Rhode Island,April 28,42
+45,SC,South Carolina,April 11,8
+46,SD,South Dakota,April 8,3
+47,TN,Tennessee,April 7,2
+48,TX,Texas,April 17,19
+49,UT,Utah,April 21,30
+50,VT,Vermont,April 23,32
+51,VA,Virginia,April 18,24
+53,WA,Washington,April 12,11
+54,WV,West Virginia,April 27,40
+55,WI,Wisconsin,April 27,40
+56,WY,Wyoming,April 23,32
