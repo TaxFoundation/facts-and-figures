@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
+0,US,United States,4/19/2018,
+1,AL,Alabama,4/5/2018,3
+2,AK,Alaska,4/4/2018,1
+4,AZ,Arizona,4/9/2018,8
+5,AR,Arkansas,4/7/2018,6
+6,CA,California,4/23/2018,41
+8,CO,Colorado,4/16/2018,27
+9,CT,Connecticut,5/3/2018,48
+10,DE,Delaware,4/12/2018,17
+11,DC,District of Columbia,5/3/2018,48*
+12,FL,Florida,4/13/2018,21
+13,GA,Georgia,4/9/2018,8
+15,HI,Hawaii,4/20/2018,38
+16,ID,Idaho,4/7/2018,6
+17,IL,Illinois,4/29/2018,47
+18,IN,Indiana,4/10/2018,12
+19,IA,Iowa,4/18/2018,32
+20,KS,Kansas,4/17/2018,30
+21,KY,Kentucky,4/13/2018,21
+22,LA,Louisiana,4/4/2018,1
+23,ME,Maine,4/20/2018,38
+24,MD,Maryland,4/19/2018,34
+25,MA,Massachusetts,4/26/2018,45
+26,MI,Michigan,4/14/2018,24
+27,MN,Minnesota,4/27/2018,46
+28,MS,Mississippi,4/9/2018,8
+29,MO,Missouri,4/12/2018,17
+30,MT,Montana,4/11/2018,15
+31,NE,Nebraska,4/12/2018,17
+32,NV,Nevada,4/16/2018,27
+33,NH,New Hampshire,4/18/2018,32
+34,NJ,New Jersey,5/3/2018,48
+35,NM,New Mexico,5/14/2018,12
+36,NY,New York,5/14/2018,50
+37,NC,North Carolina,4/12/2018,17
+38,ND,North Dakota,4/24/2018,43
+39,OH,Ohio,4/15/2018,26
+40,OK,Oklahoma,4/5/2018,3
+41,OR,Oregon,4/17/2018,30
+42,PA,Pennsylvania,4/19/2018,34
+44,RI,Rhode Island,4/24/2018,43
+45,SC,South Carolina,4/9/2018,8
+46,SD,South Dakota,4/10/2018,12
+47,TN,Tennessee,4/5/2018,3
+48,TX,Texas,4/14/2018,24
+49,UT,Utah,4/11/2018,15
+50,VT,Vermont,4/23/2018,41
+51,VA,Virginia,4/16/2018,27
+53,WA,Washington,4/19/2018,34
+54,WV,West Virginia,4/13/2018,21
+55,WI,Wisconsin,4/19/2018,34
+56,WY,Wyoming,4/21/2018,40
