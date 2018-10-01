@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,rank,corporateTaxRank,incomeTaxRank,salesTaxRank,propertyTaxRank,unemploymentInsuranceTaxRank
-1,AL,Alabama,35,22,22,49,12,11
-2,AK,Alaska,3,26,1,5,38,25
-4,AZ,Arizona,21,13,18,47,6,15
-5,AR,Arkansas,39,39,30,44,22,32
-6,CA,California,48,32,50,41,13,13
-8,CO,Colorado,18,18,15,39,14,35
-9,CT,Connecticut,44,31,37,27,49,19
-10,DE,Delaware,15,50,34,1,20,3
-11,DC,District of Columbia,47*,26*,43*,34*,45*,30*
-12,FL,Florida,4,19,1,29,10,2
-13,GA,Georgia,36,10,42,28,23,38
-15,HI,Hawaii,27,14,31,23,16,27
-16,ID,Idaho,20,25,23,26,3,46
-17,IL,Illinois,29,36,16,35,45,42
-18,IN,Indiana,9,23,10,9,4,10
-19,IA,Iowa,40,48,33,19,39,34
-20,KS,Kansas,23,38,19,31,19,12
-21,KY,Kentucky,33,27,29,14,36,47
-22,LA,Louisiana,42,40,27,50,30,4
-23,ME,Maine,28,41,26,8,41,44
-24,MD,Maryland,43,20,46,18,42,24
-25,MA,Massachusetts,22,35,12,12,46,49
-26,MI,Michigan,12,8,14,11,21,48
-27,MN,Minnesota,46,43,45,25,28,37
-28,MS,Mississippi,24,11,20,38,35,5
-29,MO,Missouri,16,5,28,24,7,7
-30,MT,Montana,6,12,21,3,9,20
-31,NE,Nebraska,25,28,24,13,40,9
-32,NV,Nevada,5,33,1,42,8,45
-33,NH,New Hampshire,7,45,9,2,44,43
-34,NJ,New Jersey,50,42,48,46,50,36
-35,NM,New Mexico,34,24,35,40,1,16
-36,NY,New York,49,7,49,43,47,30
-37,NC,North Carolina,11,3,13,20,32,6
-38,ND,North Dakota,30,16,36,34,2,14
-39,OH,Ohio,45,47,47,30,11,8
-40,OK,Oklahoma,32,9,38,36,15,1
-41,OR,Oregon,10,34,32,4,18,31
-42,PA,Pennsylvania,26,44,17,21,33,50
-44,RI,Rhode Island,41,30,39,22,43,23
-45,SC,South Carolina,37,15,41,32,24,29
-46,SD,South Dakota,2,1,1,33,25,39
-47,TN,Tennessee,14,21,8,45,29,22
-48,TX,Texas,13,49,6,37,37,26
-49,UT,Utah,8,4,11,17,5,21
-50,VT,Vermont,47,37,44,16,48,18
-51,VA,Virginia,31,6,40,10,31,41
-53,WA,Washington,17,46,6,48,27,17
-54,WV,West Virginia,19,17,25,15,17,28
-55,WI,Wisconsin,38,29,43,7,26,40
-56,WY,Wyoming,1,1,1,6,45,30
+1,AL,Alabama,39,20,30,48,15,12
+2,AK,Alaska,2,25,1,5,23,35
+4,AZ,Arizona,27,17,19,47,5,13
+5,AR,Arkansas,46,40,40,44,26,34
+6,CA,California,49,31,49,43,14,17
+8,CO,Colorado,18,16,14,38,12,40
+9,CT,Connecticut,47,29,43,30,50,23
+10,DE,Delaware,11,50,41,2,9,3
+11,DC,District of Columbia,46*,27*,45*,25*,47*,33*
+12,FL,Florida,4,6,1,22,11,2
+13,GA,Georgia,33,8,38,29,24,38
+15,HI,Hawaii,38,14,47,24,16,26
+16,ID,Idaho,21,26,23,26,4,48
+17,IL,Illinois,36,39,13,36,45,42
+18,IN,Indiana,10,18,15,12,2,11
+19,IA,Iowa,45,48,42,19,39,33
+20,KS,Kansas,28,34,21,31,20,15
+21,KY,Kentucky,23,27,17,14,35,47
+22,LA,Louisiana,44,36,32,50,32,4
+23,ME,Maine,30,41,24,7,41,24
+24,MD,Maryland,40,22,45,18,42,28
+25,MA,Massachusetts,29,37,11,13,46,50
+26,MI,Michigan,13,11,12,11,22,49
+27,MN,Minnesota,43,42,46,27,31,25
+28,MS,Mississippi,31,15,27,35,36,5
+29,MO,Missouri,14,4,25,25,7,8
+30,MT,Montana,5,12,22,3,10,21
+31,NE,Nebraska,24,28,26,9,40,9
+32,NV,Nevada,9,33,5,40,8,45
+33,NH,New Hampshire,6,45,9,1,44,44
+34,NJ,New Jersey,50,47,50,45,48,32
+35,NM,New Mexico,25,21,31,41,1,10
+36,NY,New York,48,7,48,42,47,31
+37,NC,North Carolina,12,3,16,20,33,7
+38,ND,North Dakota,17,23,20,32,6,14
+39,OH,Ohio,42,46,44,28,13,6
+40,OK,Oklahoma,26,9,33,39,19,1
+41,OR,Oregon,7,30,36,4,17,37
+42,PA,Pennsylvania,34,43,18,21,34,46
+44,RI,Rhode Island,37,32,29,23,43,29
+45,SC,South Carolina,35,19,34,34,27,27
+46,SD,South Dakota,3,1,1,33,28,39
+47,TN,Tennessee,16,24,8,46,29,22
+48,TX,Texas,15,49,6,37,37,18
+49,UT,Utah,8,5,10,16,3,16
+50,VT,Vermont,41,38,37,15,49,20
+51,VA,Virginia,22,10,35,10,30,43
+53,WA,Washington,20,44,6,49,25,19
+54,WV,West Virginia,19,13,28,17,18,30
+55,WI,Wisconsin,32,35,39,8,21,41
+56,WY,Wyoming,1,1,1,6,38,36
