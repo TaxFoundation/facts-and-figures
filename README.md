@@ -1,6 +1,6 @@
-# Facts and Figures 2017
+# Facts and Figures 2018
 
-Published [[whenever]].
+NOTE: The dates and file names in this README file are out of date and unlikely to be updated, but information on file structure is still accurate.
 
 ## Contents
 
