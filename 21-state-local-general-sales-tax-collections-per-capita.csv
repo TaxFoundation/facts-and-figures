@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,1145.512484,
-1,AL,Alabama,938.1592306,32
-2,AK,Alaska,313.0890861,47
-4,AZ,Arizona,1358.987209,13
-5,AR,Arkansas,1432.575472,11
-6,CA,California,1275.890745,15
-8,CO,Colorado,1208.159002,18
-9,CT,Connecticut,1136.985969,23
+0,US,United States,1166,
+1,AL,Alabama,984,30
+2,AK,Alaska,316,46
+4,AZ,Arizona,1388,13
+5,AR,Arkansas,1483,8
+6,CA,California,1332,15
+8,CO,Colorado,1224,17
+9,CT,Connecticut,1046,25
 10,DE,Delaware,0,--
-11,DC,District of Columbia,1957.557555,4*
-12,FL,Florida,1178.457376,19
-13,GA,Georgia,899.7091492,36
-15,HI,Hawaii,2246.693392,1
-16,ID,Idaho,896.0580032,37
-17,IL,Illinois,1015.3773,28
-18,IN,Indiana,1099.691224,24
-19,IA,Iowa,1074.898388,25
-20,KS,Kansas,1381.005763,12
-21,KY,Kentucky,738.3645357,42
-22,LA,Louisiana,1520.894191,8
-23,ME,Maine,965.4652576,30
-24,MD,Maryland,734.2032275,43
-25,MA,Massachusetts,854.2204179,39
-26,MI,Michigan,928.3660815,33
-27,MN,Minnesota,1026.483926,26
-28,MS,Mississippi,1143.847961,21
-29,MO,Missouri,965.5185224,29
+11,DC,District of Columbia,1963,3*
+12,FL,Florida,1187,18
+13,GA,Georgia,880,38
+15,HI,Hawaii,2407,1
+16,ID,Idaho,947,32
+17,IL,Illinois,1091,24
+18,IN,Indiana,1101,23
+19,IA,Iowa,1112,21
+20,KS,Kansas,1444,10
+21,KY,Kentucky,781,40
+22,LA,Louisiana,1594,5
+23,ME,Maine,1022,28
+24,MD,Maryland,748,42
+25,MA,Massachusetts,892,37
+26,MI,Michigan,922,35
+27,MN,Minnesota,1040,26
+28,MS,Mississippi,1105,22
+29,MO,Missouri,1006,29
 30,MT,Montana,0,--
-31,NE,Nebraska,1139.185947,22
-32,NV,Nevada,1628.77221,5
+31,NE,Nebraska,1139,20
+32,NV,Nevada,1683,4
 33,NH,New Hampshire,0,--
-34,NJ,New Jersey,1020.988137,27
-35,NM,New Mexico,1553.526938,6
-36,NY,New York,1456.54503,10
-37,NC,North Carolina,941.6155969,31
-38,ND,North Dakota,2128.76539,3
-39,OH,Ohio,1219.329736,17
-40,OK,Oklahoma,1220.79043,16
+34,NJ,New Jersey,1032,27
+35,NM,New Mexico,1471,9
+36,NY,New York,1500,7
+37,NC,North Carolina,981,31
+38,ND,North Dakota,1697,3
+39,OH,Ohio,1259,16
+40,OK,Oklahoma,1150,19
 41,OR,Oregon,0,--
-42,PA,Pennsylvania,837.5859783,40
-44,RI,Rhode Island,908.3733946,35
-45,SC,South Carolina,824.5483284,41
-46,SD,South Dakota,1553.495816,7
-47,TN,Tennessee,1329.597795,14
-48,TX,Texas,1495.048148,9
-49,UT,Utah,880.0748618,38
-50,VT,Vermont,604.8380141,46
-51,VA,Virginia,608.8710798,45
-53,WA,Washington,2186.915396,2
-54,WV,West Virginia,709.9528883,44
-55,WI,Wisconsin,915.3986329,34
-56,WY,Wyoming,1790.664503,4
+42,PA,Pennsylvania,871,39
+44,RI,Rhode Island,921,36
+45,SC,South Carolina,760,41
+46,SD,South Dakota,1558,6
+47,TN,Tennessee,1379,14
+48,TX,Texas,1425,11
+49,UT,Utah,928,34
+50,VT,Vermont,617,45
+51,VA,Virginia,628,44
+53,WA,Washington,2344,2
+54,WV,West Virginia,722,43
+55,WI,Wisconsin,946,33
+56,WY,Wyoming,1396,12

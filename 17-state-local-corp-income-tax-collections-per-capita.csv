@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,177.9822787,
-1,AL,Alabama,109.8144281,35
-2,AK,Alaska,308.5619258,6
-4,AZ,Arizona,101.1941158,37
-5,AR,Arkansas,160.0135518,23
-6,CA,California,230.0989623,11
-8,CO,Colorado,123.3796151,30
-9,CT,Connecticut,192.0654123,14
-10,DE,Delaware,429.7265983,3
-11,DC,District of Columbia,666.8258389,1*
-12,FL,Florida,110.3778786,34
-13,GA,Georgia,97.94906636,39
-15,HI,Hawaii,50.46720355,44
-16,ID,Idaho,131.1729197,28
-17,IL,Illinois,315.2619422,5
-18,IN,Indiana,136.4978368,26
-19,IA,Iowa,148.288405,25
-20,KS,Kansas,157.4047075,24
-21,KY,Kentucky,205.912555,13
-22,LA,Louisiana,54.30635593,43
-23,ME,Maine,127.1063274,29
-24,MD,Maryland,167.0864133,20
-25,MA,Massachusetts,327.8249423,4
-26,MI,Michigan,119.4818765,33
-27,MN,Minnesota,268.9869233,8
-28,MS,Mississippi,178.6388748,18
-29,MO,Missouri,82.6995604,41
-30,MT,Montana,162.6788931,22
-31,NE,Nebraska,181.6679763,15
+0,US,United States,168,
+1,AL,Alabama,77,40
+2,AK,Alaska,286,5
+4,AZ,Arizona,83,38
+5,AR,Arkansas,151,21
+6,CA,California,252,8
+8,CO,Colorado,113,27
+9,CT,Connecticut,201,12
+10,DE,Delaware,340,4
+11,DC,District of Columbia,813,1*
+12,FL,Florida,110,29
+13,GA,Georgia,95,33
+15,HI,Hawaii,76,41
+16,ID,Idaho,112,28
+17,IL,Illinois,262,7
+18,IN,Indiana,156,19
+19,IA,Iowa,120,25
+20,KS,Kansas,135,24
+21,KY,Kentucky,178,14
+22,LA,Louisiana,37,45
+23,ME,Maine,103,32
+24,MD,Maryland,187,13
+25,MA,Massachusetts,342,3
+26,MI,Michigan,90,34
+27,MN,Minnesota,274,6
+28,MS,Mississippi,155,20
+29,MO,Missouri,66,42
+30,MT,Montana,115,26
+31,NE,Nebraska,161,17
 32,NV,Nevada,0,--
-33,NH,New Hampshire,433.3951096,2
-34,NJ,New Jersey,287.9423149,7
-35,NM,New Mexico,119.8723904,32
-36,NY,New York,613.4071127,1
-37,NC,North Carolina,132.4553645,27
-38,ND,North Dakota,245.7819578,9
-39,OH,Ohio,22.8204897,45
-40,OK,Oklahoma,99.3342943,38
-41,OR,Oregon,172.6373717,19
-42,PA,Pennsylvania,232.4217382,10
-44,RI,Rhode Island,166.9377392,21
-45,SC,South Carolina,77.06653356,42
-46,SD,South Dakota,5.048522428,46
-47,TN,Tennessee,212.2590204,12
+33,NH,New Hampshire,525,2
+34,NJ,New Jersey,248,9
+35,NM,New Mexico,55,43
+36,NY,New York,535,1
+37,NC,North Carolina,105,31
+38,ND,North Dakota,136,22
+39,OH,Ohio,26,46
+40,OK,Oklahoma,84,37
+41,OR,Oregon,169,16
+42,PA,Pennsylvania,228,11
+44,RI,Rhode Island,136,23
+45,SC,South Carolina,89,36
+46,SD,South Dakota,38,44
+47,TN,Tennessee,231,10
 48,TX,Texas,0,--
-49,UT,Utah,123.0610707,31
-50,VT,Vermont,179.9288227,16
-51,VA,Virginia,97.56073994,40
+49,UT,Utah,110,30
+50,VT,Vermont,158,18
+51,VA,Virginia,89,35
 53,WA,Washington,0,--
-54,WV,West Virginia,102.3562356,36
-55,WI,Wisconsin,178.8859323,17
+54,WV,West Virginia,79,39
+55,WI,Wisconsin,171,15
 56,WY,Wyoming,0,--

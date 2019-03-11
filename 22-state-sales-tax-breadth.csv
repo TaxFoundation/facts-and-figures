@@ -1,51 +1,51 @@
 id,stateAbbr,stateName,salesTaxBreadth,salesTaxBreadthRank
-1,AL,Alabama,0.3588,23
+1,AL,Alabama,0.36,24
 2,AK,Alaska,--,--
-4,AZ,Arizona,0.400057219,11
-5,AR,Arkansas,0.43369323,8
-6,CA,California,0.274361771,35
-8,CO,Colorado,0.339548846,30
-9,CT,Connecticut,0.232629788,42
+4,AZ,Arizona,0.37,20
+5,AR,Arkansas,0.42,10
+6,CA,California,0.24,44
+8,CO,Colorado,0.34,28
+9,CT,Connecticut,0.27,38
 10,DE,Delaware,--,--
-12,FL,Florida,0.393373947,14
-13,GA,Georgia,0.31763283,31
-15,HI,Hawaii,1.069913299,1
-16,ID,Idaho,0.394829538,13
-17,IL,Illinois,0.225768878,44
-18,IN,Indiana,0.380605123,17
-19,IA,Iowa,0.35936998,22
-20,KS,Kansas,0.354914144,26
-21,KY,Kentucky,0.375360621,18
-22,LA,Louisiana,0.391299412,16
-23,ME,Maine,0.418818753,9
-24,MD,Maryland,0.257359322,38
-25,MA,Massachusetts,0.21960254,45
-26,MI,Michigan,0.416248546,10
-27,MN,Minnesota,0.360390282,21
-28,MS,Mississippi,0.438636357,7
-29,MO,Missouri,0.314188327,32
+12,FL,Florida,0.43,9
+13,GA,Georgia,0.32,33
+15,HI,Hawaii,1.05,1
+16,ID,Idaho,0.4,14
+17,IL,Illinois,0.28,34
+18,IN,Indiana,0.39,17
+19,IA,Iowa,0.37,22
+20,KS,Kansas,0.36,25
+21,KY,Kentucky,0.38,18
+22,LA,Louisiana,0.41,11
+23,ME,Maine,0.44,8
+24,MD,Maryland,0.26,41
+25,MA,Massachusetts,0.22,45
+26,MI,Michigan,0.34,29
+27,MN,Minnesota,0.33,30
+28,MS,Mississippi,0.46,6
+29,MO,Missouri,0.32,32
 30,MT,Montana,--,--
-31,NE,Nebraska,0.34015545,29
-32,NV,Nevada,0.485455628,6
+31,NE,Nebraska,0.34,27
+32,NV,Nevada,0.54,4
 33,NH,New Hampshire,--,--
-34,NJ,New Jersey,0.238866139,41
-35,NM,New Mexico,0.541517303,4
-36,NY,New York,0.269543991,36
-37,NC,North Carolina,0.355061077,25
-38,ND,North Dakota,0.54355631,3
-39,OH,Ohio,0.353194261,27
-40,OK,Oklahoma,0.306965418,33
+34,NJ,New Jersey,0.25,43
+35,NM,New Mexico,0.58,3
+36,NY,New York,0.27,35
+37,NC,North Carolina,0.36,23
+38,ND,North Dakota,0.48,5
+39,OH,Ohio,0.39,15
+40,OK,Oklahoma,0.32,31
 41,OR,Oregon,--,--
-42,PA,Pennsylvania,0.259890551,37
-44,RI,Rhode Island,0.255263282,39
-45,SC,South Carolina,0.278725237,34
-46,SD,South Dakota,0.643442589,2
-47,TN,Tennessee,0.346898821,28
-48,TX,Texas,0.396311264,12
-49,UT,Utah,0.356608332,24
-50,VT,Vermont,0.25004304,40
-51,VA,Virginia,0.23160066,43
-53,WA,Washington,0.391744541,15
-54,WV,West Virginia,0.363994231,20
-55,WI,Wisconsin,0.370350943,19
-56,WY,Wyoming,0.496107318,5
+42,PA,Pennsylvania,0.26,39
+44,RI,Rhode Island,0.26,40
+45,SC,South Carolina,0.27,36
+46,SD,South Dakota,0.62,2
+47,TN,Tennessee,0.35,26
+48,TX,Texas,0.41,13
+49,UT,Utah,0.41,12
+50,VT,Vermont,0.25,42
+51,VA,Virginia,0.27,37
+53,WA,Washington,0.39,16
+54,WV,West Virginia,0.37,21
+55,WI,Wisconsin,0.38,19
+56,WY,Wyoming,0.45,7
