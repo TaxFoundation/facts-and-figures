@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,9085.108153,
-1,AL,Alabama,7552.638733,42
-2,AK,Alaska,13999.29174,4
-4,AZ,Arizona,6824.510897,47
-5,AR,Arkansas,7934.283548,36
-6,CA,California,10704.22977,7
-8,CO,Colorado,9120.990937,19
-9,CT,Connecticut,10927.95733,6
-10,DE,Delaware,9687.351337,17
-11,DC,District of Columbia,19519.37438,1*
-12,FL,Florida,7101.328668,46
-13,GA,Georgia,6578.77876,50
-15,HI,Hawaii,10580.91105,10
-16,ID,Idaho,6802.602527,48
-17,IL,Illinois,9109.630758,20
-18,IN,Indiana,7820.169102,37
-19,IA,Iowa,9780.039944,16
-20,KS,Kansas,8386.259158,29
-21,KY,Kentucky,7945.537178,35
-22,LA,Louisiana,8107.17225,32
-23,ME,Maine,8680.763514,25
-24,MD,Maryland,9875.137707,15
-25,MA,Massachusetts,10690.00719,8
-26,MI,Michigan,8459.455589,27
-27,MN,Minnesota,10311.10352,12
-28,MS,Mississippi,8600.714894,26
-29,MO,Missouri,7306.577837,44
-30,MT,Montana,8423.545596,28
-31,NE,Nebraska,9057.396147,21
-32,NV,Nevada,7233.154666,45
-33,NH,New Hampshire,8012.235008,33
-34,NJ,New Jersey,10672.20119,9
-35,NM,New Mexico,10333.14565,11
-36,NY,New York,14463.19296,3
-37,NC,North Carolina,7756.885678,38
-38,ND,North Dakota,14634.38879,2
-39,OH,Ohio,8688.646319,24
-40,OK,Oklahoma,7723.499733,39
-41,OR,Oregon,10001.67214,13
-42,PA,Pennsylvania,8917.241808,22
-44,RI,Rhode Island,9979.448981,14
-45,SC,South Carolina,7987.698692,34
-46,SD,South Dakota,7643.865999,40
-47,TN,Tennessee,6669.605271,49
-48,TX,Texas,7635.570918,41
-49,UT,Utah,7487.526198,43
-50,VT,Vermont,11176.21501,5
-51,VA,Virginia,8181.479574,31
-53,WA,Washington,9307.829561,18
-54,WV,West Virginia,8896.649799,23
-55,WI,Wisconsin,8360.777581,30
-56,WY,Wyoming,15382.04799,1
+0,US,United States,9302,
+1,AL,Alabama,7827,39
+2,AK,Alaska,14551,2
+4,AZ,Arizona,7293,46
+5,AR,Arkansas,8253,34
+6,CA,California,11342,7
+8,CO,Colorado,8780,26
+9,CT,Connecticut,10879,9
+10,DE,Delaware,10067,14
+11,DC,District of Columbia,19893,1*
+12,FL,Florida,7157,47
+13,GA,Georgia,6778,50
+15,HI,Hawaii,11507,5
+16,ID,Idaho,6912,48
+17,IL,Illinois,9080,21
+18,IN,Indiana,8109,36
+19,IA,Iowa,10087,13
+20,KS,Kansas,8596,28
+21,KY,Kentucky,8288,33
+22,LA,Louisiana,8357,32
+23,ME,Maine,8964,22
+24,MD,Maryland,9932,17
+25,MA,Massachusetts,11212,8
+26,MI,Michigan,8637,27
+27,MN,Minnesota,10506,11
+28,MS,Mississippi,8883,24
+29,MO,Missouri,7499,45
+30,MT,Montana,8125,35
+31,NE,Nebraska,9143,20
+32,NV,Nevada,7532,44
+33,NH,New Hampshire,8385,30
+34,NJ,New Jersey,10770,10
+35,NM,New Mexico,9952,16
+36,NY,New York,14844,1
+37,NC,North Carolina,7972,38
+38,ND,North Dakota,11986,4
+39,OH,Ohio,8911,23
+40,OK,Oklahoma,7550,43
+41,OR,Oregon,10010,15
+42,PA,Pennsylvania,9362,19
+44,RI,Rhode Island,10158,12
+45,SC,South Carolina,8041,37
+46,SD,South Dakota,7798,40
+47,TN,Tennessee,6835,49
+48,TX,Texas,7570,42
+49,UT,Utah,7754,41
+50,VT,Vermont,11407,6
+51,VA,Virginia,8366,31
+53,WA,Washington,9755,18
+54,WV,West Virginia,8883,25
+55,WI,Wisconsin,8585,29
+56,WY,Wyoming,13750,3
