@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,federalAidPercentage,federalAidPercentageRank
-0,US,United States,0.225222141,
-1,AL,Alabama,0.351374233,13
-2,AK,Alaska,0.368076897,10
-4,AZ,Arizona,0.398350411,3
-5,AR,Arkansas,0.359126753,11
-6,CA,California,0.303854786,35
-8,CO,Colorado,0.269858683,43
-9,CT,Connecticut,0.258437575,45
-10,DE,Delaware,0.251731277,46
-12,FL,Florida,0.326553366,25
-13,GA,Georgia,0.343272792,17
-15,HI,Hawaii,0.227761743,48
-16,ID,Idaho,0.324917289,27
-17,IL,Illinois,0.275713146,40
-18,IN,Indiana,0.332942149,22
-19,IA,Iowa,0.320398605,28
-20,KS,Kansas,0.241013638,47
-21,KY,Kentucky,0.395053453,4
-22,LA,Louisiana,0.421944257,1
-23,ME,Maine,0.343070517,18
-24,MD,Maryland,0.308076891,33
-25,MA,Massachusetts,0.279973185,39
-26,MI,Michigan,0.340334001,19
-27,MN,Minnesota,0.272420199,42
-28,MS,Mississippi,0.420699335,2
-29,MO,Missouri,0.374511915,9
-30,MT,Montana,0.391458481,6
-31,NE,Nebraska,0.297889399,37
-32,NV,Nevada,0.303378063,36
-33,NH,New Hampshire,0.316925332,31
-34,NJ,New Jersey,0.285851554,38
-35,NM,New Mexico,0.39316172,5
-36,NY,New York,0.330789139,23
-37,NC,North Carolina,0.317871022,30
-38,ND,North Dakota,0.183892086,50
-39,OH,Ohio,0.357429599,12
-40,OK,Oklahoma,0.324937415,26
-41,OR,Oregon,0.391107499,7
-42,PA,Pennsylvania,0.305799382,34
-44,RI,Rhode Island,0.328540672,24
-45,SC,South Carolina,0.319715572,29
-46,SD,South Dakota,0.35080758,14
-47,TN,Tennessee,0.379621355,8
-48,TX,Texas,0.33410353,21
-49,UT,Utah,0.26821305,44
-50,VT,Vermont,0.3503718,15
-51,VA,Virginia,0.215207591,49
-53,WA,Washington,0.311544572,32
-54,WV,West Virginia,0.349643823,16
-55,WI,Wisconsin,0.274801712,41
-56,WY,Wyoming,0.335237393,20
+0,US,United States,0.229,
+1,AL,Alabama,0.371,11
+2,AK,Alaska,0.373,9
+4,AZ,Arizona,0.412,4
+5,AR,Arkansas,0.363,13
+6,CA,California,0.322,29
+8,CO,Colorado,0.306,35
+9,CT,Connecticut,0.279,42
+10,DE,Delaware,0.272,43
+12,FL,Florida,0.337,24
+13,GA,Georgia,0.343,18
+15,HI,Hawaii,0.227,49
+16,ID,Idaho,0.331,27
+17,IL,Illinois,0.288,40
+18,IN,Indiana,0.358,14
+19,IA,Iowa,0.314,31
+20,KS,Kansas,0.23,48
+21,KY,Kentucky,0.409,5
+22,LA,Louisiana,0.427,2
+23,ME,Maine,0.341,19
+24,MD,Maryland,0.304,37
+25,MA,Massachusetts,0.289,39
+26,MI,Michigan,0.338,23
+27,MN,Minnesota,0.267,44
+28,MS,Mississippi,0.433,1
+29,MO,Missouri,0.373,10
+30,MT,Montana,0.406,6
+31,NE,Nebraska,0.305,36
+32,NV,Nevada,0.313,32
+33,NH,New Hampshire,0.319,30
+34,NJ,New Jersey,0.284,41
+35,NM,New Mexico,0.412,3
+36,NY,New York,0.339,22
+37,NC,North Carolina,0.307,34
+38,ND,North Dakota,0.238,47
+39,OH,Ohio,0.351,16
+40,OK,Oklahoma,0.339,21
+41,OR,Oregon,0.356,15
+42,PA,Pennsylvania,0.326,28
+44,RI,Rhode Island,0.332,26
+45,SC,South Carolina,0.309,33
+46,SD,South Dakota,0.34,20
+47,TN,Tennessee,0.386,7
+48,TX,Texas,0.335,25
+49,UT,Utah,0.257,46
+50,VT,Vermont,0.349,17
+51,VA,Virginia,0.211,50
+53,WA,Washington,0.302,38
+54,WV,West Virginia,0.371,12
+55,WI,Wisconsin,0.263,45
+56,WY,Wyoming,0.381,8
