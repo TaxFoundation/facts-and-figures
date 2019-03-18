@@ -7,7 +7,7 @@ id,stateAbbr,stateName,stateGeneralSalesTax,groceryTreatment,candyTreatedAsGroce
 8,CO,Colorado,0.029,Exempt,No,No
 9,CT,Connecticut,0.0635,Exempt,No,No
 10,DE,Delaware,--,--,--,--
-11,DC,District of Columbia,0.06,Exempt,No ,No
+11,DC,District of Columbia,0.06,Exempt,No,No
 12,FL,Florida,0.06,Exempt,No,No
 13,GA,Georgia,0.04,Exempt,Yes,Yes
 15,HI,Hawaii,0.04,Included in Base,Yes,Yes
