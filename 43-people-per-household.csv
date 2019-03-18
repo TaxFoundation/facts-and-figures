@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,peoplePerHousehold2016,peoplePerHousehold2017
+0,US,United States,2.64,2.63
+1,AL,Alabama,2.55,2.55
+2,AK,Alaska,2.83,2.81
+4,AZ,Arizona,2.69,2.68
+5,AR,Arkansas,2.53,2.52
+6,CA,California,2.95,2.96
+8,CO,Colorado,2.56,2.55
+9,CT,Connecticut,2.56,2.55
+10,DE,Delaware,2.61,2.61
+11,DC,District of Columbia,2.24,2.28
+12,FL,Florida,2.64,2.64
+13,GA,Georgia,2.72,2.71
+15,HI,Hawaii,3.03,3.02
+16,ID,Idaho,2.69,2.67
+17,IL,Illinois,2.61,2.61
+18,IN,Indiana,2.55,2.53
+19,IA,Iowa,2.42,2.41
+20,KS,Kansas,2.53,2.52
+21,KY,Kentucky,2.49,2.49
+22,LA,Louisiana,2.61,2.61
+23,ME,Maine,2.35,2.34
+24,MD,Maryland,2.67,2.68
+25,MA,Massachusetts,2.54,2.53
+26,MI,Michigan,2.51,2.49
+27,MN,Minnesota,2.49,2.49
+28,MS,Mississippi,2.63,2.62
+29,MO,Missouri,2.48,2.47
+30,MT,Montana,2.41,2.38
+31,NE,Nebraska,2.47,2.46
+32,NV,Nevada,2.72,2.71
+33,NH,New Hampshire,2.47,2.45
+34,NJ,New Jersey,2.73,2.74
+35,NM,New Mexico,2.67,2.65
+36,NY,New York,2.63,2.63
+37,NC,North Carolina,2.54,2.53
+38,ND,North Dakota,2.33,2.31
+39,OH,Ohio,2.45,2.44
+40,OK,Oklahoma,2.58,2.58
+41,OR,Oregon,2.52,2.5
+42,PA,Pennsylvania,2.49,2.47
+44,RI,Rhode Island,2.47,2.46
+45,SC,South Carolina,2.55,2.54
+46,SD,South Dakota,2.45,2.42
+47,TN,Tennessee,2.54,2.53
+48,TX,Texas,2.84,2.84
+49,UT,Utah,3.16,3.14
+50,VT,Vermont,2.34,2.32
+51,VA,Virginia,2.61,2.62
+53,WA,Washington,2.57,2.55
+54,WV,West Virginia,2.43,2.42
+55,WI,Wisconsin,2.43,2.41
+56,WY,Wyoming,2.51,2.47

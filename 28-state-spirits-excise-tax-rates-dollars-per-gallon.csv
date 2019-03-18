@@ -8,7 +8,7 @@ id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
 8,CO,Colorado,2.28,47
 9,CT,Connecticut,5.4,29
 10,DE,Delaware,4.5,34
-11,DC,District of Columbia,6.17,25*
+11,DC,District of Columbia,6.19,23*
 12,FL,Florida,6.5,21
 13,GA,Georgia,3.79,37
 15,HI,Hawaii,5.98,24
@@ -17,10 +17,10 @@ id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
 18,IN,Indiana,2.68,44
 19,IA,Iowa,13.07,7
 20,KS,Kansas,2.5,45
-21,KY,Kentucky,7.86,16
+21,KY,Kentucky,8.04,16
 22,LA,Louisiana,3.03,42
 23,ME,Maine,5.83,25
-24,MD,Maryland,5,31
+24,MD,Maryland,5.02,31
 25,MA,Massachusetts,4.05,36
 26,MI,Michigan,11.99,9
 27,MN,Minnesota,8.96,13
@@ -31,20 +31,20 @@ id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
 32,NV,Nevada,3.6,39
 33,NH,New Hampshire,--,--
 34,NJ,New Jersey,5.5,27
-35,NM,New Mexico,6.056660055,23
+35,NM,New Mexico,6.06,23
 36,NY,New York,6.44,22
 37,NC,North Carolina,14.63,6
-38,ND,North Dakota,4.66,33
+38,ND,North Dakota,4.92,32
 39,OH,Ohio,9.87,11
 40,OK,Oklahoma,5.56,26
-41,OR,Oregon,22.75,2
+41,OR,Oregon,21.98,2
 42,PA,Pennsylvania,7.24,20
 44,RI,Rhode Island,5.4,29
-45,SC,South Carolina,5.422121577,28
-46,SD,South Dakota,4.67,32
-47,TN,Tennessee,4.463090209,35
+45,SC,South Carolina,5.42,28
+46,SD,South Dakota,4.67,33
+47,TN,Tennessee,4.46,35
 48,TX,Texas,2.4,46
-49,UT,Utah,15.38,5
+49,UT,Utah,15.96,5
 50,VT,Vermont,7.72,18
 51,VA,Virginia,19.93,3
 53,WA,Washington,32.52,1

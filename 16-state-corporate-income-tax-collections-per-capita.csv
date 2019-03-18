@@ -1,0 +1,52 @@
+id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
+0,US,United States,139,
+1,AL,Alabama,107,30
+2,AK,Alaska,119,28
+4,AZ,Arizona,52,41
+5,AR,Arkansas,132,20
+6,CA,California,256,5
+8,CO,Colorado,94,34
+9,CT,Connecticut,250,6
+10,DE,Delaware,256,4
+12,FL,Florida,114,29
+13,GA,Georgia,93,35
+15,HI,Hawaii,129,23
+16,ID,Idaho,126,24
+17,IL,Illinois,225,8
+18,IN,Indiana,154,14
+19,IA,Iowa,137,17
+20,KS,Kansas,133,19
+21,KY,Kentucky,103,32
+22,LA,Louisiana,62,40
+23,ME,Maine,131,21
+24,MD,Maryland,166,13
+25,MA,Massachusetts,320,2
+26,MI,Michigan,120,26
+27,MN,Minnesota,220,9
+28,MS,Mississippi,137,18
+29,MO,Missouri,50,42
+30,MT,Montana,119,27
+31,NE,Nebraska,138,16
+32,NV,Nevada,0,--
+33,NH,New Hampshire,427,1
+34,NJ,New Jersey,234,7
+35,NM,New Mexico,44,43
+36,NY,New York,203,10
+37,NC,North Carolina,74,38
+38,ND,North Dakota,81,36
+39,OH,Ohio,1,--
+40,OK,Oklahoma,40,44
+41,OR,Oregon,153,15
+42,PA,Pennsylvania,183,11
+44,RI,Rhode Island,122,25
+45,SC,South Carolina,75,37
+46,SD,South Dakota,35,45
+47,TN,Tennessee,257,3
+48,TX,Texas,0,--
+49,UT,Utah,106,31
+50,VT,Vermont,131,22
+51,VA,Virginia,98,33
+53,WA,Washington,0,--
+54,WV,West Virginia,64,39
+55,WI,Wisconsin,166,12
+56,WY,Wyoming,0,--

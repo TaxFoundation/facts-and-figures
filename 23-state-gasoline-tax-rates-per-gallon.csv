@@ -1,0 +1,53 @@
+id,stateAbbr,stateName,exciseTax,otherTax,total,totalRank
+0,US,United States,0.184,,,
+1,AL,Alabama,0.18,0.0309,0.2109,40
+2,AK,Alaska,0.0895,0.0549,0.1444,50
+4,AZ,Arizona,0.18,0.01,0.19,46
+5,AR,Arkansas,0.215,0.003,0.218,39
+6,CA,California,0.417,0.1266,0.5436,2
+8,CO,Colorado,0.22,0,0.22,38
+9,CT,Connecticut,0.25,0.1185,0.3685,10
+10,DE,Delaware,0.23,0,0.23,36
+11,DC,District of Columbia,0.235,0,0.235,36*
+12,FL,Florida,0.04,0.3799,0.4199,7
+13,GA,Georgia,0.275,0.0778,0.3528,15
+15,HI,Hawaii,0.17,0.2938,0.4638,4
+16,ID,Idaho,0.32,0.01,0.33,18
+17,IL,Illinois,0.19,0.1298,0.3198,21
+18,IN,Indiana,0.29,0.139,0.429,6
+19,IA,Iowa,0.307,0,0.307,23
+20,KS,Kansas,0.24,0.00025,0.24025,33
+21,KY,Kentucky,0.246,0.014,0.26,32
+22,LA,Louisiana,0.2,0.0001,0.2001,43
+23,ME,Maine,0.3,0.0001,0.3001,25
+24,MD,Maryland,0.256,0.097,0.353,14
+25,MA,Massachusetts,0.24,0.0254,0.2654,30
+26,MI,Michigan,0.263,0.1211,0.3841,9
+27,MN,Minnesota,0.285,0.001,0.286,28
+28,MS,Mississippi,0.18,0.0079,0.1879,48
+29,MO,Missouri,0.17,0.0035,0.1735,49
+30,MT,Montana,0.315,0.0075,0.3225,20
+31,NE,Nebraska,0.296,0.009,0.305,24
+32,NV,Nevada,0.23,0.1078,0.3378,17
+33,NH,New Hampshire,0.222,0.0163,0.2383,35
+34,NJ,New Jersey,0.105,0.309,0.414,8
+35,NM,New Mexico,0.17,0.0188,0.1888,47
+36,NY,New York,0.0805,0.3605,0.441,5
+37,NC,North Carolina,0.362,0.0025,0.3645,12
+38,ND,North Dakota,0.23,0,0.23,36
+39,OH,Ohio,0.28,0.0001,0.2801,29
+40,OK,Oklahoma,0.19,0.01,0.2,44
+41,OR,Oregon,0.34,0.0277,0.3677,11
+42,PA,Pennsylvania,0,0.587,0.587,1
+44,RI,Rhode Island,0.33,0.01,0.34,16
+45,SC,South Carolina,0.2,0.0075,0.2075,41
+46,SD,South Dakota,0.28,0.02,0.3,27
+47,TN,Tennessee,0.25,0.014,0.264,31
+48,TX,Texas,0.2,0,0.2,44
+49,UT,Utah,0.3,0.0001,0.3001,25
+50,VT,Vermont,0.121,0.1909,0.3119,22
+51,VA,Virginia,0.162,0.0446,0.2066,42
+53,WA,Washington,0.494,0,0.494,3
+54,WV,West Virginia,0.205,0.152,0.357,13
+55,WI,Wisconsin,0.309,0.02,0.329,19
+56,WY,Wyoming,0.23,0.01,0.24,34
