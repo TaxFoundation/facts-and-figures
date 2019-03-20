@@ -1,11 +1,11 @@
 id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 0,US,United States,1.0066,
-1,AL,Alabama,0.675,39
+1,AL,Alabama,0.675,40
 2,AK,Alaska,2,15
 4,AZ,Arizona,2,15
 5,AR,Arkansas,1.15,34
 6,CA,California,2.87,9
-8,CO,Colorado,0.84,37
+8,CO,Colorado,0.84,38
 9,CT,Connecticut,4.35,1
 10,DE,Delaware,2.1,13
 11,DC,District of Columbia,4.5,1*
@@ -14,20 +14,20 @@ id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 15,HI,Hawaii,3.2,5
 16,ID,Idaho,0.57,44
 17,IL,Illinois,1.98,20
-18,IN,Indiana,0.995,36
+18,IN,Indiana,0.995,37
 19,IA,Iowa,1.36,29
 20,KS,Kansas,1.29,32
-21,KY,Kentucky,0.6,42
-22,LA,Louisiana,1.08,35
+21,KY,Kentucky,1.1,35
+22,LA,Louisiana,1.08,36
 23,ME,Maine,2,15
 24,MD,Maryland,2,15
 25,MA,Massachusetts,3.51,4
 26,MI,Michigan,2,15
 27,MN,Minnesota,3.04,7
-28,MS,Mississippi,0.68,38
+28,MS,Mississippi,0.68,39
 29,MO,Missouri,0.17,50
 30,MT,Montana,1.7,23
-31,NE,Nebraska,0.64,40
+31,NE,Nebraska,0.64,41
 32,NV,Nevada,1.8,21
 33,NH,New Hampshire,1.78,22
 34,NJ,New Jersey,2.7,10
@@ -42,7 +42,7 @@ id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 44,RI,Rhode Island,4.25,3
 45,SC,South Carolina,0.57,44
 46,SD,South Dakota,1.53,27
-47,TN,Tennessee,0.62,41
+47,TN,Tennessee,0.62,42
 48,TX,Texas,1.41,28
 49,UT,Utah,1.7,23
 50,VT,Vermont,3.08,6
@@ -50,4 +50,4 @@ id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 53,WA,Washington,3.025,8
 54,WV,West Virginia,1.2,33
 55,WI,Wisconsin,2.52,12
-56,WY,Wyoming,0.6,42
+56,WY,Wyoming,0.6,43
