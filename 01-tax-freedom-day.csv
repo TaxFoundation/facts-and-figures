@@ -8,46 +8,46 @@ id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
 8,CO,Colorado,Apr 16,27
 9,CT,Connecticut,May 3,48
 10,DE,Delaware,Apr 12,17
-11,DC,District of Columbia,Apr 13,21
-12,FL,Florida,Apr 9,8
-13,GA,Georgia,Apr 20,38
-15,HI,Hawaii,Apr 7,6
-16,ID,Idaho,Apr 29,47
-17,IL,Illinois,Apr 10,12
-18,IN,Indiana,Apr 18,32
-19,IA,Iowa,Apr 17,30
-20,KS,Kansas,Apr 13,21
-21,KY,Kentucky,Apr 4,1
-22,LA,Louisiana,Apr 20,38
-23,ME,Maine,Apr 19,34
-24,MD,Maryland,Apr 26,45
-25,MA,Massachusetts,Apr 14,24
-26,MI,Michigan,Apr 27,46
-27,MN,Minnesota,Apr 9,8
-28,MS,Mississippi,Apr 12,17
-29,MO,Missouri,Apr 11,15
-30,MT,Montana,Apr 12,17
-31,NE,Nebraska,Apr 16,27
-32,NV,Nevada,Apr 18,32
-33,NH,New Hampshire,May 3,48
-34,NJ,New Jersey,Apr 10,12
-35,NM,New Mexico,May 14,50
-36,NY,New York,Apr 12,17
-37,NC,North Carolina,Apr 24,43
-38,ND,North Dakota,Apr 15,26
-39,OH,Ohio,Apr 5,3
-40,OK,Oklahoma,Apr 17,30
-41,OR,Oregon,Apr 19,34
-42,PA,Pennsylvania,Apr 24,43
-44,RI,Rhode Island,Apr 9,8
-45,SC,South Carolina,Apr 10,12
-46,SD,South Dakota,Apr 5,3
-47,TN,Tennessee,Apr 14,24
-48,TX,Texas,Apr 11,15
-49,UT,Utah,Apr 23,41
-50,VT,Vermont,Apr 16,27
-51,VA,Virginia,Apr 19,34
-53,WA,Washington,Apr 13,21
-54,WV,West Virginia,Apr 19,34
-55,WI,Wisconsin,Apr 21,40
-56,WY,Wyoming,May 3,-48
+11,DC,District of Columbia,Apr 13,-48
+12,FL,Florida,Apr 9,21
+13,GA,Georgia,Apr 20,8
+15,HI,Hawaii,Apr 7,38
+16,ID,Idaho,Apr 29,6
+17,IL,Illinois,Apr 10,47
+18,IN,Indiana,Apr 18,12
+19,IA,Iowa,Apr 17,32
+20,KS,Kansas,Apr 13,30
+21,KY,Kentucky,Apr 4,21
+22,LA,Louisiana,Apr 20,1
+23,ME,Maine,Apr 19,38
+24,MD,Maryland,Apr 26,34
+25,MA,Massachusetts,Apr 14,45
+26,MI,Michigan,Apr 27,24
+27,MN,Minnesota,Apr 9,46
+28,MS,Mississippi,Apr 12,8
+29,MO,Missouri,Apr 11,17
+30,MT,Montana,Apr 12,15
+31,NE,Nebraska,Apr 16,17
+32,NV,Nevada,Apr 18,27
+33,NH,New Hampshire,May 3,32
+34,NJ,New Jersey,Apr 10,48
+35,NM,New Mexico,May 14,12
+36,NY,New York,Apr 12,50
+37,NC,North Carolina,Apr 24,17
+38,ND,North Dakota,Apr 15,43
+39,OH,Ohio,Apr 5,26
+40,OK,Oklahoma,Apr 17,3
+41,OR,Oregon,Apr 19,30
+42,PA,Pennsylvania,Apr 24,34
+44,RI,Rhode Island,Apr 9,43
+45,SC,South Carolina,Apr 10,8
+46,SD,South Dakota,Apr 5,12
+47,TN,Tennessee,Apr 14,3
+48,TX,Texas,Apr 11,24
+49,UT,Utah,Apr 23,15
+50,VT,Vermont,Apr 16,41
+51,VA,Virginia,Apr 19,27
+53,WA,Washington,Apr 13,34
+54,WV,West Virginia,Apr 19,21
+55,WI,Wisconsin,Apr 21,34
+56,WY,Wyoming,May 3,40
