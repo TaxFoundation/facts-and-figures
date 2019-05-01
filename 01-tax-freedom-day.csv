@@ -8,7 +8,7 @@ id,stateAbbr,stateName,taxFreedomDay,taxFreedomDayRank
 8,CO,Colorado,Apr 16,27
 9,CT,Connecticut,May 3,48
 10,DE,Delaware,Apr 12,17
-11,DC,District of Columbia,Apr 13,-48
+11,DC,District of Columbia,Apr 13,48*
 12,FL,Florida,Apr 9,21
 13,GA,Georgia,Apr 20,8
 15,HI,Hawaii,Apr 7,38
