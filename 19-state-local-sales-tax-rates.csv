@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,stateSalesTaxRate,stateSalesTaxRateRank,avgLocalSalesTaxRate,combinedStateLocalSalesTaxRate,combinedStateLocalSalesTaxRateRank
-1,AL,Alabama,0.04,40,0.0514,0.0914,5
-2,AK,Alaska,--,--,0.0143,0.0143,46
-4,AZ,Arizona,0.056,28,0.0277,0.0837,11
-5,AR,Arkansas,0.065,9,0.0293,0.0943,3
-6,CA,California,0.0725,1,0.0131,0.0856,9
+1,AL,Alabama,0.04,40,0.0516,0.0916,5
+2,AK,Alaska,--,--,0.0176,0.0176,46
+4,AZ,Arizona,0.056,28,0.0279,0.0839,11
+5,AR,Arkansas,0.065,9,0.0297,0.0947,2
+6,CA,California,0.0725,1,0.0141,0.0866,9
 8,CO,Colorado,0.029,45,0.0473,0.0763,16
 9,CT,Connecticut,0.0635,12,0,0.0635,33
-10,DE,Delaware,--,--,0,0,--
-11,DC,District of Columbia,0.06,16*,0,0.06,38*
-12,FL,Florida,0.06,16,0.0105,0.0705,22
-13,GA,Georgia,0.04,40,0.0329,0.0729,19
+10,DE,Delaware,--,--,--,--,--
+11,DC,District of Columbia,0.06,17*,0,0.06,23*
+12,FL,Florida,0.06,16,0.0105,0.0705,23
+13,GA,Georgia,0.04,40,0.0333,0.0733,19
 15,HI,Hawaii,0.04,40,0.0041,0.0441,45
 16,ID,Idaho,0.06,16,0.0003,0.0603,37
-17,IL,Illinois,0.0625,13,0.0249,0.0874,7
-18,IN,Indiana,0.07,2,0,0.07,23
+17,IL,Illinois,0.0625,13,0.0253,0.0878,7
+18,IN,Indiana,0.07,2,0,0.07,24
 19,IA,Iowa,0.06,16,0.0082,0.0682,29
 20,KS,Kansas,0.065,9,0.0217,0.0867,8
 21,KY,Kentucky,0.06,16,0,0.06,38
-22,LA,Louisiana,0.0445,38,0.05,0.0945,2
+22,LA,Louisiana,0.0445,38,0.0500,0.0945,3
 23,ME,Maine,0.055,29,0,0.055,42
 24,MD,Maryland,0.06,16,0,0.06,38
 25,MA,Massachusetts,0.0625,13,0,0.0625,35
 26,MI,Michigan,0.06,16,0,0.06,38
-27,MN,Minnesota,0.06875,6,0.0055,0.0743,18
-28,MS,Mississippi,0.07,2,0.0007,0.0707,21
-29,MO,Missouri,0.04225,39,0.039,0.0813,14
-30,MT,Montana,--,--,0,0,--
-31,NE,Nebraska,0.055,29,0.0135,0.0685,27
-32,NV,Nevada,0.0685,7,0.0129,0.0814,13
-33,NH,New Hampshire,--,--,0,0,--
-34,NJ,New Jersey,0.06625,8,-0.0003,0.066,30
+27,MN,Minnesota,0.06875,6,0.0056,0.0743,18
+28,MS,Mississippi,0.07,2,0.0007,0.0707,22
+29,MO,Missouri,0.04225,39,0.0393,0.0815,13
+30,MT,Montana,--,--,--,--,--
+31,NE,Nebraska,0.055,29,0.0138,0.0688,27
+32,NV,Nevada,0.0685,7,0.0129,0.0814,14
+33,NH,New Hampshire,--,--,--,--,--
+34,NJ,New Jersey,0.06625,8,-0.0003,0.0660,30
 35,NM,New Mexico,0.05125,32,0.0269,0.0782,15
 36,NY,New York,0.04,40,0.0449,0.0849,10
-37,NC,North Carolina,0.0475,35,0.0222,0.0697,25
+37,NC,North Carolina,0.0475,35,0.0222,0.0697,26
 38,ND,North Dakota,0.05,33,0.0185,0.0685,28
-39,OH,Ohio,0.0575,27,0.0142,0.0717,20
-40,OK,Oklahoma,0.045,36,0.0442,0.0892,6
-41,OR,Oregon,--,--,0,0,--
-42,PA,Pennsylvania,0.06,16,0.0034,0.0634,34
-44,RI,Rhode Island,0.07,2,0,0.07,23
-45,SC,South Carolina,0.06,16,0.0143,0.0743,17
-46,SD,South Dakota,0.045,36,0.019,0.064,31
+39,OH,Ohio,0.0575,27,0.0142,0.0717,21
+40,OK,Oklahoma,0.045,36,0.0444,0.0894,6
+41,OR,Oregon,--,--,--,--,--
+42,PA,Pennsylvania,0.06,16,0.00335,0.0634,34
+44,RI,Rhode Island,0.07,2,0,0.07,24
+45,SC,South Carolina,0.06,16,0.0146,0.0746,17
+46,SD,South Dakota,0.045,36,0.0190,0.0640,31
 47,TN,Tennessee,0.07,2,0.0247,0.0947,1
 48,TX,Texas,0.0625,13,0.0194,0.0819,12
-49,UT,Utah,0.0595,26,0.0099,0.0694,26
-50,VT,Vermont,0.06,16,0.0018,0.0618,36
+49,UT,Utah,0.061,26,0.0122,0.0717,20
+50,VT,Vermont,0.06,16,0.0022,0.0622,36
 51,VA,Virginia,0.053,31,0.0035,0.0565,41
-53,WA,Washington,0.065,9,0.0267,0.0917,4
-54,WV,West Virginia,0.06,16,0.0039,0.0639,32
+53,WA,Washington,0.065,9,0.0271,0.0921,4
+54,WV,West Virginia,0.06,16,0.0040,0.0640,32
 55,WI,Wisconsin,0.05,33,0.0044,0.0544,43
-56,WY,Wyoming,0.04,40,0.0136,0.0536,44
+56,WY,Wyoming,0.04,40,0.0132,0.0532,44
