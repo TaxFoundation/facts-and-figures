@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,9302,
-1,AL,Alabama,7827,39
-2,AK,Alaska,14551,2
-4,AZ,Arizona,7293,46
-5,AR,Arkansas,8253,34
-6,CA,California,11342,7
-8,CO,Colorado,8780,26
-9,CT,Connecticut,10879,9
-10,DE,Delaware,10067,14
-11,DC,District of Columbia,19893,1*
-12,FL,Florida,7157,47
-13,GA,Georgia,6778,50
-15,HI,Hawaii,11507,5
-16,ID,Idaho,6912,48
-17,IL,Illinois,9080,21
-18,IN,Indiana,8109,36
-19,IA,Iowa,10087,13
-20,KS,Kansas,8596,28
-21,KY,Kentucky,8288,33
-22,LA,Louisiana,8357,32
-23,ME,Maine,8964,22
-24,MD,Maryland,9932,17
-25,MA,Massachusetts,11212,8
-26,MI,Michigan,8637,27
-27,MN,Minnesota,10506,11
-28,MS,Mississippi,8883,24
-29,MO,Missouri,7499,45
-30,MT,Montana,8125,35
-31,NE,Nebraska,9143,20
-32,NV,Nevada,7532,44
-33,NH,New Hampshire,8385,30
-34,NJ,New Jersey,10770,10
-35,NM,New Mexico,9952,16
-36,NY,New York,14844,1
-37,NC,North Carolina,7972,38
-38,ND,North Dakota,11986,4
-39,OH,Ohio,8911,23
-40,OK,Oklahoma,7550,43
-41,OR,Oregon,10010,15
-42,PA,Pennsylvania,9362,19
-44,RI,Rhode Island,10158,12
-45,SC,South Carolina,8041,37
-46,SD,South Dakota,7798,40
-47,TN,Tennessee,6835,49
-48,TX,Texas,7570,42
-49,UT,Utah,7754,41
-50,VT,Vermont,11407,6
-51,VA,Virginia,8366,31
-53,WA,Washington,9755,18
-54,WV,West Virginia,8883,25
-55,WI,Wisconsin,8585,29
-56,WY,Wyoming,13750,3
+0,US,United States,9573,
+1,AL,Alabama,8207,38
+2,AK,Alaska,15723,1
+4,AZ,Arizona,7270,47
+5,AR,Arkansas,8538,35
+6,CA,California,11521,6
+8,CO,Colorado,9173,25
+9,CT,Connecticut,11442,7
+10,DE,Delaware,10534,12
+11,DC,District of Columbia,19812,1*
+12,FL,Florida,7414,46
+13,GA,Georgia,7000,49
+15,HI,Hawaii,12099,5
+16,ID,Idaho,7068,48
+17,IL,Illinois,9279,20
+18,IN,Indiana,8305,37
+19,IA,Iowa,10260,17
+20,KS,Kansas,9192,24
+21,KY,Kentucky,8197,39
+22,LA,Louisiana,9058,27
+23,ME,Maine,9159,26
+24,MD,Maryland,10420,14
+25,MA,Massachusetts,11291,9
+26,MI,Michigan,8903,28
+27,MN,Minnesota,10498,13
+28,MS,Mississippi,8821,29
+29,MO,Missouri,7785,44
+30,MT,Montana,8728,32
+31,NE,Nebraska,9221,21
+32,NV,Nevada,8002,42
+33,NH,New Hampshire,8570,34
+34,NJ,New Jersey,11210,10
+35,NM,New Mexico,10337,16
+36,NY,New York,15238,2
+37,NC,North Carolina,8112,41
+38,ND,North Dakota,12279,4
+39,OH,Ohio,9202,23
+40,OK,Oklahoma,7688,45
+41,OR,Oregon,10539,11
+42,PA,Pennsylvania,9769,19
+44,RI,Rhode Island,10208,18
+45,SC,South Carolina,8329,36
+46,SD,South Dakota,8124,40
+47,TN,Tennessee,6918,50
+48,TX,Texas,7876,43
+49,UT,Utah,8663,33
+50,VT,Vermont,11329,8
+51,VA,Virginia,8730,31
+53,WA,Washington,10358,15
+54,WV,West Virginia,9209,22
+55,WI,Wisconsin,8789,30
+56,WY,Wyoming,14222,3

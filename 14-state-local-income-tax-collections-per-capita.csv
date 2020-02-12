@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,1164,
-1,AL,Alabama,743,36
+0,US,United States,1181,
+1,AL,Alabama,769,36
 2,AK,Alaska,0,--
-4,AZ,Arizona,574,40
-5,AR,Arkansas,931,31
-6,CA,California,2055,5
-8,CO,Colorado,1173,17
-9,CT,Connecticut,2106,4
-10,DE,Delaware,1228,14
-11,DC,District of Columbia,2788,2*
+4,AZ,Arizona,489,40
+5,AR,Arkansas,922,31
+6,CA,California,2137,5
+8,CO,Colorado,1209,15
+9,CT,Connecticut,2227,3
+10,DE,Delaware,1297,14
+11,DC,District of Columbia,2815,2*
 12,FL,Florida,0,--
-13,GA,Georgia,1012,27
-15,HI,Hawaii,1481,9
-16,ID,Idaho,905,32
-17,IL,Illinois,1076,25
-18,IN,Indiana,986,30
-19,IA,Iowa,1168,20
-20,KS,Kansas,768,34
-21,KY,Kentucky,1271,13
-22,LA,Louisiana,612,38
-23,ME,Maine,1166,21
-24,MD,Maryland,2276,2
-25,MA,Massachusetts,2115,3
-26,MI,Michigan,986,29
-27,MN,Minnesota,1957,6
-28,MS,Mississippi,603,39
-29,MO,Missouri,1053,26
-30,MT,Montana,1137,23
-31,NE,Nebraska,1177,16
+13,GA,Georgia,1054,26
+15,HI,Hawaii,1471,10
+16,ID,Idaho,966,30
+17,IL,Illinois,1037,27
+18,IN,Indiana,909,32
+19,IA,Iowa,1196,17
+20,KS,Kansas,800,34
+21,KY,Kentucky,1313,13
+22,LA,Louisiana,632,38
+23,ME,Maine,1150,23
+24,MD,Maryland,2390,2
+25,MA,Massachusetts,2145,4
+26,MI,Michigan,1005,28
+27,MN,Minnesota,1984,7
+28,MS,Mississippi,614,39
+29,MO,Missouri,1073,25
+30,MT,Montana,1119,24
+31,NE,Nebraska,1162,22
 32,NV,Nevada,0,--
-33,NH,New Hampshire,66,42
-34,NJ,New Jersey,1488,8
-35,NM,New Mexico,676,37
-36,NY,New York,2929,1
-37,NC,North Carolina,1186,15
-38,ND,North Dakota,465,41
-39,OH,Ohio,1146,22
-40,OK,Oklahoma,764,35
-41,OR,Oregon,1882,7
-42,PA,Pennsylvania,1323,11
-44,RI,Rhode Island,1169,19
-45,SC,South Carolina,780,33
+33,NH,New Hampshire,49,42
+34,NJ,New Jersey,1570,8
+35,NM,New Mexico,640,37
+36,NY,New York,2877,1
+37,NC,North Carolina,1177,19
+38,ND,North Dakota,423,41
+39,OH,Ohio,1207,16
+40,OK,Oklahoma,794,35
+41,OR,Oregon,2021,6
+42,PA,Pennsylvania,1339,12
+44,RI,Rhode Island,1173,20
+45,SC,South Carolina,825,33
 46,SD,South Dakota,0,--
-47,TN,Tennessee,49,43
+47,TN,Tennessee,37,43
 48,TX,Texas,0,--
-49,UT,Utah,1108,24
-50,VT,Vermont,1171,18
-51,VA,Virginia,1454,10
+49,UT,Utah,1167,21
+50,VT,Vermont,1191,18
+51,VA,Virginia,1542,9
 53,WA,Washington,0,--
-54,WV,West Virginia,1009,28
-55,WI,Wisconsin,1297,12
+54,WV,West Virginia,998,29
+55,WI,Wisconsin,1345,11
 56,WY,Wyoming,0,--

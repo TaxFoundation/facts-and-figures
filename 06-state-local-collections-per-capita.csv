@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,4946,
-1,AL,Alabama,3206,50
-2,AK,Alaska,3812,39
-4,AZ,Arizona,3582,44
-5,AR,Arkansas,3958,30
-6,CA,California,6077,8
-8,CO,Colorado,4621,22
-9,CT,Connecticut,7220,2
-10,DE,Delaware,4757,21
-11,DC,District of Columbia,10841,1*
-12,FL,Florida,3478,46
-13,GA,Georgia,3660,42
-15,HI,Hawaii,6467,6
-16,ID,Idaho,3514,45
-17,IL,Illinois,5654,11
-18,IN,Indiana,3872,36
-19,IA,Iowa,4884,18
-20,KS,Kansas,4498,25
-21,KY,Kentucky,3823,38
-22,LA,Louisiana,3888,35
-23,ME,Maine,5206,14
-24,MD,Maryland,6027,9
-25,MA,Massachusetts,6469,5
-26,MI,Michigan,4082,28
-27,MN,Minnesota,6090,7
-28,MS,Mississippi,3613,43
-29,MO,Missouri,3682,41
-30,MT,Montana,3827,37
-31,NE,Nebraska,5087,15
-32,NV,Nevada,4277,27
-33,NH,New Hampshire,4818,19
-34,NJ,New Jersey,6709,3
-35,NM,New Mexico,3891,34
-36,NY,New York,8957,1
-37,NC,North Carolina,3919,32
-38,ND,North Dakota,6630,4
-39,OH,Ohio,4473,26
-40,OK,Oklahoma,3458,47
-41,OR,Oregon,4508,24
-42,PA,Pennsylvania,5058,16
+0,US,United States,5073,
+1,AL,Alabama,3370,50
+2,AK,Alaska,4096,33
+4,AZ,Arizona,3472,48
+5,AR,Arkansas,4002,35
+6,CA,California,6170,9
+8,CO,Colorado,4881,21
+9,CT,Connecticut,7638,2
+10,DE,Delaware,4886,20
+11,DC,District of Columbia,10717,1*
+12,FL,Florida,3653,45
+13,GA,Georgia,3739,42
+15,HI,Hawaii,6640,5
+16,ID,Idaho,3712,43
+17,IL,Illinois,5764,11
+18,IN,Indiana,3893,39
+19,IA,Iowa,4992,17
+20,KS,Kansas,4643,26
+21,KY,Kentucky,3894,38
+22,LA,Louisiana,4328,28
+23,ME,Maine,5302,14
+24,MD,Maryland,6301,7
+25,MA,Massachusetts,6564,6
+26,MI,Michigan,4189,30
+27,MN,Minnesota,6176,8
+28,MS,Mississippi,3678,44
+29,MO,Missouri,3821,41
+30,MT,Montana,3878,40
+31,NE,Nebraska,5118,16
+32,NV,Nevada,4495,27
+33,NH,New Hampshire,4895,18
+34,NJ,New Jersey,6978,3
+35,NM,New Mexico,4117,32
+36,NY,New York,9073,1
+37,NC,North Carolina,3960,36
+38,ND,North Dakota,6665,4
+39,OH,Ohio,4682,25
+40,OK,Oklahoma,3544,46
+41,OR,Oregon,4731,23
+42,PA,Pennsylvania,5166,15
 44,RI,Rhode Island,5562,12
-45,SC,South Carolina,3435,48
-46,SD,South Dakota,3938,31
-47,TN,Tennessee,3322,49
-48,TX,Texas,4020,29
-49,UT,Utah,3743,40
-50,VT,Vermont,5904,10
-51,VA,Virginia,4560,23
-53,WA,Washington,5050,17
-54,WV,West Virginia,3917,33
-55,WI,Wisconsin,4782,20
-56,WY,Wyoming,5545,13
+45,SC,South Carolina,3522,47
+46,SD,South Dakota,4260,29
+47,TN,Tennessee,3405,49
+48,TX,Texas,4161,31
+49,UT,Utah,4063,34
+50,VT,Vermont,6044,10
+51,VA,Virginia,4797,22
+53,WA,Washington,5342,13
+54,WV,West Virginia,3954,37
+55,WI,Wisconsin,4891,19
+56,WY,Wyoming,4698,24
