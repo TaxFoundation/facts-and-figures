@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,exciseTax,otherTax,total,totalRank
 0,US,United States,0.184,,,
-1,AL,Alabama,0.18,0.0321,0.2121,41
-2,AK,Alaska,0.0895,0.0571,0.1466,50
+1,AL,Alabama,0.24,0.0321,0.2721,31
+2,AK,Alaska,0.0895,0.054,0.1435,50
 4,AZ,Arizona,0.18,0.01,0.19,46
-5,AR,Arkansas,0.215,0.003,0.218,40
-6,CA,California,0.473,0.139,0.612,1
-8,CO,Colorado,0.22,0,0.22,38
-9,CT,Connecticut,0.25,0.1711,0.4211,9
-10,DE,Delaware,0.23,0,0.23,36
-11,DC,District of Columbia,0.235,0,0.235,*36
-12,FL,Florida,0.04,0.3799,0.4199,10
-13,GA,Georgia,0.275,0.0765,0.3515,17
-15,HI,Hawaii,0.16,0.3225,0.4825,5
+5,AR,Arkansas,0.245,0.003,0.248,34
+6,CA,California,0.473,0.133,0.606,1
+8,CO,Colorado,0.22,0,0.22,41
+9,CT,Connecticut,0.25,0.1513,0.4013,11
+10,DE,Delaware,0.23,0,0.23,38
+11,DC,District of Columbia,0.235,0,0.235,*38
+12,FL,Florida,0.04,0.3829,0.4229,8
+13,GA,Georgia,0.279,0.0657,0.3447,18
+15,HI,Hawaii,0.16,0.3237,0.4837,5
 16,ID,Idaho,0.32,0.01,0.33,20
-17,IL,Illinois,0.38,0.1698,0.5498,3
+17,IL,Illinois,0.38,0.1565,0.5365,3
 18,IN,Indiana,0.3,0.1662,0.4662,6
 19,IA,Iowa,0.305,0,0.305,25
-20,KS,Kansas,0.24,0.00025,0.24025,33
-21,KY,Kentucky,0.246,0.014,0.26,32
+20,KS,Kansas,0.24,0.00025,0.24025,35
+21,KY,Kentucky,0.246,0.014,0.26,33
 22,LA,Louisiana,0.2,0.0001,0.2001,43
-23,ME,Maine,0.3,0.0001,0.3001,26
+23,ME,Maine,0.3,0.0001,0.3001,27
 24,MD,Maryland,0.262,0.105,0.367,14
-25,MA,Massachusetts,0.24,0.0254,0.2654,31
-26,MI,Michigan,0.263,0.1618,0.4248,8
+25,MA,Massachusetts,0.24,0.0254,0.2654,32
+26,MI,Michigan,0.263,0.1568,0.4198,9
 27,MN,Minnesota,0.285,0.001,0.286,29
 28,MS,Mississippi,0.18,0.0079,0.1879,48
 29,MO,Missouri,0.17,0.0042,0.1742,49
 30,MT,Montana,0.32,0.0075,0.3275,22
-31,NE,Nebraska,0.297,0.009,0.306,24
+31,NE,Nebraska,0.293,0.009,0.302,26
 32,NV,Nevada,0.23,0.1078,0.3378,19
-33,NH,New Hampshire,0.222,0.0163,0.2383,35
-34,NJ,New Jersey,0.105,0.309,0.414,11
+33,NH,New Hampshire,0.222,0.0163,0.2383,37
+34,NJ,New Jersey,0.105,0.309,0.414,10
 35,NM,New Mexico,0.17,0.0188,0.1888,47
-36,NY,New York,0.0805,0.3791,0.4596,7
-37,NC,North Carolina,0.362,0.0025,0.3645,15
-38,ND,North Dakota,0.23,0,0.23,36
+36,NY,New York,0.0805,0.3698,0.4503,7
+37,NC,North Carolina,0.361,0.0025,0.3635,15
+38,ND,North Dakota,0.23,0,0.23,38
 39,OH,Ohio,0.385,0.0001,0.3851,12
 40,OK,Oklahoma,0.19,0.01,0.2,44
 41,OR,Oregon,0.34,0.0282,0.3682,13
 42,PA,Pennsylvania,0,0.587,0.587,2
-44,RI,Rhode Island,0.34,0.01,0.35,18
-45,SC,South Carolina,0.2,0.0075,0.2075,42
+44,RI,Rhode Island,0.34,0.01,0.35,17
+45,SC,South Carolina,0.22,0.0075,0.2275,40
 46,SD,South Dakota,0.28,0.02,0.3,28
 47,TN,Tennessee,0.26,0.014,0.274,30
 48,TX,Texas,0.2,0,0.2,44
-49,UT,Utah,0.3,0.0001,0.3001,26
-50,VT,Vermont,0.121,0.1891,0.3101,23
-51,VA,Virginia,0.162,0.0575,0.2195,39
+49,UT,Utah,0.311,0.0001,0.3111,23
+50,VT,Vermont,0.121,0.1871,0.3081,24
+51,VA,Virginia,0.162,0.0575,0.2195,42
 53,WA,Washington,0.494,0,0.494,4
 54,WV,West Virginia,0.205,0.152,0.357,16
 55,WI,Wisconsin,0.309,0.02,0.329,21
-56,WY,Wyoming,0.23,0.01,0.24,34
+56,WY,Wyoming,0.23,0.01,0.24,36

@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,taxPerGallon,taxPerGallonRank
-0,US,United States,13.50,
-1,AL,Alabama,19.15,4
-2,AK,Alaska,12.80,8
-4,AZ,Arizona,3.00,43
-5,AR,Arkansas,7.73,18
-6,CA,California,3.30,40
+0,US,United States,13.5,
+1,AL,Alabama,19.11,4
+2,AK,Alaska,12.8,8
+4,AZ,Arizona,3,43
+5,AR,Arkansas,8.41,16
+6,CA,California,3.3,40
 8,CO,Colorado,2.28,47
-9,CT,Connecticut,5.40,29
-10,DE,Delaware,4.50,34
-11,DC,District of Columbia,6.19,24*
+9,CT,Connecticut,5.4,29
+10,DE,Delaware,4.5,34
+11,DC,District of Columbia,6.2,24*
 12,FL,Florida,6.50,22
 13,GA,Georgia,3.79,37
 15,HI,Hawaii,5.98,25
-16,ID,Idaho,10.95,11
+16,ID,Idaho,10.91,11
 17,IL,Illinois,8.55,15
 18,IN,Indiana,2.68,44
-19,IA,Iowa,13.07,7
+19,IA,Iowa,13.03,7
 20,KS,Kansas,2.50,45
-21,KY,Kentucky,8.04,17
+21,KY,Kentucky,8.33,17
 22,LA,Louisiana,3.03,42
-23,ME,Maine,12.00,9
-24,MD,Maryland,5.02,31
+23,ME,Maine,11.96,9
+24,MD,Maryland,5.03,32
 25,MA,Massachusetts,4.05,36
-26,MI,Michigan,11.99,10
-27,MN,Minnesota,8.96,14
-28,MS,Mississippi,8.15,16
+26,MI,Michigan,11.95,10
+27,MN,Minnesota,9.01,14
+28,MS,Mississippi,8.11,18
 29,MO,Missouri,2.00,48
-30,MT,Montana,9.78,13
+30,MT,Montana,9.75,13
 31,NE,Nebraska,3.75,38
 32,NV,Nevada,3.60,39
 33,NH,New Hampshire,--,--
 34,NJ,New Jersey,5.50,27
 35,NM,New Mexico,6.06,24
 36,NY,New York,6.44,23
-37,NC,North Carolina,14.63,6
-38,ND,North Dakota,4.92,32
-39,OH,Ohio,9.87,12
+37,NC,North Carolina,14.58,6
+38,ND,North Dakota,5.12,31
+39,OH,Ohio,9.83,12
 40,OK,Oklahoma,5.56,26
-41,OR,Oregon,21.98,2
-42,PA,Pennsylvania,7.24,21
+41,OR,Oregon,21.95,2
+42,PA,Pennsylvania,7.21,21
 44,RI,Rhode Island,5.40,29
 45,SC,South Carolina,5.42,28
 46,SD,South Dakota,4.67,33
 47,TN,Tennessee,4.46,35
 48,TX,Texas,2.40,46
-49,UT,Utah,15.96,5
-50,VT,Vermont,7.72,19
-51,VA,Virginia,19.93,3
-53,WA,Washington,32.52,1
-54,WV,West Virginia,7.67,20
+49,UT,Utah,15.92,5
+50,VT,Vermont,7.68,19
+51,VA,Virginia,19.89,3
+53,WA,Washington,33.22,1
+54,WV,West Virginia,7.62,20
 55,WI,Wisconsin,3.25,41
 56,WY,Wyoming,--,--

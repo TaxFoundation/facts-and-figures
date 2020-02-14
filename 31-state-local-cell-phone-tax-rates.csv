@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,averageCellTaxRate,averageCellTaxRateRank
-0,US,United States,0.0664,
-1,AL,Alabama,0.1053,28
-2,AK,Alaska,0.1949,2
-4,AZ,Arizona,0.1257,18
-5,AR,Arkansas,0.1522,8
-6,CA,California,0.1323,17
-8,CO,Colorado,0.1234,21
-9,CT,Connecticut,0.0782,43
-10,DE,Delaware,0.0655,47
-11,DC,District of Columbia,0.1197,22*
-12,FL,Florida,0.1483,9
-13,GA,Georgia,0.1153,24
-15,HI,Hawaii,0.0775,44
-16,ID,Idaho,0.0259,49
-17,IL,Illinois,0.2091,1
-18,IN,Indiana,0.1179,22
-19,IA,Iowa,0.0916,31
-20,KS,Kansas,0.1459,12
-21,KY,Kentucky,0.1092,26
-22,LA,Louisiana,0.105,29
-23,ME,Maine,0.0893,35
-24,MD,Maryland,0.1389,15
-25,MA,Massachusetts,0.0884,37
-26,MI,Michigan,0.0835,42
-27,MN,Minnesota,0.1054,27
-28,MS,Mississippi,0.0959,30
-29,MO,Missouri,0.1479,10
-30,MT,Montana,0.066,46
-31,NE,Nebraska,0.1884,4
-32,NV,Nevada,0.0327,48
-33,NH,New Hampshire,0.0894,34
-34,NJ,New Jersey,0.0895,33
-35,NM,New Mexico,0.1349,16
-36,NY,New York,0.1856,5
-37,NC,North Carolina,0.0889,36
-38,ND,North Dakota,0.1413,14
-39,OH,Ohio,0.0855,40
-40,OK,Oklahoma,0.1127,25
-41,OR,Oregon,0.021,50
-42,PA,Pennsylvania,0.1627,6
-44,RI,Rhode Island,0.1526,7
-45,SC,South Carolina,0.1256,19
-46,SD,South Dakota,0.1422,13
-47,TN,Tennessee,0.125,20
-48,TX,Texas,0.1177,23
-49,UT,Utah,0.147,11
-50,VT,Vermont,0.085,41
-51,VA,Virginia,0.0694,45
-53,WA,Washington,0.1941,3
-54,WV,West Virginia,0.0864,39
-55,WI,Wisconsin,0.0899,32
-56,WY,Wyoming,0.0874,38
+0,US,United States,0.0905,
+1,AL,Alabama,0.1091,26
+2,AK,Alaska,0.1394,16
+4,AZ,Arizona,0.1263,19
+5,AR,Arkansas,0.1639,6
+6,CA,California,0.1305,17
+8,CO,Colorado,0.1183,23
+9,CT,Connecticut,0.0788,42
+10,DE,Delaware,0.0664,47
+11,DC,District of Columbia,0.1201,22*
+12,FL,Florida,0.1486,12
+13,GA,Georgia,0.1178,25
+15,HI,Hawaii,0.0779,43
+16,ID,Idaho,0.0264,49
+17,IL,Illinois,0.2214,1
+18,IN,Indiana,0.1193,22
+19,IA,Iowa,0.0972,33
+20,KS,Kansas,0.1503,10
+21,KY,Kentucky,0.1091,26
+22,LA,Louisiana,0.0963,34
+23,ME,Maine,0.0906,35
+24,MD,Maryland,0.1472,13
+25,MA,Massachusetts,0.1021,29
+26,MI,Michigan,0.0991,31
+27,MN,Minnesota,0.1059,28
+28,MS,Mississippi,0.0977,32
+29,MO,Missouri,0.1491,11
+30,MT,Montana,0.0666,46
+31,NE,Nebraska,0.1902,3
+32,NV,Nevada,0.0344,48
+33,NH,New Hampshire,0.0898,37
+34,NJ,New Jersey,0.09,36
+35,NM,New Mexico,0.1299,18
+36,NY,New York,0.1865,4
+37,NC,North Carolina,0.0893,38
+38,ND,North Dakota,0.1511,9
+39,OH,Ohio,0.0851,41
+40,OK,Oklahoma,0.145,14
+41,OR,Oregon,0.0227,50
+42,PA,Pennsylvania,0.1636,7
+44,RI,Rhode Island,0.1533,8
+45,SC,South Carolina,0.1241,21
+46,SD,South Dakota,0.1429,15
+47,TN,Tennessee,0.1256,20
+48,TX,Texas,0.1181,24
+49,UT,Utah,0.165,5
+50,VT,Vermont,0.089,39
+51,VA,Virginia,0.0698,45
+53,WA,Washington,0.1971,2
+54,WV,West Virginia,0.102,30
+55,WI,Wisconsin,0.0771,44
+56,WY,Wyoming,0.0879,40

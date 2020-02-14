@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,revenuePerCapita,revenuePerCapitaRank
-0,US,United States,6064,
-1,AL,Alabama,5492,35
-2,AK,Alaska,11281,1
-4,AZ,Arizona,4943,45
-5,AR,Arkansas,7040,16
-6,CA,California,7299,13
-8,CO,Colorado,4970,44
-9,CT,Connecticut,7752,11
-10,DE,Delaware,8670,5
-12,FL,Florida,4003,50
-13,GA,Georgia,4230,49
-15,HI,Hawaii,9423,3
-16,ID,Idaho,5911,32
-17,IL,Illinois,5311,37
-18,IN,Indiana,5774,33
-19,IA,Iowa,6718,19
-20,KS,Kansas,6071,28
-21,KY,Kentucky,6222,26
-22,LA,Louisiana,5933,31
-23,ME,Maine,6422,22
-24,MD,Maryland,6778,18
-25,MA,Massachusetts,7987,9
-26,MI,Michigan,6424,21
-27,MN,Minnesota,7416,12
-28,MS,Mississippi,6352,24
-29,MO,Missouri,4830,46
-30,MT,Montana,6300,25
-31,NE,Nebraska,5221,40
-32,NV,Nevada,5117,42
-33,NH,New Hampshire,5222,39
-34,NJ,New Jersey,6980,17
-35,NM,New Mexico,8218,7
-36,NY,New York,8292,6
-37,NC,North Carolina,5178,41
-38,ND,North Dakota,8801,4
-39,OH,Ohio,5985,30
-40,OK,Oklahoma,5368,36
-41,OR,Oregon,7899,10
-42,PA,Pennsylvania,6611,20
-44,RI,Rhode Island,7084,15
-45,SC,South Carolina,5305,38
-46,SD,South Dakota,5068,43
-47,TN,Tennessee,4378,48
-48,TX,Texas,4549,47
-49,UT,Utah,6029,29
-50,VT,Vermont,8184,8
-51,VA,Virginia,5571,34
-53,WA,Washington,6359,23
-54,WV,West Virginia,7260,14
-55,WI,Wisconsin,6133,27
-56,WY,Wyoming,9762,2
+0,US,United States,6416,
+1,AL,Alabama,5780,34
+2,AK,Alaska,11055,1
+4,AZ,Arizona,5335,42
+5,AR,Arkansas,7101,18
+6,CA,California,8096,11
+8,CO,Colorado,5422,41
+9,CT,Connecticut,8534,8
+10,DE,Delaware,9590,6
+12,FL,Florida,4309,49
+13,GA,Georgia,4291,50
+15,HI,Hawaii,9911,4
+16,ID,Idaho,5219,44
+17,IL,Illinois,5773,35
+18,IN,Indiana,6059,30
+19,IA,Iowa,7627,15
+20,KS,Kansas,6553,26
+21,KY,Kentucky,6557,25
+22,LA,Louisiana,6272,28
+23,ME,Maine,6586,24
+24,MD,Maryland,6967,19
+25,MA,Massachusetts,8417,9
+26,MI,Michigan,6620,22
+27,MN,Minnesota,7926,13
+28,MS,Mississippi,6408,27
+29,MO,Missouri,5054,45
+30,MT,Montana,6610,23
+31,NE,Nebraska,5427,39
+32,NV,Nevada,5302,43
+33,NH,New Hampshire,5578,37
+34,NJ,New Jersey,7488,16
+35,NM,New Mexico,8412,10
+36,NY,New York,8966,7
+37,NC,North Carolina,5426,40
+38,ND,North Dakota,10192,2
+39,OH,Ohio,5924,32
+40,OK,Oklahoma,5601,36
+41,OR,Oregon,7669,14
+42,PA,Pennsylvania,6849,20
+44,RI,Rhode Island,7950,12
+45,SC,South Carolina,5542,38
+46,SD,South Dakota,4998,46
+47,TN,Tennessee,4466,48
+48,TX,Texas,4795,47
+49,UT,Utah,5909,33
+50,VT,Vermont,10157,3
+51,VA,Virginia,5974,31
+53,WA,Washington,6758,21
+54,WV,West Virginia,7183,17
+55,WI,Wisconsin,6240,29
+56,WY,Wyoming,9697,5

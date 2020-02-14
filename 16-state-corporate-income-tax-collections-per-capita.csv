@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,139,
-1,AL,Alabama,107,30
-2,AK,Alaska,119,28
-4,AZ,Arizona,52,41
-5,AR,Arkansas,132,20
-6,CA,California,256,5
-8,CO,Colorado,94,34
-9,CT,Connecticut,250,6
-10,DE,Delaware,256,4
-12,FL,Florida,114,29
-13,GA,Georgia,93,35
-15,HI,Hawaii,129,23
-16,ID,Idaho,126,24
-17,IL,Illinois,225,8
-18,IN,Indiana,154,14
-19,IA,Iowa,137,17
-20,KS,Kansas,133,19
-21,KY,Kentucky,103,32
-22,LA,Louisiana,62,40
-23,ME,Maine,131,21
-24,MD,Maryland,166,13
-25,MA,Massachusetts,320,2
-26,MI,Michigan,120,26
-27,MN,Minnesota,220,9
-28,MS,Mississippi,137,18
-29,MO,Missouri,50,42
-30,MT,Montana,119,27
-31,NE,Nebraska,138,16
+0,US,United States,147,
+1,AL,Alabama,118,27
+2,AK,Alaska,266,4
+4,AZ,Arizona,52,43
+5,AR,Arkansas,130,25
+6,CA,California,316,3
+8,CO,Colorado,116,28
+9,CT,Connecticut,218,9
+10,DE,Delaware,263,5
+12,FL,Florida,114,30
+13,GA,Georgia,95,36
+15,HI,Hawaii,103,34
+16,ID,Idaho,137,24
+17,IL,Illinois,203,10
+18,IN,Indiana,104,33
+19,IA,Iowa,140,22
+20,KS,Kansas,150,19
+21,KY,Kentucky,114,29
+22,LA,Louisiana,77,38
+23,ME,Maine,139,23
+24,MD,Maryland,171,15
+25,MA,Massachusetts,349,2
+26,MI,Michigan,110,32
+27,MN,Minnesota,242,8
+28,MS,Mississippi,146,20
+29,MO,Missouri,54,42
+30,MT,Montana,166,16
+31,NE,Nebraska,163,17
 32,NV,Nevada,0,--
-33,NH,New Hampshire,427,1
-34,NJ,New Jersey,234,7
-35,NM,New Mexico,44,43
-36,NY,New York,203,10
-37,NC,North Carolina,74,38
-38,ND,North Dakota,81,36
+33,NH,New Hampshire,582,1
+34,NJ,New Jersey,251,6
+35,NM,New Mexico,44,44
+36,NY,New York,185,13
+37,NC,North Carolina,72,39
+38,ND,North Dakota,141,21
 39,OH,Ohio,1,--
-40,OK,Oklahoma,40,44
-41,OR,Oregon,153,15
-42,PA,Pennsylvania,183,11
-44,RI,Rhode Island,122,25
-45,SC,South Carolina,75,37
-46,SD,South Dakota,35,45
-47,TN,Tennessee,257,3
+40,OK,Oklahoma,60,41
+41,OR,Oregon,192,12
+42,PA,Pennsylvania,194,11
+44,RI,Rhode Island,112,31
+45,SC,South Carolina,83,37
+46,SD,South Dakota,37,45
+47,TN,Tennessee,243,7
 48,TX,Texas,0,--
-49,UT,Utah,106,31
-50,VT,Vermont,131,22
-51,VA,Virginia,98,33
+49,UT,Utah,127,26
+50,VT,Vermont,177,14
+51,VA,Virginia,101,35
 53,WA,Washington,0,--
-54,WV,West Virginia,64,39
-55,WI,Wisconsin,166,12
+54,WV,West Virginia,61,40
+55,WI,Wisconsin,157,18
 56,WY,Wyoming,0,--

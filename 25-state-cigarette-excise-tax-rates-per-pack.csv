@@ -1,53 +1,53 @@
 id,stateAbbr,stateName,taxPerPack,taxPerPackRank
 0,US,United States,1.0066,
 1,AL,Alabama,0.675,40
-2,AK,Alaska,2,15
-4,AZ,Arizona,2,15
+2,AK,Alaska,2,16
+4,AZ,Arizona,2,16
 5,AR,Arkansas,1.15,34
-6,CA,California,2.87,9
+6,CA,California,2.87,10
 8,CO,Colorado,0.84,38
 9,CT,Connecticut,4.35,1
-10,DE,Delaware,2.1,13
-11,DC,District of Columbia,4.5,1*
+10,DE,Delaware,2.1,14
+11,DC,District of Columbia,4.98,1*
 12,FL,Florida,1.339,30
 13,GA,Georgia,0.37,48
 15,HI,Hawaii,3.2,5
 16,ID,Idaho,0.57,44
-17,IL,Illinois,1.98,20
+17,IL,Illinois,2.98,9
 18,IN,Indiana,0.995,37
 19,IA,Iowa,1.36,29
 20,KS,Kansas,1.29,32
 21,KY,Kentucky,1.1,35
 22,LA,Louisiana,1.08,36
-23,ME,Maine,2,15
-24,MD,Maryland,2,15
+23,ME,Maine,2,16
+24,MD,Maryland,2,16
 25,MA,Massachusetts,3.51,4
-26,MI,Michigan,2,15
+26,MI,Michigan,2,16
 27,MN,Minnesota,3.04,7
 28,MS,Mississippi,0.68,39
 29,MO,Missouri,0.17,50
-30,MT,Montana,1.7,23
+30,MT,Montana,1.7,24
 31,NE,Nebraska,0.64,41
-32,NV,Nevada,1.8,21
-33,NH,New Hampshire,1.78,22
-34,NJ,New Jersey,2.7,10
-35,NM,New Mexico,1.66,25
+32,NV,Nevada,1.8,22
+33,NH,New Hampshire,1.78,23
+34,NJ,New Jersey,2.7,11
+35,NM,New Mexico,2,16
 36,NY,New York,4.35,1
 37,NC,North Carolina,0.45,46
 38,ND,North Dakota,0.44,47
 39,OH,Ohio,1.6,26
-40,OK,Oklahoma,2.03,14
+40,OK,Oklahoma,2.03,15
 41,OR,Oregon,1.33,31
-42,PA,Pennsylvania,2.6,11
+42,PA,Pennsylvania,2.6,12
 44,RI,Rhode Island,4.25,3
 45,SC,South Carolina,0.57,44
 46,SD,South Dakota,1.53,27
 47,TN,Tennessee,0.62,42
 48,TX,Texas,1.41,28
-49,UT,Utah,1.7,23
+49,UT,Utah,1.7,24
 50,VT,Vermont,3.08,6
 51,VA,Virginia,0.3,49
 53,WA,Washington,3.025,8
 54,WV,West Virginia,1.2,33
-55,WI,Wisconsin,2.52,12
+55,WI,Wisconsin,2.52,13
 56,WY,Wyoming,0.6,43

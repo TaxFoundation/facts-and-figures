@@ -1,52 +1,52 @@
 id,stateAbbr,stateName,collectionsPerCapita,collectionsPerCapitaRank
-0,US,United States,1083,
-1,AL,Alabama,744,35
+0,US,United States,1198,
+1,AL,Alabama,801,35
 2,AK,Alaska,0,--
-4,AZ,Arizona,491,40
-5,AR,Arkansas,921,30
-6,CA,California,2130,4
-8,CO,Colorado,1211,13
-9,CT,Connecticut,2218,2
-10,DE,Delaware,1228,12
+4,AZ,Arizona,634,38
+5,AR,Arkansas,951,31
+6,CA,California,2405,3
+8,CO,Colorado,1319,13
+9,CT,Connecticut,2724,1
+10,DE,Delaware,1708,8
 12,FL,Florida,0,--
-13,GA,Georgia,1053,22
-15,HI,Hawaii,1468,10
-16,ID,Idaho,967,27
-17,IL,Illinois,1036,23
-18,IN,Indiana,815,32
-19,IA,Iowa,1162,18
-20,KS,Kansas,799,33
-21,KY,Kentucky,987,26
-22,LA,Louisiana,630,38
-23,ME,Maine,1149,20
-24,MD,Maryland,1498,9
-25,MA,Massachusetts,2146,3
-26,MI,Michigan,952,28
-27,MN,Minnesota,1965,6
-28,MS,Mississippi,615,39
-29,MO,Missouri,1006,24
-30,MT,Montana,1121,21
-31,NE,Nebraska,1161,19
+13,GA,Georgia,1107,24
+15,HI,Hawaii,1711,7
+16,ID,Idaho,1047,27
+17,IL,Illinois,1201,21
+18,IN,Indiana,869,34
+19,IA,Iowa,1235,17
+20,KS,Kansas,1172,23
+21,KY,Kentucky,1007,29
+22,LA,Louisiana,697,37
+23,ME,Maine,1199,22
+24,MD,Maryland,1573,11
+25,MA,Massachusetts,2359,4
+26,MI,Michigan,1024,28
+27,MN,Minnesota,2118,6
+28,MS,Mississippi,620,39
+29,MO,Missouri,1063,26
+30,MT,Montana,1225,18
+31,NE,Nebraska,1224,19
 32,NV,Nevada,0,--
-33,NH,New Hampshire,49,42
-34,NJ,New Jersey,1550,7
-35,NM,New Mexico,641,37
-36,NY,New York,2249,1
-37,NC,North Carolina,1176,15
-38,ND,North Dakota,423,41
-39,OH,Ohio,719,36
-40,OK,Oklahoma,794,34
-41,OR,Oregon,2023,5
-42,PA,Pennsylvania,942,29
-44,RI,Rhode Island,1169,16
-45,SC,South Carolina,824,31
+33,NH,New Hampshire,78,42
+34,NJ,New Jersey,1688,9
+35,NM,New Mexico,598,40
+36,NY,New York,2699,2
+37,NC,North Carolina,1214,20
+38,ND,North Dakota,484,41
+39,OH,Ohio,744,36
+40,OK,Oklahoma,886,32
+41,OR,Oregon,2119,5
+42,PA,Pennsylvania,1000,30
+44,RI,Rhode Island,1257,16
+45,SC,South Carolina,872,33
 46,SD,South Dakota,0,--
-47,TN,Tennessee,37,43
+47,TN,Tennessee,36,43
 48,TX,Texas,0,--
-49,UT,Utah,1167,17
-50,VT,Vermont,1192,14
-51,VA,Virginia,1541,8
+49,UT,Utah,1263,15
+50,VT,Vermont,1308,14
+51,VA,Virginia,1656,10
 53,WA,Washington,0,--
-54,WV,West Virginia,999,25
-55,WI,Wisconsin,1345,11
+54,WV,West Virginia,1080,25
+55,WI,Wisconsin,1402,12
 56,WY,Wyoming,0,--
